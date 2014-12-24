@@ -1,0 +1,3907 @@
+,gender,math_level,percent,state,year
+0,All,Nothing,2.92,Jammu & Kashmir,2007
+1,All,Nothing,1.90,Himachal Pradesh,2007
+2,All,Nothing,4.61,Punjab,2007
+3,All,Nothing,6.55,Uttaranchal,2007
+4,All,Nothing,6.85,Haryana,2007
+5,All,Nothing,8.63,Rajasthan,2007
+6,All,Nothing,13.41,Uttar Pradesh,2007
+7,All,Nothing,12.26,Bihar,2007
+8,All,Nothing,0.86,Sikkim,2007
+9,All,Nothing,3.69,Arunachal Pradesh,2007
+10,All,Nothing,1.84,Nagaland,2007
+11,All,Nothing,1.89,Manipur,2007
+12,All,Nothing,4.20,Tripura,2007
+13,All,Nothing,4.65,Meghalaya,2007
+14,All,Nothing,6.24,Assam,2007
+15,All,Nothing,4.33,West Bengal,2007
+16,All,Nothing,9.83,Jharkhand,2007
+17,All,Nothing,10.07,Orissa,2007
+18,All,Nothing,6.14,Chhattisgarh,2007
+19,All,Nothing,2.37,Madhya Pradesh,2007
+20,All,Nothing,5.27,Gujarat,2007
+21,All,Nothing,2.84,Daman and Diu,2007
+22,All,Nothing,3.16,Dadra and Nagar Haveli,2007
+23,All,Nothing,2.52,Maharashtra,2007
+24,All,Nothing,4.48,Andhra Pradesh,2007
+25,All,Nothing,5.79,Karnataka,2007
+26,All,Nothing,1.47,Goa,2007
+27,All,Nothing,1.63,Kerela,2007
+28,All,Nothing,8.57,Tamil Nadu,2007
+29,All,Nothing,6.70,Pondicherry,2007
+30,All,Nothing,7.62,India,2007
+31,All,NumRec1-9,9.37,Jammu & Kashmir,2007
+32,All,NumRec1-9,9.14,Himachal Pradesh,2007
+33,All,NumRec1-9,14.29,Punjab,2007
+34,All,NumRec1-9,14.17,Uttaranchal,2007
+35,All,NumRec1-9,11.57,Haryana,2007
+36,All,NumRec1-9,16.51,Rajasthan,2007
+37,All,NumRec1-9,22.34,Uttar Pradesh,2007
+38,All,NumRec1-9,15.69,Bihar,2007
+39,All,NumRec1-9,7.25,Sikkim,2007
+40,All,NumRec1-9,11.52,Arunachal Pradesh,2007
+41,All,NumRec1-9,9.98,Nagaland,2007
+42,All,NumRec1-9,8.08,Manipur,2007
+43,All,NumRec1-9,9.61,Tripura,2007
+44,All,NumRec1-9,15.06,Meghalaya,2007
+45,All,NumRec1-9,16.44,Assam,2007
+46,All,NumRec1-9,13.86,West Bengal,2007
+47,All,NumRec1-9,20.42,Jharkhand,2007
+48,All,NumRec1-9,16.00,Orissa,2007
+49,All,NumRec1-9,20.90,Chhattisgarh,2007
+50,All,NumRec1-9,12.03,Madhya Pradesh,2007
+51,All,NumRec1-9,16.73,Gujarat,2007
+52,All,NumRec1-9,12.80,Daman and Diu,2007
+53,All,NumRec1-9,17.43,Dadra and Nagar Haveli,2007
+54,All,NumRec1-9,11.83,Maharashtra,2007
+55,All,NumRec1-9,9.27,Andhra Pradesh,2007
+56,All,NumRec1-9,12.75,Karnataka,2007
+57,All,NumRec1-9,7.18,Goa,2007
+58,All,NumRec1-9,7.76,Kerela,2007
+59,All,NumRec1-9,9.60,Tamil Nadu,2007
+60,All,NumRec1-9,11.35,Pondicherry,2007
+61,All,NumRec1-9,15.17,India,2007
+62,All,NumRec11-,23.89,Jammu & Kashmir,2007
+63,All,NumRec11-,14.63,Himachal Pradesh,2007
+64,All,NumRec11-,13.98,Punjab,2007
+65,All,NumRec11-,18.20,Uttaranchal,2007
+66,All,NumRec11-,13.59,Haryana,2007
+67,All,NumRec11-,18.11,Rajasthan,2007
+68,All,NumRec11-,19.54,Uttar Pradesh,2007
+69,All,NumRec11-,14.97,Bihar,2007
+70,All,NumRec11-,21.38,Sikkim,2007
+71,All,NumRec11-,23.26,Arunachal Pradesh,2007
+72,All,NumRec11-,25.05,Nagaland,2007
+73,All,NumRec11-,21.47,Manipur,2007
+74,All,NumRec11-,18.70,Tripura,2007
+75,All,NumRec11-,23.56,Meghalaya,2007
+76,All,NumRec11-,21.72,Assam,2007
+77,All,NumRec11-,17.19,West Bengal,2007
+78,All,NumRec11-,17.49,Jharkhand,2007
+79,All,NumRec11-,19.67,Orissa,2007
+80,All,NumRec11-,20.16,Chhattisgarh,2007
+81,All,NumRec11-,18.06,Madhya Pradesh,2007
+82,All,NumRec11-,22.51,Gujarat,2007
+83,All,NumRec11-,21.18,Daman and Diu,2007
+84,All,NumRec11-,21.74,Dadra and Nagar Haveli,2007
+85,All,NumRec11-,22.19,Maharashtra,2007
+86,All,NumRec11-,26.69,Andhra Pradesh,2007
+87,All,NumRec11-,31.14,Karnataka,2007
+88,All,NumRec11-,10.70,Goa,2007
+89,All,NumRec11-,19.94,Kerela,2007
+90,All,NumRec11-,24.76,Tamil Nadu,2007
+91,All,NumRec11-,21.91,Pondicherry,2007
+92,All,NumRec11-,20.19,India,2007
+93,All,Subtracti,30.22,Jammu & Kashmir,2007
+94,All,Subtracti,20.24,Himachal Pradesh,2007
+95,All,Subtracti,19.95,Punjab,2007
+96,All,Subtracti,18.40,Uttaranchal,2007
+97,All,Subtracti,16.31,Haryana,2007
+98,All,Subtracti,18.40,Rajasthan,2007
+99,All,Subtracti,17.60,Uttar Pradesh,2007
+100,All,Subtracti,17.79,Bihar,2007
+101,All,Subtracti,28.13,Sikkim,2007
+102,All,Subtracti,26.89,Arunachal Pradesh,2007
+103,All,Subtracti,26.00,Nagaland,2007
+104,All,Subtracti,24.13,Manipur,2007
+105,All,Subtracti,24.92,Tripura,2007
+106,All,Subtracti,23.18,Meghalaya,2007
+107,All,Subtracti,27.68,Assam,2007
+108,All,Subtracti,23.66,West Bengal,2007
+109,All,Subtracti,20.32,Jharkhand,2007
+110,All,Subtracti,23.18,Orissa,2007
+111,All,Subtracti,21.23,Chhattisgarh,2007
+112,All,Subtracti,20.74,Madhya Pradesh,2007
+113,All,Subtracti,24.37,Gujarat,2007
+114,All,Subtracti,21.22,Daman and Diu,2007
+115,All,Subtracti,21.36,Dadra and Nagar Haveli,2007
+116,All,Subtracti,25.71,Maharashtra,2007
+117,All,Subtracti,24.15,Andhra Pradesh,2007
+118,All,Subtracti,26.26,Karnataka,2007
+119,All,Subtracti,18.13,Goa,2007
+120,All,Subtracti,26.63,Kerela,2007
+121,All,Subtracti,28.52,Tamil Nadu,2007
+122,All,Subtracti,27.87,Pondicherry,2007
+123,All,Subtracti,21.82,India,2007
+124,All,Division,33.59,Jammu & Kashmir,2007
+125,All,Division,54.09,Himachal Pradesh,2007
+126,All,Division,47.17,Punjab,2007
+127,All,Division,42.67,Uttaranchal,2007
+128,All,Division,51.67,Haryana,2007
+129,All,Division,38.34,Rajasthan,2007
+130,All,Division,27.11,Uttar Pradesh,2007
+131,All,Division,39.28,Bihar,2007
+132,All,Division,42.38,Sikkim,2007
+133,All,Division,34.64,Arunachal Pradesh,2007
+134,All,Division,37.14,Nagaland,2007
+135,All,Division,44.43,Manipur,2007
+136,All,Division,42.56,Tripura,2007
+137,All,Division,33.54,Meghalaya,2007
+138,All,Division,27.92,Assam,2007
+139,All,Division,40.97,West Bengal,2007
+140,All,Division,31.93,Jharkhand,2007
+141,All,Division,31.08,Orissa,2007
+142,All,Division,31.56,Chhattisgarh,2007
+143,All,Division,46.79,Madhya Pradesh,2007
+144,All,Division,31.12,Gujarat,2007
+145,All,Division,41.96,Daman and Diu,2007
+146,All,Division,36.30,Dadra and Nagar Haveli,2007
+147,All,Division,37.76,Maharashtra,2007
+148,All,Division,35.41,Andhra Pradesh,2007
+149,All,Division,24.07,Karnataka,2007
+150,All,Division,62.52,Goa,2007
+151,All,Division,44.04,Kerela,2007
+152,All,Division,28.54,Tamil Nadu,2007
+153,All,Division,32.17,Pondicherry,2007
+154,All,Division,35.21,India,2007
+155,All,Total,100.00,Jammu & Kashmir,2007
+156,All,Total,100.00,Himachal Pradesh,2007
+157,All,Total,100.00,Punjab,2007
+158,All,Total,100.00,Uttaranchal,2007
+159,All,Total,100.00,Haryana,2007
+160,All,Total,100.00,Rajasthan,2007
+161,All,Total,100.00,Uttar Pradesh,2007
+162,All,Total,100.00,Bihar,2007
+163,All,Total,100.00,Sikkim,2007
+164,All,Total,100.00,Arunachal Pradesh,2007
+165,All,Total,100.00,Nagaland,2007
+166,All,Total,100.00,Manipur,2007
+167,All,Total,100.00,Tripura,2007
+168,All,Total,100.00,Meghalaya,2007
+169,All,Total,100.00,Assam,2007
+170,All,Total,100.00,West Bengal,2007
+171,All,Total,100.00,Jharkhand,2007
+172,All,Total,100.00,Orissa,2007
+173,All,Total,100.00,Chhattisgarh,2007
+174,All,Total,100.00,Madhya Pradesh,2007
+175,All,Total,100.00,Gujarat,2007
+176,All,Total,100.00,Daman and Diu,2007
+177,All,Total,100.00,Dadra and Nagar Haveli,2007
+178,All,Total,100.00,Maharashtra,2007
+179,All,Total,100.00,Andhra Pradesh,2007
+180,All,Total,100.00,Karnataka,2007
+181,All,Total,100.00,Goa,2007
+182,All,Total,100.00,Kerela,2007
+183,All,Total,100.00,Tamil Nadu,2007
+184,All,Total,100.00,Pondicherry,2007
+185,All,Total,100.00,India,2007
+186,Female,Nothing,3.21,Jammu & Kashmir,2007
+187,Female,Nothing,1.77,Himachal Pradesh,2007
+188,Female,Nothing,4.57,Punjab,2007
+189,Female,Nothing,6.60,Uttaranchal,2007
+190,Female,Nothing,7.19,Haryana,2007
+191,Female,Nothing,9.62,Rajasthan,2007
+192,Female,Nothing,14.43,Uttar Pradesh,2007
+193,Female,Nothing,13.34,Bihar,2007
+194,Female,Nothing,0.50,Sikkim,2007
+195,Female,Nothing,3.69,Arunachal Pradesh,2007
+196,Female,Nothing,1.90,Nagaland,2007
+197,Female,Nothing,2.07,Manipur,2007
+198,Female,Nothing,3.86,Tripura,2007
+199,Female,Nothing,4.24,Meghalaya,2007
+200,Female,Nothing,6.45,Assam,2007
+201,Female,Nothing,4.41,West Bengal,2007
+202,Female,Nothing,9.98,Jharkhand,2007
+203,Female,Nothing,9.84,Orissa,2007
+204,Female,Nothing,6.27,Chhattisgarh,2007
+205,Female,Nothing,2.44,Madhya Pradesh,2007
+206,Female,Nothing,5.35,Gujarat,2007
+207,Female,Nothing,2.77,Daman and Diu,2007
+208,Female,Nothing,3.27,Dadra and Nagar Haveli,2007
+209,Female,Nothing,2.28,Maharashtra,2007
+210,Female,Nothing,4.49,Andhra Pradesh,2007
+211,Female,Nothing,5.89,Karnataka,2007
+212,Female,Nothing,1.58,Goa,2007
+213,Female,Nothing,1.59,Kerela,2007
+214,Female,Nothing,8.66,Tamil Nadu,2007
+215,Female,Nothing,6.82,Pondicherry,2007
+216,Female,Nothing,7.82,India,2007
+217,Female,NumRec1-9,10.11,Jammu & Kashmir,2007
+218,Female,NumRec1-9,9.53,Himachal Pradesh,2007
+219,Female,NumRec1-9,13.94,Punjab,2007
+220,Female,NumRec1-9,14.55,Uttaranchal,2007
+221,Female,NumRec1-9,11.23,Haryana,2007
+222,Female,NumRec1-9,17.63,Rajasthan,2007
+223,Female,NumRec1-9,23.91,Uttar Pradesh,2007
+224,Female,NumRec1-9,16.86,Bihar,2007
+225,Female,NumRec1-9,6.80,Sikkim,2007
+226,Female,NumRec1-9,11.66,Arunachal Pradesh,2007
+227,Female,NumRec1-9,9.20,Nagaland,2007
+228,Female,NumRec1-9,8.46,Manipur,2007
+229,Female,NumRec1-9,10.65,Tripura,2007
+230,Female,NumRec1-9,15.25,Meghalaya,2007
+231,Female,NumRec1-9,17.10,Assam,2007
+232,Female,NumRec1-9,13.95,West Bengal,2007
+233,Female,NumRec1-9,22.35,Jharkhand,2007
+234,Female,NumRec1-9,16.32,Orissa,2007
+235,Female,NumRec1-9,20.90,Chhattisgarh,2007
+236,Female,NumRec1-9,12.50,Madhya Pradesh,2007
+237,Female,NumRec1-9,17.18,Gujarat,2007
+238,Female,NumRec1-9,12.88,Daman and Diu,2007
+239,Female,NumRec1-9,18.78,Dadra and Nagar Haveli,2007
+240,Female,NumRec1-9,11.60,Maharashtra,2007
+241,Female,NumRec1-9,9.21,Andhra Pradesh,2007
+242,Female,NumRec1-9,12.64,Karnataka,2007
+243,Female,NumRec1-9,6.80,Goa,2007
+244,Female,NumRec1-9,7.30,Kerela,2007
+245,Female,NumRec1-9,9.71,Tamil Nadu,2007
+246,Female,NumRec1-9,13.76,Pondicherry,2007
+247,Female,NumRec1-9,15.54,India,2007
+248,Female,NumRec11-,23.38,Jammu & Kashmir,2007
+249,Female,NumRec11-,13.61,Himachal Pradesh,2007
+250,Female,NumRec11-,13.49,Punjab,2007
+251,Female,NumRec11-,17.74,Uttaranchal,2007
+252,Female,NumRec11-,13.28,Haryana,2007
+253,Female,NumRec11-,18.76,Rajasthan,2007
+254,Female,NumRec11-,20.27,Uttar Pradesh,2007
+255,Female,NumRec11-,15.40,Bihar,2007
+256,Female,NumRec11-,20.65,Sikkim,2007
+257,Female,NumRec11-,24.09,Arunachal Pradesh,2007
+258,Female,NumRec11-,25.11,Nagaland,2007
+259,Female,NumRec11-,21.06,Manipur,2007
+260,Female,NumRec11-,17.04,Tripura,2007
+261,Female,NumRec11-,22.37,Meghalaya,2007
+262,Female,NumRec11-,21.64,Assam,2007
+263,Female,NumRec11-,18.16,West Bengal,2007
+264,Female,NumRec11-,18.08,Jharkhand,2007
+265,Female,NumRec11-,19.88,Orissa,2007
+266,Female,NumRec11-,19.83,Chhattisgarh,2007
+267,Female,NumRec11-,19.00,Madhya Pradesh,2007
+268,Female,NumRec11-,22.92,Gujarat,2007
+269,Female,NumRec11-,19.81,Daman and Diu,2007
+270,Female,NumRec11-,22.65,Dadra and Nagar Haveli,2007
+271,Female,NumRec11-,21.78,Maharashtra,2007
+272,Female,NumRec11-,26.95,Andhra Pradesh,2007
+273,Female,NumRec11-,30.97,Karnataka,2007
+274,Female,NumRec11-,11.41,Goa,2007
+275,Female,NumRec11-,18.87,Kerela,2007
+276,Female,NumRec11-,24.74,Tamil Nadu,2007
+277,Female,NumRec11-,20.56,Pondicherry,2007
+278,Female,NumRec11-,20.64,India,2007
+279,Female,Subtracti,30.28,Jammu & Kashmir,2007
+280,Female,Subtracti,19.25,Himachal Pradesh,2007
+281,Female,Subtracti,20.03,Punjab,2007
+282,Female,Subtracti,19.21,Uttaranchal,2007
+283,Female,Subtracti,16.74,Haryana,2007
+284,Female,Subtracti,18.54,Rajasthan,2007
+285,Female,Subtracti,17.69,Uttar Pradesh,2007
+286,Female,Subtracti,18.05,Bihar,2007
+287,Female,Subtracti,28.72,Sikkim,2007
+288,Female,Subtracti,27.85,Arunachal Pradesh,2007
+289,Female,Subtracti,26.09,Nagaland,2007
+290,Female,Subtracti,24.49,Manipur,2007
+291,Female,Subtracti,26.06,Tripura,2007
+292,Female,Subtracti,22.41,Meghalaya,2007
+293,Female,Subtracti,28.04,Assam,2007
+294,Female,Subtracti,24.63,West Bengal,2007
+295,Female,Subtracti,19.85,Jharkhand,2007
+296,Female,Subtracti,23.23,Orissa,2007
+297,Female,Subtracti,21.41,Chhattisgarh,2007
+298,Female,Subtracti,21.14,Madhya Pradesh,2007
+299,Female,Subtracti,23.82,Gujarat,2007
+300,Female,Subtracti,20.63,Daman and Diu,2007
+301,Female,Subtracti,20.41,Dadra and Nagar Haveli,2007
+302,Female,Subtracti,26.04,Maharashtra,2007
+303,Female,Subtracti,24.97,Andhra Pradesh,2007
+304,Female,Subtracti,26.17,Karnataka,2007
+305,Female,Subtracti,20.45,Goa,2007
+306,Female,Subtracti,25.78,Kerela,2007
+307,Female,Subtracti,28.54,Tamil Nadu,2007
+308,Female,Subtracti,28.47,Pondicherry,2007
+309,Female,Subtracti,22.21,India,2007
+310,Female,Division,33.01,Jammu & Kashmir,2007
+311,Female,Division,55.83,Himachal Pradesh,2007
+312,Female,Division,47.96,Punjab,2007
+313,Female,Division,41.90,Uttaranchal,2007
+314,Female,Division,51.57,Haryana,2007
+315,Female,Division,35.45,Rajasthan,2007
+316,Female,Division,23.70,Uttar Pradesh,2007
+317,Female,Division,36.35,Bihar,2007
+318,Female,Division,43.32,Sikkim,2007
+319,Female,Division,32.71,Arunachal Pradesh,2007
+320,Female,Division,37.70,Nagaland,2007
+321,Female,Division,43.92,Manipur,2007
+322,Female,Division,42.38,Tripura,2007
+323,Female,Division,35.72,Meghalaya,2007
+324,Female,Division,26.77,Assam,2007
+325,Female,Division,38.85,West Bengal,2007
+326,Female,Division,29.74,Jharkhand,2007
+327,Female,Division,30.73,Orissa,2007
+328,Female,Division,31.58,Chhattisgarh,2007
+329,Female,Division,44.93,Madhya Pradesh,2007
+330,Female,Division,30.73,Gujarat,2007
+331,Female,Division,43.92,Daman and Diu,2007
+332,Female,Division,34.90,Dadra and Nagar Haveli,2007
+333,Female,Division,38.30,Maharashtra,2007
+334,Female,Division,34.39,Andhra Pradesh,2007
+335,Female,Division,24.33,Karnataka,2007
+336,Female,Division,59.75,Goa,2007
+337,Female,Division,46.47,Kerela,2007
+338,Female,Division,28.36,Tamil Nadu,2007
+339,Female,Division,30.39,Pondicherry,2007
+340,Female,Division,33.79,India,2007
+341,Female,Total,100.00,Jammu & Kashmir,2007
+342,Female,Total,100.00,Himachal Pradesh,2007
+343,Female,Total,100.00,Punjab,2007
+344,Female,Total,100.00,Uttaranchal,2007
+345,Female,Total,100.00,Haryana,2007
+346,Female,Total,100.00,Rajasthan,2007
+347,Female,Total,100.00,Uttar Pradesh,2007
+348,Female,Total,100.00,Bihar,2007
+349,Female,Total,100.00,Sikkim,2007
+350,Female,Total,100.00,Arunachal Pradesh,2007
+351,Female,Total,100.00,Nagaland,2007
+352,Female,Total,100.00,Manipur,2007
+353,Female,Total,100.00,Tripura,2007
+354,Female,Total,100.00,Meghalaya,2007
+355,Female,Total,100.00,Assam,2007
+356,Female,Total,100.00,West Bengal,2007
+357,Female,Total,100.00,Jharkhand,2007
+358,Female,Total,100.00,Orissa,2007
+359,Female,Total,100.00,Chhattisgarh,2007
+360,Female,Total,100.00,Madhya Pradesh,2007
+361,Female,Total,100.00,Gujarat,2007
+362,Female,Total,100.00,Daman and Diu,2007
+363,Female,Total,100.00,Dadra and Nagar Haveli,2007
+364,Female,Total,100.00,Maharashtra,2007
+365,Female,Total,100.00,Andhra Pradesh,2007
+366,Female,Total,100.00,Karnataka,2007
+367,Female,Total,100.00,Goa,2007
+368,Female,Total,100.00,Kerela,2007
+369,Female,Total,100.00,Tamil Nadu,2007
+370,Female,Total,100.00,Pondicherry,2007
+371,Female,Total,100.00,India,2007
+372,Male,Nothing,2.69,Jammu & Kashmir,2007
+373,Male,Nothing,2.02,Himachal Pradesh,2007
+374,Male,Nothing,4.64,Punjab,2007
+375,Male,Nothing,6.51,Uttaranchal,2007
+376,Male,Nothing,6.60,Haryana,2007
+377,Male,Nothing,7.95,Rajasthan,2007
+378,Male,Nothing,12.64,Uttar Pradesh,2007
+379,Male,Nothing,11.48,Bihar,2007
+380,Male,Nothing,1.20,Sikkim,2007
+381,Male,Nothing,3.69,Arunachal Pradesh,2007
+382,Male,Nothing,1.79,Nagaland,2007
+383,Male,Nothing,1.74,Manipur,2007
+384,Male,Nothing,4.51,Tripura,2007
+385,Male,Nothing,5.05,Meghalaya,2007
+386,Male,Nothing,6.04,Assam,2007
+387,Male,Nothing,4.25,West Bengal,2007
+388,Male,Nothing,9.71,Jharkhand,2007
+389,Male,Nothing,10.28,Orissa,2007
+390,Male,Nothing,6.02,Chhattisgarh,2007
+391,Male,Nothing,2.31,Madhya Pradesh,2007
+392,Male,Nothing,5.21,Gujarat,2007
+393,Male,Nothing,2.90,Daman and Diu,2007
+394,Male,Nothing,3.07,Dadra and Nagar Haveli,2007
+395,Male,Nothing,2.72,Maharashtra,2007
+396,Male,Nothing,4.47,Andhra Pradesh,2007
+397,Male,Nothing,5.68,Karnataka,2007
+398,Male,Nothing,1.38,Goa,2007
+399,Male,Nothing,1.68,Kerela,2007
+400,Male,Nothing,8.49,Tamil Nadu,2007
+401,Male,Nothing,6.57,Pondicherry,2007
+402,Male,Nothing,7.45,India,2007
+403,Male,NumRec1-9,8.78,Jammu & Kashmir,2007
+404,Male,NumRec1-9,8.78,Himachal Pradesh,2007
+405,Male,NumRec1-9,14.56,Punjab,2007
+406,Male,NumRec1-9,13.84,Uttaranchal,2007
+407,Male,NumRec1-9,11.83,Haryana,2007
+408,Male,NumRec1-9,15.74,Rajasthan,2007
+409,Male,NumRec1-9,21.16,Uttar Pradesh,2007
+410,Male,NumRec1-9,14.83,Bihar,2007
+411,Male,NumRec1-9,7.67,Sikkim,2007
+412,Male,NumRec1-9,11.39,Arunachal Pradesh,2007
+413,Male,NumRec1-9,10.63,Nagaland,2007
+414,Male,NumRec1-9,7.74,Manipur,2007
+415,Male,NumRec1-9,8.67,Tripura,2007
+416,Male,NumRec1-9,14.87,Meghalaya,2007
+417,Male,NumRec1-9,15.84,Assam,2007
+418,Male,NumRec1-9,13.77,West Bengal,2007
+419,Male,NumRec1-9,18.84,Jharkhand,2007
+420,Male,NumRec1-9,15.71,Orissa,2007
+421,Male,NumRec1-9,20.90,Chhattisgarh,2007
+422,Male,NumRec1-9,11.66,Madhya Pradesh,2007
+423,Male,NumRec1-9,16.40,Gujarat,2007
+424,Male,NumRec1-9,12.73,Daman and Diu,2007
+425,Male,NumRec1-9,16.25,Dadra and Nagar Haveli,2007
+426,Male,NumRec1-9,12.03,Maharashtra,2007
+427,Male,NumRec1-9,9.33,Andhra Pradesh,2007
+428,Male,NumRec1-9,12.86,Karnataka,2007
+429,Male,NumRec1-9,7.51,Goa,2007
+430,Male,NumRec1-9,8.24,Kerela,2007
+431,Male,NumRec1-9,9.51,Tamil Nadu,2007
+432,Male,NumRec1-9,8.90,Pondicherry,2007
+433,Male,NumRec1-9,14.86,India,2007
+434,Male,NumRec11-,24.30,Jammu & Kashmir,2007
+435,Male,NumRec11-,15.59,Himachal Pradesh,2007
+436,Male,NumRec11-,14.34,Punjab,2007
+437,Male,NumRec11-,18.60,Uttaranchal,2007
+438,Male,NumRec11-,13.83,Haryana,2007
+439,Male,NumRec11-,17.67,Rajasthan,2007
+440,Male,NumRec11-,18.99,Uttar Pradesh,2007
+441,Male,NumRec11-,14.65,Bihar,2007
+442,Male,NumRec11-,22.06,Sikkim,2007
+443,Male,NumRec11-,22.54,Arunachal Pradesh,2007
+444,Male,NumRec11-,25.00,Nagaland,2007
+445,Male,NumRec11-,21.83,Manipur,2007
+446,Male,NumRec11-,20.19,Tripura,2007
+447,Male,NumRec11-,24.72,Meghalaya,2007
+448,Male,NumRec11-,21.80,Assam,2007
+449,Male,NumRec11-,16.37,West Bengal,2007
+450,Male,NumRec11-,17.01,Jharkhand,2007
+451,Male,NumRec11-,19.48,Orissa,2007
+452,Male,NumRec11-,20.47,Chhattisgarh,2007
+453,Male,NumRec11-,17.31,Madhya Pradesh,2007
+454,Male,NumRec11-,22.20,Gujarat,2007
+455,Male,NumRec11-,22.45,Daman and Diu,2007
+456,Male,NumRec11-,20.94,Dadra and Nagar Haveli,2007
+457,Male,NumRec11-,22.56,Maharashtra,2007
+458,Male,NumRec11-,26.41,Andhra Pradesh,2007
+459,Male,NumRec11-,31.30,Karnataka,2007
+460,Male,NumRec11-,10.07,Goa,2007
+461,Male,NumRec11-,21.03,Kerela,2007
+462,Male,NumRec11-,24.78,Tamil Nadu,2007
+463,Male,NumRec11-,23.28,Pondicherry,2007
+464,Male,NumRec11-,19.80,India,2007
+465,Male,Subtracti,30.17,Jammu & Kashmir,2007
+466,Male,Subtracti,21.16,Himachal Pradesh,2007
+467,Male,Subtracti,19.89,Punjab,2007
+468,Male,Subtracti,17.70,Uttaranchal,2007
+469,Male,Subtracti,15.99,Haryana,2007
+470,Male,Subtracti,18.31,Rajasthan,2007
+471,Male,Subtracti,17.54,Uttar Pradesh,2007
+472,Male,Subtracti,17.61,Bihar,2007
+473,Male,Subtracti,27.58,Sikkim,2007
+474,Male,Subtracti,26.05,Arunachal Pradesh,2007
+475,Male,Subtracti,25.92,Nagaland,2007
+476,Male,Subtracti,23.81,Manipur,2007
+477,Male,Subtracti,23.90,Tripura,2007
+478,Male,Subtracti,23.95,Meghalaya,2007
+479,Male,Subtracti,27.34,Assam,2007
+480,Male,Subtracti,22.85,West Bengal,2007
+481,Male,Subtracti,20.70,Jharkhand,2007
+482,Male,Subtracti,23.14,Orissa,2007
+483,Male,Subtracti,21.06,Chhattisgarh,2007
+484,Male,Subtracti,20.42,Madhya Pradesh,2007
+485,Male,Subtracti,24.78,Gujarat,2007
+486,Male,Subtracti,21.77,Daman and Diu,2007
+487,Male,Subtracti,22.20,Dadra and Nagar Haveli,2007
+488,Male,Subtracti,25.42,Maharashtra,2007
+489,Male,Subtracti,23.31,Andhra Pradesh,2007
+490,Male,Subtracti,26.35,Karnataka,2007
+491,Male,Subtracti,16.09,Goa,2007
+492,Male,Subtracti,27.49,Kerela,2007
+493,Male,Subtracti,28.50,Tamil Nadu,2007
+494,Male,Subtracti,27.27,Pondicherry,2007
+495,Male,Subtracti,21.49,India,2007
+496,Male,Division,34.05,Jammu & Kashmir,2007
+497,Male,Division,52.45,Himachal Pradesh,2007
+498,Male,Division,46.57,Punjab,2007
+499,Male,Division,43.35,Uttaranchal,2007
+500,Male,Division,51.74,Haryana,2007
+501,Male,Division,40.33,Rajasthan,2007
+502,Male,Division,29.68,Uttar Pradesh,2007
+503,Male,Division,41.42,Bihar,2007
+504,Male,Division,41.49,Sikkim,2007
+505,Male,Division,36.32,Arunachal Pradesh,2007
+506,Male,Division,36.66,Nagaland,2007
+507,Male,Division,44.88,Manipur,2007
+508,Male,Division,42.73,Tripura,2007
+509,Male,Division,31.40,Meghalaya,2007
+510,Male,Division,28.98,Assam,2007
+511,Male,Division,42.75,West Bengal,2007
+512,Male,Division,33.75,Jharkhand,2007
+513,Male,Division,31.39,Orissa,2007
+514,Male,Division,31.54,Chhattisgarh,2007
+515,Male,Division,48.29,Madhya Pradesh,2007
+516,Male,Division,31.41,Gujarat,2007
+517,Male,Division,40.15,Daman and Diu,2007
+518,Male,Division,37.55,Dadra and Nagar Haveli,2007
+519,Male,Division,37.28,Maharashtra,2007
+520,Male,Division,36.47,Andhra Pradesh,2007
+521,Male,Division,23.81,Karnataka,2007
+522,Male,Division,64.94,Goa,2007
+523,Male,Division,41.56,Kerela,2007
+524,Male,Division,28.72,Tamil Nadu,2007
+525,Male,Division,33.98,Pondicherry,2007
+526,Male,Division,36.39,India,2007
+527,Male,Total,100.00,Jammu & Kashmir,2007
+528,Male,Total,100.00,Himachal Pradesh,2007
+529,Male,Total,100.00,Punjab,2007
+530,Male,Total,100.00,Uttaranchal,2007
+531,Male,Total,100.00,Haryana,2007
+532,Male,Total,100.00,Rajasthan,2007
+533,Male,Total,100.00,Uttar Pradesh,2007
+534,Male,Total,100.00,Bihar,2007
+535,Male,Total,100.00,Sikkim,2007
+536,Male,Total,100.00,Arunachal Pradesh,2007
+537,Male,Total,100.00,Nagaland,2007
+538,Male,Total,100.00,Manipur,2007
+539,Male,Total,100.00,Tripura,2007
+540,Male,Total,100.00,Meghalaya,2007
+541,Male,Total,100.00,Assam,2007
+542,Male,Total,100.00,West Bengal,2007
+543,Male,Total,100.00,Jharkhand,2007
+544,Male,Total,100.00,Orissa,2007
+545,Male,Total,100.00,Chhattisgarh,2007
+546,Male,Total,100.00,Madhya Pradesh,2007
+547,Male,Total,100.00,Gujarat,2007
+548,Male,Total,100.00,Daman and Diu,2007
+549,Male,Total,100.00,Dadra and Nagar Haveli,2007
+550,Male,Total,100.00,Maharashtra,2007
+551,Male,Total,100.00,Andhra Pradesh,2007
+552,Male,Total,100.00,Karnataka,2007
+553,Male,Total,100.00,Goa,2007
+554,Male,Total,100.00,Kerela,2007
+555,Male,Total,100.00,Tamil Nadu,2007
+556,Male,Total,100.00,Pondicherry,2007
+557,Male,Total,100.00,India,2007
+0,All,Nothing,3.61,Jammu & Kashmir,2008
+1,All,Nothing,2.06,Himachal Pradesh,2008
+2,All,Nothing,4.73,Punjab,2008
+3,All,Nothing,5.95,Uttaranchal,2008
+4,All,Nothing,6.31,Haryana,2008
+5,All,Nothing,9.80,Rajasthan,2008
+6,All,Nothing,15.28,Uttar Pradesh,2008
+7,All,Nothing,12.07,Bihar,2008
+8,All,Nothing,1.54,Sikkim,2008
+9,All,Nothing,2.70,Arunachal Pradesh,2008
+10,All,Nothing,1.24,Nagaland,2008
+11,All,Nothing,0.89,Manipur,2008
+12,All,Nothing,2.38,Mizoram,2008
+13,All,Nothing,6.24,Tripura,2008
+14,All,Nothing,3.59,Meghalaya,2008
+15,All,Nothing,7.66,Assam,2008
+16,All,Nothing,5.03,West Bengal,2008
+17,All,Nothing,11.06,Jharkhand,2008
+18,All,Nothing,7.85,Orissa,2008
+19,All,Nothing,1.61,Chhattisgarh,2008
+20,All,Nothing,1.15,Madhya Pradesh,2008
+21,All,Nothing,7.84,Gujarat,2008
+22,All,Nothing,3.29,Daman and Diu,2008
+23,All,Nothing,1.89,Dadra and Nagar Haveli,2008
+24,All,Nothing,2.74,Maharashtra,2008
+25,All,Nothing,3.26,Andhra Pradesh,2008
+26,All,Nothing,4.87,Karnataka,2008
+27,All,Nothing,0.77,Goa,2008
+28,All,Nothing,0.76,Kerela,2008
+29,All,Nothing,8.51,Tamil Nadu,2008
+30,All,Nothing,4.16,Pondicherry,2008
+31,All,Nothing,7.81,India,2008
+32,All,NumRec1-9,11.90,Jammu & Kashmir,2008
+33,All,NumRec1-9,9.63,Himachal Pradesh,2008
+34,All,NumRec1-9,15.72,Punjab,2008
+35,All,NumRec1-9,15.74,Uttaranchal,2008
+36,All,NumRec1-9,13.28,Haryana,2008
+37,All,NumRec1-9,17.98,Rajasthan,2008
+38,All,NumRec1-9,24.35,Uttar Pradesh,2008
+39,All,NumRec1-9,18.05,Bihar,2008
+40,All,NumRec1-9,7.81,Sikkim,2008
+41,All,NumRec1-9,12.25,Arunachal Pradesh,2008
+42,All,NumRec1-9,8.39,Nagaland,2008
+43,All,NumRec1-9,7.65,Manipur,2008
+44,All,NumRec1-9,9.01,Mizoram,2008
+45,All,NumRec1-9,11.56,Tripura,2008
+46,All,NumRec1-9,14.38,Meghalaya,2008
+47,All,NumRec1-9,20.90,Assam,2008
+48,All,NumRec1-9,17.08,West Bengal,2008
+49,All,NumRec1-9,19.36,Jharkhand,2008
+50,All,NumRec1-9,15.60,Orissa,2008
+51,All,NumRec1-9,9.09,Chhattisgarh,2008
+52,All,NumRec1-9,11.77,Madhya Pradesh,2008
+53,All,NumRec1-9,18.64,Gujarat,2008
+54,All,NumRec1-9,13.10,Daman and Diu,2008
+55,All,NumRec1-9,11.68,Dadra and Nagar Haveli,2008
+56,All,NumRec1-9,14.09,Maharashtra,2008
+57,All,NumRec1-9,9.66,Andhra Pradesh,2008
+58,All,NumRec1-9,13.43,Karnataka,2008
+59,All,NumRec1-9,7.42,Goa,2008
+60,All,NumRec1-9,5.37,Kerela,2008
+61,All,NumRec1-9,10.03,Tamil Nadu,2008
+62,All,NumRec1-9,8.77,Pondicherry,2008
+63,All,NumRec1-9,16.17,India,2008
+64,All,NumRec11-,25.86,Jammu & Kashmir,2008
+65,All,NumRec11-,15.85,Himachal Pradesh,2008
+66,All,NumRec11-,15.95,Punjab,2008
+67,All,NumRec11-,17.63,Uttaranchal,2008
+68,All,NumRec11-,14.71,Haryana,2008
+69,All,NumRec11-,17.25,Rajasthan,2008
+70,All,NumRec11-,19.89,Uttar Pradesh,2008
+71,All,NumRec11-,15.53,Bihar,2008
+72,All,NumRec11-,22.88,Sikkim,2008
+73,All,NumRec11-,20.41,Arunachal Pradesh,2008
+74,All,NumRec11-,29.35,Nagaland,2008
+75,All,NumRec11-,25.21,Manipur,2008
+76,All,NumRec11-,16.18,Mizoram,2008
+77,All,NumRec11-,23.88,Tripura,2008
+78,All,NumRec11-,31.13,Meghalaya,2008
+79,All,NumRec11-,23.51,Assam,2008
+80,All,NumRec11-,20.78,West Bengal,2008
+81,All,NumRec11-,19.13,Jharkhand,2008
+82,All,NumRec11-,18.03,Orissa,2008
+83,All,NumRec11-,19.69,Chhattisgarh,2008
+84,All,NumRec11-,14.24,Madhya Pradesh,2008
+85,All,NumRec11-,22.77,Gujarat,2008
+86,All,NumRec11-,19.41,Daman and Diu,2008
+87,All,NumRec11-,18.13,Dadra and Nagar Haveli,2008
+88,All,NumRec11-,19.16,Maharashtra,2008
+89,All,NumRec11-,24.83,Andhra Pradesh,2008
+90,All,NumRec11-,32.16,Karnataka,2008
+91,All,NumRec11-,14.12,Goa,2008
+92,All,NumRec11-,19.76,Kerela,2008
+93,All,NumRec11-,26.76,Tamil Nadu,2008
+94,All,NumRec11-,26.00,Pondicherry,2008
+95,All,NumRec11-,20.25,India,2008
+96,All,Subtracti,30.01,Jammu & Kashmir,2008
+97,All,Subtracti,21.12,Himachal Pradesh,2008
+98,All,Subtracti,24.24,Punjab,2008
+99,All,Subtracti,21.33,Uttaranchal,2008
+100,All,Subtracti,17.21,Haryana,2008
+101,All,Subtracti,17.66,Rajasthan,2008
+102,All,Subtracti,16.13,Uttar Pradesh,2008
+103,All,Subtracti,16.99,Bihar,2008
+104,All,Subtracti,28.41,Sikkim,2008
+105,All,Subtracti,24.54,Arunachal Pradesh,2008
+106,All,Subtracti,25.95,Nagaland,2008
+107,All,Subtracti,25.70,Manipur,2008
+108,All,Subtracti,20.80,Mizoram,2008
+109,All,Subtracti,29.08,Tripura,2008
+110,All,Subtracti,26.57,Meghalaya,2008
+111,All,Subtracti,25.83,Assam,2008
+112,All,Subtracti,23.51,West Bengal,2008
+113,All,Subtracti,20.67,Jharkhand,2008
+114,All,Subtracti,22.82,Orissa,2008
+115,All,Subtracti,23.46,Chhattisgarh,2008
+116,All,Subtracti,17.97,Madhya Pradesh,2008
+117,All,Subtracti,22.41,Gujarat,2008
+118,All,Subtracti,29.94,Daman and Diu,2008
+119,All,Subtracti,21.36,Dadra and Nagar Haveli,2008
+120,All,Subtracti,23.21,Maharashtra,2008
+121,All,Subtracti,25.86,Andhra Pradesh,2008
+122,All,Subtracti,26.95,Karnataka,2008
+123,All,Subtracti,22.49,Goa,2008
+124,All,Subtracti,27.66,Kerela,2008
+125,All,Subtracti,27.16,Tamil Nadu,2008
+126,All,Subtracti,22.07,Pondicherry,2008
+127,All,Subtracti,21.27,India,2008
+128,All,Division,28.62,Jammu & Kashmir,2008
+129,All,Division,51.34,Himachal Pradesh,2008
+130,All,Division,39.37,Punjab,2008
+131,All,Division,39.35,Uttaranchal,2008
+132,All,Division,48.49,Haryana,2008
+133,All,Division,37.30,Rajasthan,2008
+134,All,Division,24.35,Uttar Pradesh,2008
+135,All,Division,37.35,Bihar,2008
+136,All,Division,39.36,Sikkim,2008
+137,All,Division,40.11,Arunachal Pradesh,2008
+138,All,Division,35.08,Nagaland,2008
+139,All,Division,40.54,Manipur,2008
+140,All,Division,51.63,Mizoram,2008
+141,All,Division,29.25,Tripura,2008
+142,All,Division,24.33,Meghalaya,2008
+143,All,Division,22.11,Assam,2008
+144,All,Division,33.60,West Bengal,2008
+145,All,Division,29.78,Jharkhand,2008
+146,All,Division,35.69,Orissa,2008
+147,All,Division,46.15,Chhattisgarh,2008
+148,All,Division,54.87,Madhya Pradesh,2008
+149,All,Division,28.34,Gujarat,2008
+150,All,Division,34.25,Daman and Diu,2008
+151,All,Division,46.94,Dadra and Nagar Haveli,2008
+152,All,Division,40.80,Maharashtra,2008
+153,All,Division,36.39,Andhra Pradesh,2008
+154,All,Division,22.59,Karnataka,2008
+155,All,Division,55.20,Goa,2008
+156,All,Division,46.44,Kerela,2008
+157,All,Division,27.54,Tamil Nadu,2008
+158,All,Division,39.00,Pondicherry,2008
+159,All,Division,34.50,India,2008
+160,All,Total,100.00,Jammu & Kashmir,2008
+161,All,Total,100.00,Himachal Pradesh,2008
+162,All,Total,100.00,Punjab,2008
+163,All,Total,100.00,Uttaranchal,2008
+164,All,Total,100.00,Haryana,2008
+165,All,Total,100.00,Rajasthan,2008
+166,All,Total,100.00,Uttar Pradesh,2008
+167,All,Total,100.00,Bihar,2008
+168,All,Total,100.00,Sikkim,2008
+169,All,Total,100.00,Arunachal Pradesh,2008
+170,All,Total,100.00,Nagaland,2008
+171,All,Total,100.00,Manipur,2008
+172,All,Total,100.00,Mizoram,2008
+173,All,Total,100.00,Tripura,2008
+174,All,Total,100.00,Meghalaya,2008
+175,All,Total,100.00,Assam,2008
+176,All,Total,100.00,West Bengal,2008
+177,All,Total,100.00,Jharkhand,2008
+178,All,Total,100.00,Orissa,2008
+179,All,Total,100.00,Chhattisgarh,2008
+180,All,Total,100.00,Madhya Pradesh,2008
+181,All,Total,100.00,Gujarat,2008
+182,All,Total,100.00,Daman and Diu,2008
+183,All,Total,100.00,Dadra and Nagar Haveli,2008
+184,All,Total,100.00,Maharashtra,2008
+185,All,Total,100.00,Andhra Pradesh,2008
+186,All,Total,100.00,Karnataka,2008
+187,All,Total,100.00,Goa,2008
+188,All,Total,100.00,Kerela,2008
+189,All,Total,100.00,Tamil Nadu,2008
+190,All,Total,100.00,Pondicherry,2008
+191,All,Total,100.00,India,2008
+192,Female,Nothing,3.76,Jammu & Kashmir,2008
+193,Female,Nothing,2.29,Himachal Pradesh,2008
+194,Female,Nothing,4.41,Punjab,2008
+195,Female,Nothing,5.98,Uttaranchal,2008
+196,Female,Nothing,6.33,Haryana,2008
+197,Female,Nothing,10.74,Rajasthan,2008
+198,Female,Nothing,16.57,Uttar Pradesh,2008
+199,Female,Nothing,13.12,Bihar,2008
+200,Female,Nothing,0.91,Sikkim,2008
+201,Female,Nothing,2.80,Arunachal Pradesh,2008
+202,Female,Nothing,1.36,Nagaland,2008
+203,Female,Nothing,0.91,Manipur,2008
+204,Female,Nothing,2.71,Mizoram,2008
+205,Female,Nothing,6.45,Tripura,2008
+206,Female,Nothing,3.23,Meghalaya,2008
+207,Female,Nothing,7.95,Assam,2008
+208,Female,Nothing,4.72,West Bengal,2008
+209,Female,Nothing,12.03,Jharkhand,2008
+210,Female,Nothing,8.24,Orissa,2008
+211,Female,Nothing,1.63,Chhattisgarh,2008
+212,Female,Nothing,1.09,Madhya Pradesh,2008
+213,Female,Nothing,8.55,Gujarat,2008
+214,Female,Nothing,3.66,Daman and Diu,2008
+215,Female,Nothing,1.31,Dadra and Nagar Haveli,2008
+216,Female,Nothing,2.83,Maharashtra,2008
+217,Female,Nothing,3.23,Andhra Pradesh,2008
+218,Female,Nothing,4.87,Karnataka,2008
+219,Female,Nothing,0.54,Goa,2008
+220,Female,Nothing,0.54,Kerela,2008
+221,Female,Nothing,8.36,Tamil Nadu,2008
+222,Female,Nothing,4.32,Pondicherry,2008
+223,Female,Nothing,8.08,India,2008
+224,Female,NumRec1-9,12.16,Jammu & Kashmir,2008
+225,Female,NumRec1-9,9.42,Himachal Pradesh,2008
+226,Female,NumRec1-9,15.56,Punjab,2008
+227,Female,NumRec1-9,16.91,Uttaranchal,2008
+228,Female,NumRec1-9,13.79,Haryana,2008
+229,Female,NumRec1-9,19.92,Rajasthan,2008
+230,Female,NumRec1-9,27.19,Uttar Pradesh,2008
+231,Female,NumRec1-9,19.49,Bihar,2008
+232,Female,NumRec1-9,8.60,Sikkim,2008
+233,Female,NumRec1-9,11.66,Arunachal Pradesh,2008
+234,Female,NumRec1-9,8.83,Nagaland,2008
+235,Female,NumRec1-9,7.99,Manipur,2008
+236,Female,NumRec1-9,9.28,Mizoram,2008
+237,Female,NumRec1-9,12.26,Tripura,2008
+238,Female,NumRec1-9,14.95,Meghalaya,2008
+239,Female,NumRec1-9,20.77,Assam,2008
+240,Female,NumRec1-9,16.47,West Bengal,2008
+241,Female,NumRec1-9,21.36,Jharkhand,2008
+242,Female,NumRec1-9,16.16,Orissa,2008
+243,Female,NumRec1-9,9.80,Chhattisgarh,2008
+244,Female,NumRec1-9,12.08,Madhya Pradesh,2008
+245,Female,NumRec1-9,19.50,Gujarat,2008
+246,Female,NumRec1-9,13.33,Daman and Diu,2008
+247,Female,NumRec1-9,12.66,Dadra and Nagar Haveli,2008
+248,Female,NumRec1-9,14.49,Maharashtra,2008
+249,Female,NumRec1-9,9.28,Andhra Pradesh,2008
+250,Female,NumRec1-9,13.53,Karnataka,2008
+251,Female,NumRec1-9,7.67,Goa,2008
+252,Female,NumRec1-9,5.18,Kerela,2008
+253,Female,NumRec1-9,9.86,Tamil Nadu,2008
+254,Female,NumRec1-9,9.19,Pondicherry,2008
+255,Female,NumRec1-9,16.84,India,2008
+256,Female,NumRec11-,26.90,Jammu & Kashmir,2008
+257,Female,NumRec11-,15.58,Himachal Pradesh,2008
+258,Female,NumRec11-,15.58,Punjab,2008
+259,Female,NumRec11-,18.02,Uttaranchal,2008
+260,Female,NumRec11-,14.58,Haryana,2008
+261,Female,NumRec11-,17.82,Rajasthan,2008
+262,Female,NumRec11-,20.01,Uttar Pradesh,2008
+263,Female,NumRec11-,15.99,Bihar,2008
+264,Female,NumRec11-,22.44,Sikkim,2008
+265,Female,NumRec11-,19.42,Arunachal Pradesh,2008
+266,Female,NumRec11-,29.30,Nagaland,2008
+267,Female,NumRec11-,26.14,Manipur,2008
+268,Female,NumRec11-,15.00,Mizoram,2008
+269,Female,NumRec11-,22.81,Tripura,2008
+270,Female,NumRec11-,30.61,Meghalaya,2008
+271,Female,NumRec11-,23.04,Assam,2008
+272,Female,NumRec11-,21.78,West Bengal,2008
+273,Female,NumRec11-,19.10,Jharkhand,2008
+274,Female,NumRec11-,17.98,Orissa,2008
+275,Female,NumRec11-,19.36,Chhattisgarh,2008
+276,Female,NumRec11-,14.78,Madhya Pradesh,2008
+277,Female,NumRec11-,23.57,Gujarat,2008
+278,Female,NumRec11-,16.20,Daman and Diu,2008
+279,Female,NumRec11-,18.56,Dadra and Nagar Haveli,2008
+280,Female,NumRec11-,19.13,Maharashtra,2008
+281,Female,NumRec11-,25.16,Andhra Pradesh,2008
+282,Female,NumRec11-,31.51,Karnataka,2008
+283,Female,NumRec11-,15.37,Goa,2008
+284,Female,NumRec11-,18.85,Kerela,2008
+285,Female,NumRec11-,26.08,Tamil Nadu,2008
+286,Female,NumRec11-,28.11,Pondicherry,2008
+287,Female,NumRec11-,20.56,India,2008
+288,Female,Subtracti,31.39,Jammu & Kashmir,2008
+289,Female,Subtracti,20.88,Himachal Pradesh,2008
+290,Female,Subtracti,23.44,Punjab,2008
+291,Female,Subtracti,22.25,Uttaranchal,2008
+292,Female,Subtracti,16.89,Haryana,2008
+293,Female,Subtracti,17.42,Rajasthan,2008
+294,Female,Subtracti,15.73,Uttar Pradesh,2008
+295,Female,Subtracti,17.38,Bihar,2008
+296,Female,Subtracti,29.64,Sikkim,2008
+297,Female,Subtracti,25.87,Arunachal Pradesh,2008
+298,Female,Subtracti,25.36,Nagaland,2008
+299,Female,Subtracti,24.69,Manipur,2008
+300,Female,Subtracti,20.02,Mizoram,2008
+301,Female,Subtracti,28.37,Tripura,2008
+302,Female,Subtracti,26.86,Meghalaya,2008
+303,Female,Subtracti,26.54,Assam,2008
+304,Female,Subtracti,24.32,West Bengal,2008
+305,Female,Subtracti,20.56,Jharkhand,2008
+306,Female,Subtracti,23.34,Orissa,2008
+307,Female,Subtracti,23.10,Chhattisgarh,2008
+308,Female,Subtracti,18.48,Madhya Pradesh,2008
+309,Female,Subtracti,22.34,Gujarat,2008
+310,Female,Subtracti,31.90,Daman and Diu,2008
+311,Female,Subtracti,21.62,Dadra and Nagar Haveli,2008
+312,Female,Subtracti,22.84,Maharashtra,2008
+313,Female,Subtracti,26.08,Andhra Pradesh,2008
+314,Female,Subtracti,27.32,Karnataka,2008
+315,Female,Subtracti,20.81,Goa,2008
+316,Female,Subtracti,27.37,Kerela,2008
+317,Female,Subtracti,27.20,Tamil Nadu,2008
+318,Female,Subtracti,23.33,Pondicherry,2008
+319,Female,Subtracti,21.55,India,2008
+320,Female,Division,25.80,Jammu & Kashmir,2008
+321,Female,Division,51.84,Himachal Pradesh,2008
+322,Female,Division,41.00,Punjab,2008
+323,Female,Division,36.84,Uttaranchal,2008
+324,Female,Division,48.40,Haryana,2008
+325,Female,Division,34.10,Rajasthan,2008
+326,Female,Division,20.51,Uttar Pradesh,2008
+327,Female,Division,34.02,Bihar,2008
+328,Female,Division,38.42,Sikkim,2008
+329,Female,Division,40.24,Arunachal Pradesh,2008
+330,Female,Division,35.15,Nagaland,2008
+331,Female,Division,40.29,Manipur,2008
+332,Female,Division,52.99,Mizoram,2008
+333,Female,Division,30.11,Tripura,2008
+334,Female,Division,24.35,Meghalaya,2008
+335,Female,Division,21.70,Assam,2008
+336,Female,Division,32.71,West Bengal,2008
+337,Female,Division,26.96,Jharkhand,2008
+338,Female,Division,34.29,Orissa,2008
+339,Female,Division,46.10,Chhattisgarh,2008
+340,Female,Division,53.56,Madhya Pradesh,2008
+341,Female,Division,26.04,Gujarat,2008
+342,Female,Division,34.91,Daman and Diu,2008
+343,Female,Division,45.85,Dadra and Nagar Haveli,2008
+344,Female,Division,40.71,Maharashtra,2008
+345,Female,Division,36.25,Andhra Pradesh,2008
+346,Female,Division,22.77,Karnataka,2008
+347,Female,Division,55.61,Goa,2008
+348,Female,Division,48.06,Kerela,2008
+349,Female,Division,28.49,Tamil Nadu,2008
+350,Female,Division,35.06,Pondicherry,2008
+351,Female,Division,32.96,India,2008
+352,Female,Total,100.00,Jammu & Kashmir,2008
+353,Female,Total,100.00,Himachal Pradesh,2008
+354,Female,Total,100.00,Punjab,2008
+355,Female,Total,100.00,Uttaranchal,2008
+356,Female,Total,100.00,Haryana,2008
+357,Female,Total,100.00,Rajasthan,2008
+358,Female,Total,100.00,Uttar Pradesh,2008
+359,Female,Total,100.00,Bihar,2008
+360,Female,Total,100.00,Sikkim,2008
+361,Female,Total,100.00,Arunachal Pradesh,2008
+362,Female,Total,100.00,Nagaland,2008
+363,Female,Total,100.00,Manipur,2008
+364,Female,Total,100.00,Mizoram,2008
+365,Female,Total,100.00,Tripura,2008
+366,Female,Total,100.00,Meghalaya,2008
+367,Female,Total,100.00,Assam,2008
+368,Female,Total,100.00,West Bengal,2008
+369,Female,Total,100.00,Jharkhand,2008
+370,Female,Total,100.00,Orissa,2008
+371,Female,Total,100.00,Chhattisgarh,2008
+372,Female,Total,100.00,Madhya Pradesh,2008
+373,Female,Total,100.00,Gujarat,2008
+374,Female,Total,100.00,Daman and Diu,2008
+375,Female,Total,100.00,Dadra and Nagar Haveli,2008
+376,Female,Total,100.00,Maharashtra,2008
+377,Female,Total,100.00,Andhra Pradesh,2008
+378,Female,Total,100.00,Karnataka,2008
+379,Female,Total,100.00,Goa,2008
+380,Female,Total,100.00,Kerela,2008
+381,Female,Total,100.00,Tamil Nadu,2008
+382,Female,Total,100.00,Pondicherry,2008
+383,Female,Total,100.00,India,2008
+384,Male,Nothing,3.50,Jammu & Kashmir,2008
+385,Male,Nothing,1.84,Himachal Pradesh,2008
+386,Male,Nothing,4.97,Punjab,2008
+387,Male,Nothing,5.93,Uttaranchal,2008
+388,Male,Nothing,6.30,Haryana,2008
+389,Male,Nothing,9.16,Rajasthan,2008
+390,Male,Nothing,14.26,Uttar Pradesh,2008
+391,Male,Nothing,11.26,Bihar,2008
+392,Male,Nothing,2.17,Sikkim,2008
+393,Male,Nothing,2.62,Arunachal Pradesh,2008
+394,Male,Nothing,1.13,Nagaland,2008
+395,Male,Nothing,0.88,Manipur,2008
+396,Male,Nothing,2.08,Mizoram,2008
+397,Male,Nothing,6.03,Tripura,2008
+398,Male,Nothing,3.96,Meghalaya,2008
+399,Male,Nothing,7.38,Assam,2008
+400,Male,Nothing,5.33,West Bengal,2008
+401,Male,Nothing,10.29,Jharkhand,2008
+402,Male,Nothing,7.52,Orissa,2008
+403,Male,Nothing,1.59,Chhattisgarh,2008
+404,Male,Nothing,1.20,Madhya Pradesh,2008
+405,Male,Nothing,7.32,Gujarat,2008
+406,Male,Nothing,2.94,Daman and Diu,2008
+407,Male,Nothing,2.49,Dadra and Nagar Haveli,2008
+408,Male,Nothing,2.67,Maharashtra,2008
+409,Male,Nothing,3.29,Andhra Pradesh,2008
+410,Male,Nothing,4.87,Karnataka,2008
+411,Male,Nothing,0.95,Goa,2008
+412,Male,Nothing,0.98,Kerela,2008
+413,Male,Nothing,8.65,Tamil Nadu,2008
+414,Male,Nothing,4.03,Pondicherry,2008
+415,Male,Nothing,7.59,India,2008
+416,Male,NumRec1-9,11.69,Jammu & Kashmir,2008
+417,Male,NumRec1-9,9.83,Himachal Pradesh,2008
+418,Male,NumRec1-9,15.84,Punjab,2008
+419,Male,NumRec1-9,14.77,Uttaranchal,2008
+420,Male,NumRec1-9,12.90,Haryana,2008
+421,Male,NumRec1-9,16.66,Rajasthan,2008
+422,Male,NumRec1-9,22.08,Uttar Pradesh,2008
+423,Male,NumRec1-9,16.95,Bihar,2008
+424,Male,NumRec1-9,7.01,Sikkim,2008
+425,Male,NumRec1-9,12.72,Arunachal Pradesh,2008
+426,Male,NumRec1-9,7.98,Nagaland,2008
+427,Male,NumRec1-9,7.33,Manipur,2008
+428,Male,NumRec1-9,8.77,Mizoram,2008
+429,Male,NumRec1-9,10.88,Tripura,2008
+430,Male,NumRec1-9,13.80,Meghalaya,2008
+431,Male,NumRec1-9,21.02,Assam,2008
+432,Male,NumRec1-9,17.68,West Bengal,2008
+433,Male,NumRec1-9,17.75,Jharkhand,2008
+434,Male,NumRec1-9,15.11,Orissa,2008
+435,Male,NumRec1-9,8.42,Chhattisgarh,2008
+436,Male,NumRec1-9,11.52,Madhya Pradesh,2008
+437,Male,NumRec1-9,18.01,Gujarat,2008
+438,Male,NumRec1-9,12.89,Daman and Diu,2008
+439,Male,NumRec1-9,10.66,Dadra and Nagar Haveli,2008
+440,Male,NumRec1-9,13.73,Maharashtra,2008
+441,Male,NumRec1-9,10.04,Andhra Pradesh,2008
+442,Male,NumRec1-9,13.33,Karnataka,2008
+443,Male,NumRec1-9,7.22,Goa,2008
+444,Male,NumRec1-9,5.56,Kerela,2008
+445,Male,NumRec1-9,10.20,Tamil Nadu,2008
+446,Male,NumRec1-9,8.43,Pondicherry,2008
+447,Male,NumRec1-9,15.60,India,2008
+448,Male,NumRec11-,25.04,Jammu & Kashmir,2008
+449,Male,NumRec11-,16.11,Himachal Pradesh,2008
+450,Male,NumRec11-,16.24,Punjab,2008
+451,Male,NumRec11-,17.32,Uttaranchal,2008
+452,Male,NumRec11-,14.81,Haryana,2008
+453,Male,NumRec11-,16.86,Rajasthan,2008
+454,Male,NumRec11-,19.79,Uttar Pradesh,2008
+455,Male,NumRec11-,15.19,Bihar,2008
+456,Male,NumRec11-,23.33,Sikkim,2008
+457,Male,NumRec11-,21.21,Arunachal Pradesh,2008
+458,Male,NumRec11-,29.39,Nagaland,2008
+459,Male,NumRec11-,24.35,Manipur,2008
+460,Male,NumRec11-,17.23,Mizoram,2008
+461,Male,NumRec11-,24.91,Tripura,2008
+462,Male,NumRec11-,31.66,Meghalaya,2008
+463,Male,NumRec11-,23.95,Assam,2008
+464,Male,NumRec11-,19.82,West Bengal,2008
+465,Male,NumRec11-,19.16,Jharkhand,2008
+466,Male,NumRec11-,18.08,Orissa,2008
+467,Male,NumRec11-,20.00,Chhattisgarh,2008
+468,Male,NumRec11-,13.81,Madhya Pradesh,2008
+469,Male,NumRec11-,22.20,Gujarat,2008
+470,Male,NumRec11-,22.40,Daman and Diu,2008
+471,Male,NumRec11-,17.69,Dadra and Nagar Haveli,2008
+472,Male,NumRec11-,19.18,Maharashtra,2008
+473,Male,NumRec11-,24.51,Andhra Pradesh,2008
+474,Male,NumRec11-,32.81,Karnataka,2008
+475,Male,NumRec11-,13.14,Goa,2008
+476,Male,NumRec11-,20.66,Kerela,2008
+477,Male,NumRec11-,27.44,Tamil Nadu,2008
+478,Male,NumRec11-,24.27,Pondicherry,2008
+479,Male,NumRec11-,19.99,India,2008
+480,Male,Subtracti,28.91,Jammu & Kashmir,2008
+481,Male,Subtracti,21.34,Himachal Pradesh,2008
+482,Male,Subtracti,24.86,Punjab,2008
+483,Male,Subtracti,20.58,Uttaranchal,2008
+484,Male,Subtracti,17.43,Haryana,2008
+485,Male,Subtracti,17.82,Rajasthan,2008
+486,Male,Subtracti,16.46,Uttar Pradesh,2008
+487,Male,Subtracti,16.69,Bihar,2008
+488,Male,Subtracti,27.18,Sikkim,2008
+489,Male,Subtracti,23.45,Arunachal Pradesh,2008
+490,Male,Subtracti,26.49,Nagaland,2008
+491,Male,Subtracti,26.66,Manipur,2008
+492,Male,Subtracti,21.51,Mizoram,2008
+493,Male,Subtracti,29.77,Tripura,2008
+494,Male,Subtracti,26.27,Meghalaya,2008
+495,Male,Subtracti,25.15,Assam,2008
+496,Male,Subtracti,22.72,West Bengal,2008
+497,Male,Subtracti,20.76,Jharkhand,2008
+498,Male,Subtracti,22.37,Orissa,2008
+499,Male,Subtracti,23.79,Chhattisgarh,2008
+500,Male,Subtracti,17.57,Madhya Pradesh,2008
+501,Male,Subtracti,22.47,Gujarat,2008
+502,Male,Subtracti,28.13,Daman and Diu,2008
+503,Male,Subtracti,21.09,Dadra and Nagar Haveli,2008
+504,Male,Subtracti,23.54,Maharashtra,2008
+505,Male,Subtracti,25.64,Andhra Pradesh,2008
+506,Male,Subtracti,26.59,Karnataka,2008
+507,Male,Subtracti,23.81,Goa,2008
+508,Male,Subtracti,27.95,Kerela,2008
+509,Male,Subtracti,27.13,Tamil Nadu,2008
+510,Male,Subtracti,21.04,Pondicherry,2008
+511,Male,Subtracti,21.03,India,2008
+512,Male,Division,30.85,Jammu & Kashmir,2008
+513,Male,Division,50.87,Himachal Pradesh,2008
+514,Male,Division,38.09,Punjab,2008
+515,Male,Division,41.40,Uttaranchal,2008
+516,Male,Division,48.55,Haryana,2008
+517,Male,Division,39.49,Rajasthan,2008
+518,Male,Division,27.42,Uttar Pradesh,2008
+519,Male,Division,39.91,Bihar,2008
+520,Male,Division,40.30,Sikkim,2008
+521,Male,Division,40.00,Arunachal Pradesh,2008
+522,Male,Division,35.01,Nagaland,2008
+523,Male,Division,40.79,Manipur,2008
+524,Male,Division,50.41,Mizoram,2008
+525,Male,Division,28.41,Tripura,2008
+526,Male,Division,24.31,Meghalaya,2008
+527,Male,Division,22.49,Assam,2008
+528,Male,Division,34.46,West Bengal,2008
+529,Male,Division,32.04,Jharkhand,2008
+530,Male,Division,36.93,Orissa,2008
+531,Male,Division,46.20,Chhattisgarh,2008
+532,Male,Division,55.90,Madhya Pradesh,2008
+533,Male,Division,30.01,Gujarat,2008
+534,Male,Division,33.64,Daman and Diu,2008
+535,Male,Division,48.07,Dadra and Nagar Haveli,2008
+536,Male,Division,40.88,Maharashtra,2008
+537,Male,Division,36.53,Andhra Pradesh,2008
+538,Male,Division,22.40,Karnataka,2008
+539,Male,Division,54.88,Goa,2008
+540,Male,Division,44.86,Kerela,2008
+541,Male,Division,26.58,Tamil Nadu,2008
+542,Male,Division,42.23,Pondicherry,2008
+543,Male,Division,35.80,India,2008
+544,Male,Total,100.00,Jammu & Kashmir,2008
+545,Male,Total,100.00,Himachal Pradesh,2008
+546,Male,Total,100.00,Punjab,2008
+547,Male,Total,100.00,Uttaranchal,2008
+548,Male,Total,100.00,Haryana,2008
+549,Male,Total,100.00,Rajasthan,2008
+550,Male,Total,100.00,Uttar Pradesh,2008
+551,Male,Total,100.00,Bihar,2008
+552,Male,Total,100.00,Sikkim,2008
+553,Male,Total,100.00,Arunachal Pradesh,2008
+554,Male,Total,100.00,Nagaland,2008
+555,Male,Total,100.00,Manipur,2008
+556,Male,Total,100.00,Mizoram,2008
+557,Male,Total,100.00,Tripura,2008
+558,Male,Total,100.00,Meghalaya,2008
+559,Male,Total,100.00,Assam,2008
+560,Male,Total,100.00,West Bengal,2008
+561,Male,Total,100.00,Jharkhand,2008
+562,Male,Total,100.00,Orissa,2008
+563,Male,Total,100.00,Chhattisgarh,2008
+564,Male,Total,100.00,Madhya Pradesh,2008
+565,Male,Total,100.00,Gujarat,2008
+566,Male,Total,100.00,Daman and Diu,2008
+567,Male,Total,100.00,Dadra and Nagar Haveli,2008
+568,Male,Total,100.00,Maharashtra,2008
+569,Male,Total,100.00,Andhra Pradesh,2008
+570,Male,Total,100.00,Karnataka,2008
+571,Male,Total,100.00,Goa,2008
+572,Male,Total,100.00,Kerela,2008
+573,Male,Total,100.00,Tamil Nadu,2008
+574,Male,Total,100.00,Pondicherry,2008
+575,Male,Total,100.00,India,2008
+0,All,Nothing,2.00,Maharashtra,2009
+1,All,Nothing,0.93,Dadra and Nagar Haveli,2009
+2,All,Nothing,3.13,Daman and Diu,2009
+3,All,Nothing,7.87,Gujarat,2009
+4,All,Nothing,1.69,Madhya Pradesh,2009
+5,All,Nothing,2.75,Chhattisgarh,2009
+6,All,Nothing,4.07,Orissa,2009
+7,All,Nothing,8.10,Jharkhand,2009
+8,All,Nothing,4.00,West Bengal,2009
+9,All,Nothing,7.49,Assam,2009
+10,All,Nothing,10.91,Meghalaya,2009
+11,All,Nothing,1.79,Tripura,2009
+12,All,Nothing,2.92,Mizoram,2009
+13,All,Nothing,1.57,Manipur,2009
+14,All,Nothing,1.15,Nagaland,2009
+15,All,Nothing,1.30,Arunachal Pradesh,2009
+16,All,Nothing,1.66,Sikkim,2009
+17,All,Nothing,10.67,Bihar,2009
+18,All,Nothing,12.84,Uttar Pradesh,2009
+19,All,Nothing,8.06,Rajasthan,2009
+20,All,Nothing,4.70,Haryana,2009
+21,All,Nothing,5.04,Uttaranchal,2009
+22,All,Nothing,4.25,Punjab,2009
+23,All,Nothing,1.98,Himachal Pradesh,2009
+24,All,Nothing,3.36,Jammu & Kashmir,2009
+25,All,Nothing,5.02,Andhra Pradesh,2009
+26,All,Nothing,4.89,Karnataka,2009
+27,All,Nothing,0.41,Goa,2009
+28,All,Nothing,1.40,Kerela,2009
+29,All,Nothing,6.69,Tamil Nadu,2009
+30,All,Nothing,1.61,Pondicherry,2009
+31,All,Nothing,6.91,India,2009
+32,All,NumRec1-9,10.79,Maharashtra,2009
+33,All,NumRec1-9,13.17,Dadra and Nagar Haveli,2009
+34,All,NumRec1-9,14.88,Daman and Diu,2009
+35,All,NumRec1-9,21.38,Gujarat,2009
+36,All,NumRec1-9,12.02,Madhya Pradesh,2009
+37,All,NumRec1-9,15.55,Chhattisgarh,2009
+38,All,NumRec1-9,14.65,Orissa,2009
+39,All,NumRec1-9,19.51,Jharkhand,2009
+40,All,NumRec1-9,15.45,West Bengal,2009
+41,All,NumRec1-9,17.54,Assam,2009
+42,All,NumRec1-9,21.69,Meghalaya,2009
+43,All,NumRec1-9,12.03,Tripura,2009
+44,All,NumRec1-9,8.84,Mizoram,2009
+45,All,NumRec1-9,7.30,Manipur,2009
+46,All,NumRec1-9,12.52,Nagaland,2009
+47,All,NumRec1-9,7.61,Arunachal Pradesh,2009
+48,All,NumRec1-9,8.79,Sikkim,2009
+49,All,NumRec1-9,16.43,Bihar,2009
+50,All,NumRec1-9,22.77,Uttar Pradesh,2009
+51,All,NumRec1-9,17.56,Rajasthan,2009
+52,All,NumRec1-9,12.79,Haryana,2009
+53,All,NumRec1-9,14.42,Uttaranchal,2009
+54,All,NumRec1-9,13.72,Punjab,2009
+55,All,NumRec1-9,7.83,Himachal Pradesh,2009
+56,All,NumRec1-9,13.38,Jammu & Kashmir,2009
+57,All,NumRec1-9,10.96,Andhra Pradesh,2009
+58,All,NumRec1-9,13.11,Karnataka,2009
+59,All,NumRec1-9,6.07,Goa,2009
+60,All,NumRec1-9,4.95,Kerela,2009
+61,All,NumRec1-9,7.67,Tamil Nadu,2009
+62,All,NumRec1-9,6.46,Pondicherry,2009
+63,All,NumRec1-9,15.47,India,2009
+64,All,NumRec11-,16.60,Maharashtra,2009
+65,All,NumRec11-,14.29,Dadra and Nagar Haveli,2009
+66,All,NumRec11-,18.94,Daman and Diu,2009
+67,All,NumRec11-,21.21,Gujarat,2009
+68,All,NumRec11-,14.50,Madhya Pradesh,2009
+69,All,NumRec11-,17.45,Chhattisgarh,2009
+70,All,NumRec11-,16.37,Orissa,2009
+71,All,NumRec11-,21.62,Jharkhand,2009
+72,All,NumRec11-,18.44,West Bengal,2009
+73,All,NumRec11-,22.03,Assam,2009
+74,All,NumRec11-,23.62,Meghalaya,2009
+75,All,NumRec11-,23.44,Tripura,2009
+76,All,NumRec11-,19.03,Mizoram,2009
+77,All,NumRec11-,19.64,Manipur,2009
+78,All,NumRec11-,22.97,Nagaland,2009
+79,All,NumRec11-,19.26,Arunachal Pradesh,2009
+80,All,NumRec11-,22.00,Sikkim,2009
+81,All,NumRec11-,16.00,Bihar,2009
+82,All,NumRec11-,21.87,Uttar Pradesh,2009
+83,All,NumRec11-,17.40,Rajasthan,2009
+84,All,NumRec11-,15.57,Haryana,2009
+85,All,NumRec11-,17.49,Uttaranchal,2009
+86,All,NumRec11-,14.63,Punjab,2009
+87,All,NumRec11-,14.43,Himachal Pradesh,2009
+88,All,NumRec11-,24.95,Jammu & Kashmir,2009
+89,All,NumRec11-,20.79,Andhra Pradesh,2009
+90,All,NumRec11-,27.51,Karnataka,2009
+91,All,NumRec11-,10.94,Goa,2009
+92,All,NumRec11-,18.15,Kerela,2009
+93,All,NumRec11-,28.35,Tamil Nadu,2009
+94,All,NumRec11-,18.77,Pondicherry,2009
+95,All,NumRec11-,19.57,India,2009
+96,All,Subtracti,25.21,Dadra and Nagar Haveli,2009
+97,All,Subtracti,20.26,Daman and Diu,2009
+98,All,Subtracti,21.48,Gujarat,2009
+99,All,Subtracti,20.46,Madhya Pradesh,2009
+100,All,Subtracti,22.10,Chhattisgarh,2009
+101,All,Subtracti,20.78,Orissa,2009
+102,All,Subtracti,21.58,Jharkhand,2009
+103,All,Subtracti,22.96,West Bengal,2009
+104,All,Subtracti,26.14,Assam,2009
+105,All,Subtracti,25.09,Meghalaya,2009
+106,All,Subtracti,31.02,Tripura,2009
+107,All,Subtracti,24.99,Mizoram,2009
+108,All,Subtracti,24.20,Manipur,2009
+109,All,Subtracti,23.11,Nagaland,2009
+110,All,Subtracti,26.62,Arunachal Pradesh,2009
+111,All,Subtracti,27.65,Sikkim,2009
+112,All,Subtracti,18.26,Bihar,2009
+113,All,Subtracti,18.08,Uttar Pradesh,2009
+114,All,Subtracti,18.51,Rajasthan,2009
+115,All,Subtracti,17.13,Haryana,2009
+116,All,Subtracti,21.36,Uttaranchal,2009
+117,All,Subtracti,23.42,Punjab,2009
+118,All,Subtracti,20.87,Himachal Pradesh,2009
+119,All,Subtracti,25.23,Jammu & Kashmir,2009
+120,All,Subtracti,25.06,Maharashtra,2009
+121,All,Subtracti,22.33,Andhra Pradesh,2009
+122,All,Subtracti,27.70,Karnataka,2009
+123,All,Subtracti,16.17,Goa,2009
+124,All,Subtracti,26.87,Kerela,2009
+125,All,Subtracti,28.81,Tamil Nadu,2009
+126,All,Subtracti,22.87,Pondicherry,2009
+127,All,Subtracti,21.61,India,2009
+128,All,Division,46.41,Dadra and Nagar Haveli,2009
+129,All,Division,42.78,Daman and Diu,2009
+130,All,Division,28.06,Gujarat,2009
+131,All,Division,51.32,Madhya Pradesh,2009
+132,All,Division,42.15,Chhattisgarh,2009
+133,All,Division,44.14,Orissa,2009
+134,All,Division,29.18,Jharkhand,2009
+135,All,Division,39.15,West Bengal,2009
+136,All,Division,26.80,Assam,2009
+137,All,Division,18.69,Meghalaya,2009
+138,All,Division,31.72,Tripura,2009
+139,All,Division,44.23,Mizoram,2009
+140,All,Division,47.29,Manipur,2009
+141,All,Division,40.25,Nagaland,2009
+142,All,Division,45.22,Arunachal Pradesh,2009
+143,All,Division,39.89,Sikkim,2009
+144,All,Division,38.64,Bihar,2009
+145,All,Division,24.44,Uttar Pradesh,2009
+146,All,Division,38.47,Rajasthan,2009
+147,All,Division,49.81,Haryana,2009
+148,All,Division,41.69,Uttaranchal,2009
+149,All,Division,43.98,Punjab,2009
+150,All,Division,54.89,Himachal Pradesh,2009
+151,All,Division,33.08,Jammu & Kashmir,2009
+152,All,Division,45.55,Maharashtra,2009
+153,All,Division,40.90,Andhra Pradesh,2009
+154,All,Division,26.79,Karnataka,2009
+155,All,Division,66.43,Goa,2009
+156,All,Division,48.63,Kerela,2009
+157,All,Division,28.48,Tamil Nadu,2009
+158,All,Division,50.28,Pondicherry,2009
+159,All,Division,36.44,India,2009
+160,All,Total,100.00,Dadra and Nagar Haveli,2009
+161,All,Total,100.00,Daman and Diu,2009
+162,All,Total,100.00,Gujarat,2009
+163,All,Total,100.00,Madhya Pradesh,2009
+164,All,Total,100.00,Chhattisgarh,2009
+165,All,Total,100.00,Orissa,2009
+166,All,Total,100.00,Jharkhand,2009
+167,All,Total,100.00,West Bengal,2009
+168,All,Total,100.00,Assam,2009
+169,All,Total,100.00,Meghalaya,2009
+170,All,Total,100.00,Tripura,2009
+171,All,Total,100.00,Mizoram,2009
+172,All,Total,100.00,Manipur,2009
+173,All,Total,100.00,Nagaland,2009
+174,All,Total,100.00,Arunachal Pradesh,2009
+175,All,Total,100.00,Sikkim,2009
+176,All,Total,100.00,Bihar,2009
+177,All,Total,100.00,Uttar Pradesh,2009
+178,All,Total,100.00,Rajasthan,2009
+179,All,Total,100.00,Haryana,2009
+180,All,Total,100.00,Uttaranchal,2009
+181,All,Total,100.00,Punjab,2009
+182,All,Total,100.00,Himachal Pradesh,2009
+183,All,Total,100.00,Jammu & Kashmir,2009
+184,All,Total,100.00,Maharashtra,2009
+185,All,Total,100.00,Andhra Pradesh,2009
+186,All,Total,100.00,Karnataka,2009
+187,All,Total,100.00,Goa,2009
+188,All,Total,100.00,Kerela,2009
+189,All,Total,100.00,Tamil Nadu,2009
+190,All,Total,100.00,Pondicherry,2009
+191,All,Total,100.00,India,2009
+192,Female,Nothing,2.02,Maharashtra,2009
+193,Female,Nothing,1.04,Dadra and Nagar Haveli,2009
+194,Female,Nothing,3.52,Daman and Diu,2009
+195,Female,Nothing,7.64,Gujarat,2009
+196,Female,Nothing,1.70,Madhya Pradesh,2009
+197,Female,Nothing,2.75,Chhattisgarh,2009
+198,Female,Nothing,4.28,Orissa,2009
+199,Female,Nothing,8.59,Jharkhand,2009
+200,Female,Nothing,3.89,West Bengal,2009
+201,Female,Nothing,6.82,Assam,2009
+202,Female,Nothing,11.32,Meghalaya,2009
+203,Female,Nothing,1.90,Tripura,2009
+204,Female,Nothing,2.56,Mizoram,2009
+205,Female,Nothing,1.69,Manipur,2009
+206,Female,Nothing,1.23,Nagaland,2009
+207,Female,Nothing,1.30,Arunachal Pradesh,2009
+208,Female,Nothing,1.33,Sikkim,2009
+209,Female,Nothing,11.85,Bihar,2009
+210,Female,Nothing,13.72,Uttar Pradesh,2009
+211,Female,Nothing,8.85,Rajasthan,2009
+212,Female,Nothing,4.69,Haryana,2009
+213,Female,Nothing,4.86,Uttaranchal,2009
+214,Female,Nothing,4.35,Punjab,2009
+215,Female,Nothing,1.94,Himachal Pradesh,2009
+216,Female,Nothing,3.50,Jammu & Kashmir,2009
+217,Female,Nothing,4.75,Andhra Pradesh,2009
+218,Female,Nothing,4.61,Karnataka,2009
+219,Female,Nothing,0.29,Goa,2009
+220,Female,Nothing,1.19,Kerela,2009
+221,Female,Nothing,6.38,Tamil Nadu,2009
+222,Female,Nothing,1.16,Pondicherry,2009
+223,Female,Nothing,7.09,India,2009
+224,Female,NumRec1-9,11.03,Maharashtra,2009
+225,Female,NumRec1-9,17.01,Dadra and Nagar Haveli,2009
+226,Female,NumRec1-9,16.16,Daman and Diu,2009
+227,Female,NumRec1-9,22.22,Gujarat,2009
+228,Female,NumRec1-9,12.35,Madhya Pradesh,2009
+229,Female,NumRec1-9,15.53,Chhattisgarh,2009
+230,Female,NumRec1-9,14.06,Orissa,2009
+231,Female,NumRec1-9,20.41,Jharkhand,2009
+232,Female,NumRec1-9,15.55,West Bengal,2009
+233,Female,NumRec1-9,17.27,Assam,2009
+234,Female,NumRec1-9,22.64,Meghalaya,2009
+235,Female,NumRec1-9,10.80,Tripura,2009
+236,Female,NumRec1-9,8.91,Mizoram,2009
+237,Female,NumRec1-9,7.47,Manipur,2009
+238,Female,NumRec1-9,12.67,Nagaland,2009
+239,Female,NumRec1-9,8.66,Arunachal Pradesh,2009
+240,Female,NumRec1-9,8.51,Sikkim,2009
+241,Female,NumRec1-9,17.99,Bihar,2009
+242,Female,NumRec1-9,24.25,Uttar Pradesh,2009
+243,Female,NumRec1-9,19.04,Rajasthan,2009
+244,Female,NumRec1-9,13.34,Haryana,2009
+245,Female,NumRec1-9,14.46,Uttaranchal,2009
+246,Female,NumRec1-9,13.41,Punjab,2009
+247,Female,NumRec1-9,7.55,Himachal Pradesh,2009
+248,Female,NumRec1-9,14.11,Jammu & Kashmir,2009
+249,Female,NumRec1-9,10.74,Andhra Pradesh,2009
+250,Female,NumRec1-9,12.96,Karnataka,2009
+251,Female,NumRec1-9,7.07,Goa,2009
+252,Female,NumRec1-9,4.83,Kerela,2009
+253,Female,NumRec1-9,7.32,Tamil Nadu,2009
+254,Female,NumRec1-9,6.56,Pondicherry,2009
+255,Female,NumRec1-9,15.88,India,2009
+256,Female,NumRec11-,16.34,Maharashtra,2009
+257,Female,NumRec11-,14.52,Dadra and Nagar Haveli,2009
+258,Female,NumRec11-,17.43,Daman and Diu,2009
+259,Female,NumRec11-,21.82,Gujarat,2009
+260,Female,NumRec11-,14.80,Madhya Pradesh,2009
+261,Female,NumRec11-,17.82,Chhattisgarh,2009
+262,Female,NumRec11-,17.64,Orissa,2009
+263,Female,NumRec11-,21.57,Jharkhand,2009
+264,Female,NumRec11-,19.04,West Bengal,2009
+265,Female,NumRec11-,22.47,Assam,2009
+266,Female,NumRec11-,23.17,Meghalaya,2009
+267,Female,NumRec11-,24.09,Tripura,2009
+268,Female,NumRec11-,18.80,Mizoram,2009
+269,Female,NumRec11-,20.03,Manipur,2009
+270,Female,NumRec11-,22.91,Nagaland,2009
+271,Female,NumRec11-,19.70,Arunachal Pradesh,2009
+272,Female,NumRec11-,22.17,Sikkim,2009
+273,Female,NumRec11-,16.54,Bihar,2009
+274,Female,NumRec11-,22.17,Uttar Pradesh,2009
+275,Female,NumRec11-,18.22,Rajasthan,2009
+276,Female,NumRec11-,15.67,Haryana,2009
+277,Female,NumRec11-,18.62,Uttaranchal,2009
+278,Female,NumRec11-,14.08,Punjab,2009
+279,Female,NumRec11-,13.68,Himachal Pradesh,2009
+280,Female,NumRec11-,25.42,Jammu & Kashmir,2009
+281,Female,NumRec11-,21.15,Andhra Pradesh,2009
+282,Female,NumRec11-,27.47,Karnataka,2009
+283,Female,NumRec11-,12.14,Goa,2009
+284,Female,NumRec11-,17.74,Kerela,2009
+285,Female,NumRec11-,27.88,Tamil Nadu,2009
+286,Female,NumRec11-,19.80,Pondicherry,2009
+287,Female,NumRec11-,19.97,India,2009
+288,Female,Subtracti,25.03,Maharashtra,2009
+289,Female,Subtracti,24.27,Dadra and Nagar Haveli,2009
+290,Female,Subtracti,19.08,Daman and Diu,2009
+291,Female,Subtracti,21.22,Gujarat,2009
+292,Female,Subtracti,21.11,Madhya Pradesh,2009
+293,Female,Subtracti,22.35,Chhattisgarh,2009
+294,Female,Subtracti,21.28,Orissa,2009
+295,Female,Subtracti,21.61,Jharkhand,2009
+296,Female,Subtracti,23.37,West Bengal,2009
+297,Female,Subtracti,26.11,Assam,2009
+298,Female,Subtracti,24.88,Meghalaya,2009
+299,Female,Subtracti,31.46,Tripura,2009
+300,Female,Subtracti,24.48,Mizoram,2009
+301,Female,Subtracti,23.96,Manipur,2009
+302,Female,Subtracti,22.53,Nagaland,2009
+303,Female,Subtracti,26.39,Arunachal Pradesh,2009
+304,Female,Subtracti,27.66,Sikkim,2009
+305,Female,Subtracti,18.34,Bihar,2009
+306,Female,Subtracti,18.33,Uttar Pradesh,2009
+307,Female,Subtracti,18.18,Rajasthan,2009
+308,Female,Subtracti,17.44,Haryana,2009
+309,Female,Subtracti,21.93,Uttaranchal,2009
+310,Female,Subtracti,22.86,Punjab,2009
+311,Female,Subtracti,21.25,Himachal Pradesh,2009
+312,Female,Subtracti,25.77,Jammu & Kashmir,2009
+313,Female,Subtracti,22.20,Andhra Pradesh,2009
+314,Female,Subtracti,27.28,Karnataka,2009
+315,Female,Subtracti,16.30,Goa,2009
+316,Female,Subtracti,26.35,Kerela,2009
+317,Female,Subtracti,28.84,Tamil Nadu,2009
+318,Female,Subtracti,21.31,Pondicherry,2009
+319,Female,Subtracti,21.84,India,2009
+320,Female,Division,45.58,Maharashtra,2009
+321,Female,Division,43.15,Dadra and Nagar Haveli,2009
+322,Female,Division,43.81,Daman and Diu,2009
+323,Female,Division,27.10,Gujarat,2009
+324,Female,Division,50.03,Madhya Pradesh,2009
+325,Female,Division,41.54,Chhattisgarh,2009
+326,Female,Division,42.74,Orissa,2009
+327,Female,Division,27.81,Jharkhand,2009
+328,Female,Division,38.14,West Bengal,2009
+329,Female,Division,27.33,Assam,2009
+330,Female,Division,17.99,Meghalaya,2009
+331,Female,Division,31.76,Tripura,2009
+332,Female,Division,45.26,Mizoram,2009
+333,Female,Division,46.86,Manipur,2009
+334,Female,Division,40.67,Nagaland,2009
+335,Female,Division,43.95,Arunachal Pradesh,2009
+336,Female,Division,40.33,Sikkim,2009
+337,Female,Division,35.27,Bihar,2009
+338,Female,Division,21.53,Uttar Pradesh,2009
+339,Female,Division,35.69,Rajasthan,2009
+340,Female,Division,48.87,Haryana,2009
+341,Female,Division,40.12,Uttaranchal,2009
+342,Female,Division,45.30,Punjab,2009
+343,Female,Division,55.57,Himachal Pradesh,2009
+344,Female,Division,31.20,Jammu & Kashmir,2009
+345,Female,Division,41.16,Andhra Pradesh,2009
+346,Female,Division,27.69,Karnataka,2009
+347,Female,Division,64.20,Goa,2009
+348,Female,Division,49.90,Kerela,2009
+349,Female,Division,29.57,Tamil Nadu,2009
+350,Female,Division,51.17,Pondicherry,2009
+351,Female,Division,35.22,India,2009
+352,Female,Total,100.00,Maharashtra,2009
+353,Female,Total,100.00,Dadra and Nagar Haveli,2009
+354,Female,Total,100.00,Daman and Diu,2009
+355,Female,Total,100.00,Gujarat,2009
+356,Female,Total,100.00,Madhya Pradesh,2009
+357,Female,Total,100.00,Chhattisgarh,2009
+358,Female,Total,100.00,Orissa,2009
+359,Female,Total,100.00,Jharkhand,2009
+360,Female,Total,100.00,West Bengal,2009
+361,Female,Total,100.00,Assam,2009
+362,Female,Total,100.00,Meghalaya,2009
+363,Female,Total,100.00,Tripura,2009
+364,Female,Total,100.00,Mizoram,2009
+365,Female,Total,100.00,Manipur,2009
+366,Female,Total,100.00,Nagaland,2009
+367,Female,Total,100.00,Arunachal Pradesh,2009
+368,Female,Total,100.00,Sikkim,2009
+369,Female,Total,100.00,Bihar,2009
+370,Female,Total,100.00,Uttar Pradesh,2009
+371,Female,Total,100.00,Rajasthan,2009
+372,Female,Total,100.00,Haryana,2009
+373,Female,Total,100.00,Uttaranchal,2009
+374,Female,Total,100.00,Punjab,2009
+375,Female,Total,100.00,Himachal Pradesh,2009
+376,Female,Total,100.00,Jammu & Kashmir,2009
+377,Female,Total,100.00,Andhra Pradesh,2009
+378,Female,Total,100.00,Karnataka,2009
+379,Female,Total,100.00,Goa,2009
+380,Female,Total,100.00,Kerela,2009
+381,Female,Total,100.00,Tamil Nadu,2009
+382,Female,Total,100.00,Pondicherry,2009
+383,Female,Total,100.00,India,2009
+384,Male,Nothing,1.99,Maharashtra,2009
+385,Male,Nothing,0.85,Dadra and Nagar Haveli,2009
+386,Male,Nothing,2.79,Daman and Diu,2009
+387,Male,Nothing,8.03,Gujarat,2009
+388,Male,Nothing,1.68,Madhya Pradesh,2009
+389,Male,Nothing,2.75,Chhattisgarh,2009
+390,Male,Nothing,3.92,Orissa,2009
+391,Male,Nothing,7.69,Jharkhand,2009
+392,Male,Nothing,4.10,West Bengal,2009
+393,Male,Nothing,8.14,Assam,2009
+394,Male,Nothing,10.51,Meghalaya,2009
+395,Male,Nothing,1.69,Tripura,2009
+396,Male,Nothing,3.25,Mizoram,2009
+397,Male,Nothing,1.47,Manipur,2009
+398,Male,Nothing,1.08,Nagaland,2009
+399,Male,Nothing,1.29,Arunachal Pradesh,2009
+400,Male,Nothing,2.06,Sikkim,2009
+401,Male,Nothing,9.77,Bihar,2009
+402,Male,Nothing,12.12,Uttar Pradesh,2009
+403,Male,Nothing,7.51,Rajasthan,2009
+404,Male,Nothing,4.71,Haryana,2009
+405,Male,Nothing,5.19,Uttaranchal,2009
+406,Male,Nothing,4.18,Punjab,2009
+407,Male,Nothing,2.01,Himachal Pradesh,2009
+408,Male,Nothing,3.26,Jammu & Kashmir,2009
+409,Male,Nothing,5.30,Andhra Pradesh,2009
+410,Male,Nothing,5.16,Karnataka,2009
+411,Male,Nothing,0.51,Goa,2009
+412,Male,Nothing,1.60,Kerela,2009
+413,Male,Nothing,7.00,Tamil Nadu,2009
+414,Male,Nothing,2.02,Pondicherry,2009
+415,Male,Nothing,6.76,India,2009
+416,Male,NumRec1-9,10.60,Maharashtra,2009
+417,Male,NumRec1-9,10.02,Dadra and Nagar Haveli,2009
+418,Male,NumRec1-9,13.75,Daman and Diu,2009
+419,Male,NumRec1-9,20.78,Gujarat,2009
+420,Male,NumRec1-9,11.77,Madhya Pradesh,2009
+421,Male,NumRec1-9,15.56,Chhattisgarh,2009
+422,Male,NumRec1-9,15.06,Orissa,2009
+423,Male,NumRec1-9,18.75,Jharkhand,2009
+424,Male,NumRec1-9,15.36,West Bengal,2009
+425,Male,NumRec1-9,17.80,Assam,2009
+426,Male,NumRec1-9,20.78,Meghalaya,2009
+427,Male,NumRec1-9,13.12,Tripura,2009
+428,Male,NumRec1-9,8.77,Mizoram,2009
+429,Male,NumRec1-9,7.14,Manipur,2009
+430,Male,NumRec1-9,12.40,Nagaland,2009
+431,Male,NumRec1-9,6.73,Arunachal Pradesh,2009
+432,Male,NumRec1-9,9.10,Sikkim,2009
+433,Male,NumRec1-9,15.23,Bihar,2009
+434,Male,NumRec1-9,21.58,Uttar Pradesh,2009
+435,Male,NumRec1-9,16.54,Rajasthan,2009
+436,Male,NumRec1-9,12.39,Haryana,2009
+437,Male,NumRec1-9,14.39,Uttaranchal,2009
+438,Male,NumRec1-9,13.96,Punjab,2009
+439,Male,NumRec1-9,8.09,Himachal Pradesh,2009
+440,Male,NumRec1-9,12.82,Jammu & Kashmir,2009
+441,Male,NumRec1-9,11.18,Andhra Pradesh,2009
+442,Male,NumRec1-9,13.26,Karnataka,2009
+443,Male,NumRec1-9,5.16,Goa,2009
+444,Male,NumRec1-9,5.08,Kerela,2009
+445,Male,NumRec1-9,8.01,Tamil Nadu,2009
+446,Male,NumRec1-9,6.38,Pondicherry,2009
+447,Male,NumRec1-9,15.13,India,2009
+448,Male,NumRec11-,16.82,Maharashtra,2009
+449,Male,NumRec11-,14.09,Dadra and Nagar Haveli,2009
+450,Male,NumRec11-,20.28,Daman and Diu,2009
+451,Male,NumRec11-,20.77,Gujarat,2009
+452,Male,NumRec11-,14.27,Madhya Pradesh,2009
+453,Male,NumRec11-,17.13,Chhattisgarh,2009
+454,Male,NumRec11-,15.46,Orissa,2009
+455,Male,NumRec11-,21.67,Jharkhand,2009
+456,Male,NumRec11-,17.84,West Bengal,2009
+457,Male,NumRec11-,21.60,Assam,2009
+458,Male,NumRec11-,24.05,Meghalaya,2009
+459,Male,NumRec11-,22.86,Tripura,2009
+460,Male,NumRec11-,19.24,Mizoram,2009
+461,Male,NumRec11-,19.29,Manipur,2009
+462,Male,NumRec11-,23.02,Nagaland,2009
+463,Male,NumRec11-,18.90,Arunachal Pradesh,2009
+464,Male,NumRec11-,21.80,Sikkim,2009
+465,Male,NumRec11-,15.58,Bihar,2009
+466,Male,NumRec11-,21.63,Uttar Pradesh,2009
+467,Male,NumRec11-,16.83,Rajasthan,2009
+468,Male,NumRec11-,15.51,Haryana,2009
+469,Male,NumRec11-,16.53,Uttaranchal,2009
+470,Male,NumRec11-,15.08,Punjab,2009
+471,Male,NumRec11-,15.12,Himachal Pradesh,2009
+472,Male,NumRec11-,24.59,Jammu & Kashmir,2009
+473,Male,NumRec11-,20.43,Andhra Pradesh,2009
+474,Male,NumRec11-,27.56,Karnataka,2009
+475,Male,NumRec11-,9.86,Goa,2009
+476,Male,NumRec11-,18.57,Kerela,2009
+477,Male,NumRec11-,28.80,Tamil Nadu,2009
+478,Male,NumRec11-,17.83,Pondicherry,2009
+479,Male,NumRec11-,19.23,India,2009
+480,Male,Subtracti,25.08,Maharashtra,2009
+481,Male,Subtracti,25.98,Dadra and Nagar Haveli,2009
+482,Male,Subtracti,21.31,Daman and Diu,2009
+483,Male,Subtracti,21.67,Gujarat,2009
+484,Male,Subtracti,19.96,Madhya Pradesh,2009
+485,Male,Subtracti,21.87,Chhattisgarh,2009
+486,Male,Subtracti,20.43,Orissa,2009
+487,Male,Subtracti,21.55,Jharkhand,2009
+488,Male,Subtracti,22.55,West Bengal,2009
+489,Male,Subtracti,26.16,Assam,2009
+490,Male,Subtracti,25.30,Meghalaya,2009
+491,Male,Subtracti,30.63,Tripura,2009
+492,Male,Subtracti,25.46,Mizoram,2009
+493,Male,Subtracti,24.42,Manipur,2009
+494,Male,Subtracti,23.60,Nagaland,2009
+495,Male,Subtracti,26.81,Arunachal Pradesh,2009
+496,Male,Subtracti,27.65,Sikkim,2009
+497,Male,Subtracti,18.20,Bihar,2009
+498,Male,Subtracti,17.86,Uttar Pradesh,2009
+499,Male,Subtracti,18.74,Rajasthan,2009
+500,Male,Subtracti,16.90,Haryana,2009
+501,Male,Subtracti,20.88,Uttaranchal,2009
+502,Male,Subtracti,23.87,Punjab,2009
+503,Male,Subtracti,20.52,Himachal Pradesh,2009
+504,Male,Subtracti,24.81,Jammu & Kashmir,2009
+505,Male,Subtracti,22.46,Andhra Pradesh,2009
+506,Male,Subtracti,28.11,Karnataka,2009
+507,Male,Subtracti,16.05,Goa,2009
+508,Male,Subtracti,27.39,Kerela,2009
+509,Male,Subtracti,28.79,Tamil Nadu,2009
+510,Male,Subtracti,24.31,Pondicherry,2009
+511,Male,Subtracti,21.42,India,2009
+512,Male,Division,45.51,Maharashtra,2009
+513,Male,Division,49.07,Dadra and Nagar Haveli,2009
+514,Male,Division,41.87,Daman and Diu,2009
+515,Male,Division,28.76,Gujarat,2009
+516,Male,Division,52.32,Madhya Pradesh,2009
+517,Male,Division,42.69,Chhattisgarh,2009
+518,Male,Division,45.13,Orissa,2009
+519,Male,Division,30.35,Jharkhand,2009
+520,Male,Division,40.14,West Bengal,2009
+521,Male,Division,26.30,Assam,2009
+522,Male,Division,19.36,Meghalaya,2009
+523,Male,Division,31.69,Tripura,2009
+524,Male,Division,43.28,Mizoram,2009
+525,Male,Division,47.68,Manipur,2009
+526,Male,Division,39.90,Nagaland,2009
+527,Male,Division,46.27,Arunachal Pradesh,2009
+528,Male,Division,39.39,Sikkim,2009
+529,Male,Division,41.22,Bihar,2009
+530,Male,Division,26.81,Uttar Pradesh,2009
+531,Male,Division,40.38,Rajasthan,2009
+532,Male,Division,50.49,Haryana,2009
+533,Male,Division,43.01,Uttaranchal,2009
+534,Male,Division,42.91,Punjab,2009
+535,Male,Division,54.27,Himachal Pradesh,2009
+536,Male,Division,34.52,Jammu & Kashmir,2009
+537,Male,Division,40.64,Andhra Pradesh,2009
+538,Male,Division,25.92,Karnataka,2009
+539,Male,Division,68.42,Goa,2009
+540,Male,Division,47.35,Kerela,2009
+541,Male,Division,27.40,Tamil Nadu,2009
+542,Male,Division,49.47,Pondicherry,2009
+543,Male,Division,37.47,India,2009
+544,Male,Total,100.00,Maharashtra,2009
+545,Male,Total,100.00,Dadra and Nagar Haveli,2009
+546,Male,Total,100.00,Daman and Diu,2009
+547,Male,Total,100.00,Gujarat,2009
+548,Male,Total,100.00,Madhya Pradesh,2009
+549,Male,Total,100.00,Chhattisgarh,2009
+550,Male,Total,100.00,Orissa,2009
+551,Male,Total,100.00,Jharkhand,2009
+552,Male,Total,100.00,West Bengal,2009
+553,Male,Total,100.00,Assam,2009
+554,Male,Total,100.00,Meghalaya,2009
+555,Male,Total,100.00,Tripura,2009
+556,Male,Total,100.00,Mizoram,2009
+557,Male,Total,100.00,Manipur,2009
+558,Male,Total,100.00,Nagaland,2009
+559,Male,Total,100.00,Arunachal Pradesh,2009
+560,Male,Total,100.00,Sikkim,2009
+561,Male,Total,100.00,Bihar,2009
+562,Male,Total,100.00,Uttar Pradesh,2009
+563,Male,Total,100.00,Rajasthan,2009
+564,Male,Total,100.00,Haryana,2009
+565,Male,Total,100.00,Uttaranchal,2009
+566,Male,Total,100.00,Punjab,2009
+567,Male,Total,100.00,Himachal Pradesh,2009
+568,Male,Total,100.00,Jammu & Kashmir,2009
+569,Male,Total,100.00,Andhra Pradesh,2009
+570,Male,Total,100.00,Karnataka,2009
+571,Male,Total,100.00,Goa,2009
+572,Male,Total,100.00,Kerela,2009
+573,Male,Total,100.00,Tamil Nadu,2009
+574,Male,Total,100.00,Pondicherry,2009
+575,Male,Total,100.00,India,2009
+0,All,Nothing,5.10,Pondicherry,2010
+1,All,Nothing,8.26,Tamil Nadu,2010
+2,All,Nothing,0.79,Kerela,2010
+3,All,Nothing,1.35,Goa,2010
+4,All,Nothing,5.90,Karnataka,2010
+5,All,Nothing,4.02,Andhra Pradesh,2010
+6,All,Nothing,1.89,Maharashtra,2010
+7,All,Nothing,2.20,Dadra and Nagar Haveli,2010
+8,All,Nothing,7.20,Daman and Diu,2010
+9,All,Nothing,5.98,Gujarat,2010
+10,All,Nothing,4.37,Madhya Pradesh,2010
+11,All,Nothing,3.54,Chhattisgarh,2010
+12,All,Nothing,8.01,Orissa,2010
+13,All,Nothing,9.26,Jharkhand,2010
+14,All,Nothing,4.77,West Bengal,2010
+15,All,Nothing,8.08,Assam,2010
+16,All,Nothing,7.43,Meghalaya,2010
+17,All,Nothing,2.13,Tripura,2010
+18,All,Nothing,2.14,Mizoram,2010
+19,All,Nothing,1.86,Manipur,2010
+20,All,Nothing,1.72,Nagaland,2010
+21,All,Nothing,3.27,Arunachal Pradesh,2010
+22,All,Nothing,1.27,Sikkim,2010
+23,All,Nothing,11.62,Bihar,2010
+24,All,Nothing,13.50,Uttar Pradesh,2010
+25,All,Nothing,8.39,Rajasthan,2010
+26,All,Nothing,4.01,Haryana,2010
+27,All,Nothing,6.70,Uttaranchal,2010
+28,All,Nothing,4.22,Punjab,2010
+29,All,Nothing,1.81,Himachal Pradesh,2010
+30,All,Nothing,7.59,India,2010
+31,All,NR1to9,5.63,Pondicherry,2010
+32,All,NR1to9,9.34,Tamil Nadu,2010
+33,All,NR1to9,4.41,Kerela,2010
+34,All,NR1to9,10.22,Goa,2010
+35,All,NR1to9,13.29,Karnataka,2010
+36,All,NR1to9,10.02,Andhra Pradesh,2010
+37,All,NR1to9,13.11,Maharashtra,2010
+38,All,NR1to9,13.19,Dadra and Nagar Haveli,2010
+39,All,NR1to9,13.75,Daman and Diu,2010
+40,All,NR1to9,16.58,Gujarat,2010
+41,All,NR1to9,15.59,Madhya Pradesh,2010
+42,All,NR1to9,17.52,Chhattisgarh,2010
+43,All,NR1to9,15.03,Orissa,2010
+44,All,NR1to9,17.37,Jharkhand,2010
+45,All,NR1to9,14.99,West Bengal,2010
+46,All,NR1to9,18.51,Assam,2010
+47,All,NR1to9,16.17,Meghalaya,2010
+48,All,NR1to9,12.16,Tripura,2010
+49,All,NR1to9,8.39,Mizoram,2010
+50,All,NR1to9,10.05,Manipur,2010
+51,All,NR1to9,10.95,Nagaland,2010
+52,All,NR1to9,16.76,Arunachal Pradesh,2010
+53,All,NR1to9,8.35,Sikkim,2010
+54,All,NR1to9,14.76,Bihar,2010
+55,All,NR1to9,22.21,Uttar Pradesh,2010
+56,All,NR1to9,16.55,Rajasthan,2010
+57,All,NR1to9,12.37,Haryana,2010
+58,All,NR1to9,14.81,Uttaranchal,2010
+59,All,NR1to9,12.16,Punjab,2010
+60,All,NR1to9,9.11,Himachal Pradesh,2010
+61,All,NR1to9,15.39,India,2010
+62,All,NR11to99,13.33,Pondicherry,2010
+63,All,NR11to99,23.76,Tamil Nadu,2010
+64,All,NR11to99,16.34,Kerela,2010
+65,All,NR11to99,17.81,Goa,2010
+66,All,NR11to99,30.40,Karnataka,2010
+67,All,NR11to99,23.33,Andhra Pradesh,2010
+68,All,NR11to99,19.18,Maharashtra,2010
+69,All,NR11to99,16.38,Dadra and Nagar Haveli,2010
+70,All,NR11to99,20.37,Daman and Diu,2010
+71,All,NR11to99,23.06,Gujarat,2010
+72,All,NR11to99,19.50,Madhya Pradesh,2010
+73,All,NR11to99,19.04,Chhattisgarh,2010
+74,All,NR11to99,18.97,Orissa,2010
+75,All,NR11to99,17.49,Jharkhand,2010
+76,All,NR11to99,18.97,West Bengal,2010
+77,All,NR11to99,23.70,Assam,2010
+78,All,NR11to99,26.90,Meghalaya,2010
+79,All,NR11to99,20.09,Tripura,2010
+80,All,NR11to99,19.08,Mizoram,2010
+81,All,NR11to99,23.67,Manipur,2010
+82,All,NR11to99,29.62,Nagaland,2010
+83,All,NR11to99,24.49,Arunachal Pradesh,2010
+84,All,NR11to99,23.20,Sikkim,2010
+85,All,NR11to99,13.96,Bihar,2010
+86,All,NR11to99,20.40,Uttar Pradesh,2010
+87,All,NR11to99,18.16,Rajasthan,2010
+88,All,NR11to99,14.93,Haryana,2010
+89,All,NR11to99,15.22,Uttaranchal,2010
+90,All,NR11to99,13.96,Punjab,2010
+91,All,NR11to99,14.44,Himachal Pradesh,2010
+92,All,NR11to99,19.67,India,2010
+93,All,Subtraction,19.34,Pondicherry,2010
+94,All,Subtraction,28.89,Tamil Nadu,2010
+95,All,Subtraction,25.06,Kerela,2010
+96,All,Subtraction,17.71,Goa,2010
+97,All,Subtraction,26.15,Karnataka,2010
+98,All,Subtraction,23.88,Andhra Pradesh,2010
+99,All,Subtraction,26.24,Maharashtra,2010
+100,All,Subtraction,14.09,Dadra and Nagar Haveli,2010
+101,All,Subtraction,32.88,Daman and Diu,2010
+102,All,Subtraction,27.06,Gujarat,2010
+103,All,Subtraction,20.62,Madhya Pradesh,2010
+104,All,Subtraction,22.20,Chhattisgarh,2010
+105,All,Subtraction,22.64,Orissa,2010
+106,All,Subtraction,17.93,Jharkhand,2010
+107,All,Subtraction,23.20,West Bengal,2010
+108,All,Subtraction,23.95,Assam,2010
+109,All,Subtraction,22.38,Meghalaya,2010
+110,All,Subtraction,29.09,Tripura,2010
+111,All,Subtraction,27.61,Mizoram,2010
+112,All,Subtraction,26.79,Manipur,2010
+113,All,Subtraction,28.50,Nagaland,2010
+114,All,Subtraction,27.16,Arunachal Pradesh,2010
+115,All,Subtraction,27.43,Sikkim,2010
+116,All,Subtraction,17.06,Bihar,2010
+117,All,Subtraction,17.98,Uttar Pradesh,2010
+118,All,Subtraction,19.10,Rajasthan,2010
+119,All,Subtraction,16.91,Haryana,2010
+120,All,Subtraction,15.52,Uttaranchal,2010
+121,All,Subtraction,19.15,Punjab,2010
+122,All,Subtraction,20.54,Himachal Pradesh,2010
+123,All,Subtraction,21.54,India,2010
+124,All,Division,56.60,Pondicherry,2010
+125,All,Division,29.75,Tamil Nadu,2010
+126,All,Division,53.40,Kerela,2010
+127,All,Division,52.90,Goa,2010
+128,All,Division,24.26,Karnataka,2010
+129,All,Division,38.76,Andhra Pradesh,2010
+130,All,Division,39.58,Maharashtra,2010
+131,All,Division,54.15,Dadra and Nagar Haveli,2010
+132,All,Division,25.80,Daman and Diu,2010
+133,All,Division,27.31,Gujarat,2010
+134,All,Division,39.93,Madhya Pradesh,2010
+135,All,Division,37.70,Chhattisgarh,2010
+136,All,Division,35.36,Orissa,2010
+137,All,Division,37.94,Jharkhand,2010
+138,All,Division,38.07,West Bengal,2010
+139,All,Division,25.77,Assam,2010
+140,All,Division,27.12,Meghalaya,2010
+141,All,Division,36.52,Tripura,2010
+142,All,Division,42.78,Mizoram,2010
+143,All,Division,37.63,Manipur,2010
+144,All,Division,29.21,Nagaland,2010
+145,All,Division,28.32,Arunachal Pradesh,2010
+146,All,Division,39.75,Sikkim,2010
+147,All,Division,42.60,Bihar,2010
+148,All,Division,25.90,Uttar Pradesh,2010
+149,All,Division,37.80,Rajasthan,2010
+150,All,Division,51.79,Haryana,2010
+151,All,Division,47.75,Uttaranchal,2010
+152,All,Division,50.51,Punjab,2010
+153,All,Division,54.08,Himachal Pradesh,2010
+154,All,Division,35.81,India,2010
+155,All,Total,100.00,Pondicherry,2010
+156,All,Total,100.00,Tamil Nadu,2010
+157,All,Total,100.00,Kerela,2010
+158,All,Total,100.00,Goa,2010
+159,All,Total,100.00,Karnataka,2010
+160,All,Total,100.00,Andhra Pradesh,2010
+161,All,Total,100.00,Maharashtra,2010
+162,All,Total,100.00,Dadra and Nagar Haveli,2010
+163,All,Total,100.00,Daman and Diu,2010
+164,All,Total,100.00,Gujarat,2010
+165,All,Total,100.00,Madhya Pradesh,2010
+166,All,Total,100.00,Chhattisgarh,2010
+167,All,Total,100.00,Orissa,2010
+168,All,Total,100.00,Jharkhand,2010
+169,All,Total,100.00,West Bengal,2010
+170,All,Total,100.00,Assam,2010
+171,All,Total,100.00,Meghalaya,2010
+172,All,Total,100.00,Tripura,2010
+173,All,Total,100.00,Mizoram,2010
+174,All,Total,100.00,Manipur,2010
+175,All,Total,100.00,Nagaland,2010
+176,All,Total,100.00,Arunachal Pradesh,2010
+177,All,Total,100.00,Sikkim,2010
+178,All,Total,100.00,Bihar,2010
+179,All,Total,100.00,Uttar Pradesh,2010
+180,All,Total,100.00,Rajasthan,2010
+181,All,Total,100.00,Haryana,2010
+182,All,Total,100.00,Uttaranchal,2010
+183,All,Total,100.00,Punjab,2010
+184,All,Total,100.00,Himachal Pradesh,2010
+185,All,Total,100.00,India,2010
+186,Female,Nothing,5.36,Pondicherry,2010
+187,Female,Nothing,8.02,Tamil Nadu,2010
+188,Female,Nothing,0.77,Kerela,2010
+189,Female,Nothing,1.08,Goa,2010
+190,Female,Nothing,5.90,Karnataka,2010
+191,Female,Nothing,3.73,Andhra Pradesh,2010
+192,Female,Nothing,1.78,Maharashtra,2010
+193,Female,Nothing,2.02,Dadra and Nagar Haveli,2010
+194,Female,Nothing,5.44,Daman and Diu,2010
+195,Female,Nothing,6.00,Gujarat,2010
+196,Female,Nothing,4.51,Madhya Pradesh,2010
+197,Female,Nothing,3.60,Chhattisgarh,2010
+198,Female,Nothing,8.09,Orissa,2010
+199,Female,Nothing,10.03,Jharkhand,2010
+200,Female,Nothing,5.19,West Bengal,2010
+201,Female,Nothing,7.96,Assam,2010
+202,Female,Nothing,6.85,Meghalaya,2010
+203,Female,Nothing,2.24,Tripura,2010
+204,Female,Nothing,2.30,Mizoram,2010
+205,Female,Nothing,2.42,Manipur,2010
+206,Female,Nothing,1.74,Nagaland,2010
+207,Female,Nothing,3.34,Arunachal Pradesh,2010
+208,Female,Nothing,1.62,Sikkim,2010
+209,Female,Nothing,12.69,Bihar,2010
+210,Female,Nothing,14.40,Uttar Pradesh,2010
+211,Female,Nothing,8.95,Rajasthan,2010
+212,Female,Nothing,4.06,Haryana,2010
+213,Female,Nothing,6.54,Uttaranchal,2010
+214,Female,Nothing,3.76,Punjab,2010
+215,Female,Nothing,1.83,Himachal Pradesh,2010
+216,Female,Nothing,7.79,India,2010
+217,Female,NR1to9,6.17,Pondicherry,2010
+218,Female,NR1to9,8.93,Tamil Nadu,2010
+219,Female,NR1to9,4.04,Kerela,2010
+220,Female,NR1to9,9.88,Goa,2010
+221,Female,NR1to9,13.32,Karnataka,2010
+222,Female,NR1to9,9.67,Andhra Pradesh,2010
+223,Female,NR1to9,13.03,Maharashtra,2010
+224,Female,NR1to9,11.69,Dadra and Nagar Haveli,2010
+225,Female,NR1to9,12.97,Daman and Diu,2010
+226,Female,NR1to9,17.00,Gujarat,2010
+227,Female,NR1to9,16.34,Madhya Pradesh,2010
+228,Female,NR1to9,17.63,Chhattisgarh,2010
+229,Female,NR1to9,14.97,Orissa,2010
+230,Female,NR1to9,17.11,Jharkhand,2010
+231,Female,NR1to9,14.73,West Bengal,2010
+232,Female,NR1to9,18.21,Assam,2010
+233,Female,NR1to9,14.44,Meghalaya,2010
+234,Female,NR1to9,12.30,Tripura,2010
+235,Female,NR1to9,9.11,Mizoram,2010
+236,Female,NR1to9,10.68,Manipur,2010
+237,Female,NR1to9,11.08,Nagaland,2010
+238,Female,NR1to9,16.36,Arunachal Pradesh,2010
+239,Female,NR1to9,8.92,Sikkim,2010
+240,Female,NR1to9,15.59,Bihar,2010
+241,Female,NR1to9,23.72,Uttar Pradesh,2010
+242,Female,NR1to9,17.64,Rajasthan,2010
+243,Female,NR1to9,13.37,Haryana,2010
+244,Female,NR1to9,14.50,Uttaranchal,2010
+245,Female,NR1to9,11.88,Punjab,2010
+246,Female,NR1to9,9.40,Himachal Pradesh,2010
+247,Female,NR1to9,15.66,India,2010
+248,Female,NR11to99,12.47,Pondicherry,2010
+249,Female,NR11to99,23.60,Tamil Nadu,2010
+250,Female,NR11to99,15.58,Kerela,2010
+251,Female,NR11to99,16.46,Goa,2010
+252,Female,NR11to99,30.42,Karnataka,2010
+253,Female,NR11to99,23.10,Andhra Pradesh,2010
+254,Female,NR11to99,19.22,Maharashtra,2010
+255,Female,NR11to99,17.74,Dadra and Nagar Haveli,2010
+256,Female,NR11to99,18.61,Daman and Diu,2010
+257,Female,NR11to99,23.96,Gujarat,2010
+258,Female,NR11to99,19.73,Madhya Pradesh,2010
+259,Female,NR11to99,18.54,Chhattisgarh,2010
+260,Female,NR11to99,19.30,Orissa,2010
+261,Female,NR11to99,18.73,Jharkhand,2010
+262,Female,NR11to99,19.27,West Bengal,2010
+263,Female,NR11to99,23.84,Assam,2010
+264,Female,NR11to99,25.72,Meghalaya,2010
+265,Female,NR11to99,18.62,Tripura,2010
+266,Female,NR11to99,19.59,Mizoram,2010
+267,Female,NR11to99,24.57,Manipur,2010
+268,Female,NR11to99,30.04,Nagaland,2010
+269,Female,NR11to99,25.58,Arunachal Pradesh,2010
+270,Female,NR11to99,23.47,Sikkim,2010
+271,Female,NR11to99,14.71,Bihar,2010
+272,Female,NR11to99,20.84,Uttar Pradesh,2010
+273,Female,NR11to99,19.33,Rajasthan,2010
+274,Female,NR11to99,15.33,Haryana,2010
+275,Female,NR11to99,16.01,Uttaranchal,2010
+276,Female,NR11to99,14.09,Punjab,2010
+277,Female,NR11to99,13.94,Himachal Pradesh,2010
+278,Female,NR11to99,20.10,India,2010
+279,Female,Subtraction,19.62,Pondicherry,2010
+280,Female,Subtraction,28.74,Tamil Nadu,2010
+281,Female,Subtraction,24.58,Kerela,2010
+282,Female,Subtraction,18.54,Goa,2010
+283,Female,Subtraction,25.71,Karnataka,2010
+284,Female,Subtraction,23.80,Andhra Pradesh,2010
+285,Female,Subtraction,26.20,Maharashtra,2010
+286,Female,Subtraction,13.31,Dadra and Nagar Haveli,2010
+287,Female,Subtraction,36.90,Daman and Diu,2010
+288,Female,Subtraction,27.06,Gujarat,2010
+289,Female,Subtraction,21.47,Madhya Pradesh,2010
+290,Female,Subtraction,22.25,Chhattisgarh,2010
+291,Female,Subtraction,22.71,Orissa,2010
+292,Female,Subtraction,18.62,Jharkhand,2010
+293,Female,Subtraction,23.32,West Bengal,2010
+294,Female,Subtraction,25.01,Assam,2010
+295,Female,Subtraction,24.35,Meghalaya,2010
+296,Female,Subtraction,29.68,Tripura,2010
+297,Female,Subtraction,26.75,Mizoram,2010
+298,Female,Subtraction,27.49,Manipur,2010
+299,Female,Subtraction,28.08,Nagaland,2010
+300,Female,Subtraction,27.49,Arunachal Pradesh,2010
+301,Female,Subtraction,27.33,Sikkim,2010
+302,Female,Subtraction,17.30,Bihar,2010
+303,Female,Subtraction,17.98,Uttar Pradesh,2010
+304,Female,Subtraction,18.90,Rajasthan,2010
+305,Female,Subtraction,16.75,Haryana,2010
+306,Female,Subtraction,15.66,Uttaranchal,2010
+307,Female,Subtraction,18.50,Punjab,2010
+308,Female,Subtraction,19.75,Himachal Pradesh,2010
+309,Female,Subtraction,21.77,India,2010
+310,Female,Division,56.39,Pondicherry,2010
+311,Female,Division,30.71,Tamil Nadu,2010
+312,Female,Division,55.03,Kerela,2010
+313,Female,Division,54.03,Goa,2010
+314,Female,Division,24.66,Karnataka,2010
+315,Female,Division,39.71,Andhra Pradesh,2010
+316,Female,Division,39.77,Maharashtra,2010
+317,Female,Division,55.24,Dadra and Nagar Haveli,2010
+318,Female,Division,26.08,Daman and Diu,2010
+319,Female,Division,25.99,Gujarat,2010
+320,Female,Division,37.95,Madhya Pradesh,2010
+321,Female,Division,37.97,Chhattisgarh,2010
+322,Female,Division,34.92,Orissa,2010
+323,Female,Division,35.50,Jharkhand,2010
+324,Female,Division,37.49,West Bengal,2010
+325,Female,Division,24.97,Assam,2010
+326,Female,Division,28.64,Meghalaya,2010
+327,Female,Division,37.16,Tripura,2010
+328,Female,Division,42.24,Mizoram,2010
+329,Female,Division,34.83,Manipur,2010
+330,Female,Division,29.06,Nagaland,2010
+331,Female,Division,27.22,Arunachal Pradesh,2010
+332,Female,Division,38.65,Sikkim,2010
+333,Female,Division,39.72,Bihar,2010
+334,Female,Division,23.07,Uttar Pradesh,2010
+335,Female,Division,35.19,Rajasthan,2010
+336,Female,Division,50.50,Haryana,2010
+337,Female,Division,47.28,Uttaranchal,2010
+338,Female,Division,51.77,Punjab,2010
+339,Female,Division,55.09,Himachal Pradesh,2010
+340,Female,Division,34.69,India,2010
+341,Female,Total,100.00,Pondicherry,2010
+342,Female,Total,100.00,Tamil Nadu,2010
+343,Female,Total,100.00,Kerela,2010
+344,Female,Total,100.00,Goa,2010
+345,Female,Total,100.00,Karnataka,2010
+346,Female,Total,100.00,Andhra Pradesh,2010
+347,Female,Total,100.00,Maharashtra,2010
+348,Female,Total,100.00,Dadra and Nagar Haveli,2010
+349,Female,Total,100.00,Daman and Diu,2010
+350,Female,Total,100.00,Gujarat,2010
+351,Female,Total,100.00,Madhya Pradesh,2010
+352,Female,Total,100.00,Chhattisgarh,2010
+353,Female,Total,100.00,Orissa,2010
+354,Female,Total,100.00,Jharkhand,2010
+355,Female,Total,100.00,West Bengal,2010
+356,Female,Total,100.00,Assam,2010
+357,Female,Total,100.00,Meghalaya,2010
+358,Female,Total,100.00,Tripura,2010
+359,Female,Total,100.00,Mizoram,2010
+360,Female,Total,100.00,Manipur,2010
+361,Female,Total,100.00,Nagaland,2010
+362,Female,Total,100.00,Arunachal Pradesh,2010
+363,Female,Total,100.00,Sikkim,2010
+364,Female,Total,100.00,Bihar,2010
+365,Female,Total,100.00,Uttar Pradesh,2010
+366,Female,Total,100.00,Rajasthan,2010
+367,Female,Total,100.00,Haryana,2010
+368,Female,Total,100.00,Uttaranchal,2010
+369,Female,Total,100.00,Punjab,2010
+370,Female,Total,100.00,Himachal Pradesh,2010
+371,Female,Total,100.00,India,2010
+372,Male,Nothing,4.90,Pondicherry,2010
+373,Male,Nothing,8.49,Tamil Nadu,2010
+374,Male,Nothing,0.81,Kerela,2010
+375,Male,Nothing,1.55,Goa,2010
+376,Male,Nothing,5.89,Karnataka,2010
+377,Male,Nothing,4.30,Andhra Pradesh,2010
+378,Male,Nothing,1.99,Maharashtra,2010
+379,Male,Nothing,2.38,Dadra and Nagar Haveli,2010
+380,Male,Nothing,8.72,Daman and Diu,2010
+381,Male,Nothing,5.97,Gujarat,2010
+382,Male,Nothing,4.25,Madhya Pradesh,2010
+383,Male,Nothing,3.48,Chhattisgarh,2010
+384,Male,Nothing,7.94,Orissa,2010
+385,Male,Nothing,8.66,Jharkhand,2010
+386,Male,Nothing,4.36,West Bengal,2010
+387,Male,Nothing,8.19,Assam,2010
+388,Male,Nothing,8.05,Meghalaya,2010
+389,Male,Nothing,2.05,Tripura,2010
+390,Male,Nothing,2.02,Mizoram,2010
+391,Male,Nothing,1.39,Manipur,2010
+392,Male,Nothing,1.70,Nagaland,2010
+393,Male,Nothing,3.20,Arunachal Pradesh,2010
+394,Male,Nothing,0.91,Sikkim,2010
+395,Male,Nothing,10.82,Bihar,2010
+396,Male,Nothing,12.79,Uttar Pradesh,2010
+397,Male,Nothing,7.99,Rajasthan,2010
+398,Male,Nothing,3.97,Haryana,2010
+399,Male,Nothing,6.83,Uttaranchal,2010
+400,Male,Nothing,4.58,Punjab,2010
+401,Male,Nothing,1.80,Himachal Pradesh,2010
+402,Male,Nothing,7.42,India,2010
+403,Male,NR1to9,5.21,Pondicherry,2010
+404,Male,NR1to9,9.74,Tamil Nadu,2010
+405,Male,NR1to9,4.79,Kerela,2010
+406,Male,NR1to9,10.48,Goa,2010
+407,Male,NR1to9,13.26,Karnataka,2010
+408,Male,NR1to9,10.36,Andhra Pradesh,2010
+409,Male,NR1to9,13.19,Maharashtra,2010
+410,Male,NR1to9,14.65,Dadra and Nagar Haveli,2010
+411,Male,NR1to9,14.43,Daman and Diu,2010
+412,Male,NR1to9,16.27,Gujarat,2010
+413,Male,NR1to9,14.99,Madhya Pradesh,2010
+414,Male,NR1to9,17.42,Chhattisgarh,2010
+415,Male,NR1to9,15.07,Orissa,2010
+416,Male,NR1to9,17.57,Jharkhand,2010
+417,Male,NR1to9,15.24,West Bengal,2010
+418,Male,NR1to9,18.77,Assam,2010
+419,Male,NR1to9,17.99,Meghalaya,2010
+420,Male,NR1to9,12.04,Tripura,2010
+421,Male,NR1to9,7.81,Mizoram,2010
+422,Male,NR1to9,9.52,Manipur,2010
+423,Male,NR1to9,10.83,Nagaland,2010
+424,Male,NR1to9,17.10,Arunachal Pradesh,2010
+425,Male,NR1to9,7.76,Sikkim,2010
+426,Male,NR1to9,14.14,Bihar,2010
+427,Male,NR1to9,21.01,Uttar Pradesh,2010
+428,Male,NR1to9,15.76,Rajasthan,2010
+429,Male,NR1to9,11.65,Haryana,2010
+430,Male,NR1to9,15.07,Uttaranchal,2010
+431,Male,NR1to9,12.37,Punjab,2010
+432,Male,NR1to9,8.84,Himachal Pradesh,2010
+433,Male,NR1to9,15.17,India,2010
+434,Male,NR11to99,14.00,Pondicherry,2010
+435,Male,NR11to99,23.92,Tamil Nadu,2010
+436,Male,NR11to99,17.09,Kerela,2010
+437,Male,NR11to99,18.82,Goa,2010
+438,Male,NR11to99,30.39,Karnataka,2010
+439,Male,NR11to99,23.55,Andhra Pradesh,2010
+440,Male,NR11to99,19.14,Maharashtra,2010
+441,Male,NR11to99,15.05,Dadra and Nagar Haveli,2010
+442,Male,NR11to99,21.90,Daman and Diu,2010
+443,Male,NR11to99,22.37,Gujarat,2010
+444,Male,NR11to99,19.31,Madhya Pradesh,2010
+445,Male,NR11to99,19.49,Chhattisgarh,2010
+446,Male,NR11to99,18.68,Orissa,2010
+447,Male,NR11to99,16.53,Jharkhand,2010
+448,Male,NR11to99,18.68,West Bengal,2010
+449,Male,NR11to99,23.56,Assam,2010
+450,Male,NR11to99,28.16,Meghalaya,2010
+451,Male,NR11to99,21.31,Tripura,2010
+452,Male,NR11to99,18.69,Mizoram,2010
+453,Male,NR11to99,22.92,Manipur,2010
+454,Male,NR11to99,29.26,Nagaland,2010
+455,Male,NR11to99,23.58,Arunachal Pradesh,2010
+456,Male,NR11to99,22.93,Sikkim,2010
+457,Male,NR11to99,13.39,Bihar,2010
+458,Male,NR11to99,20.06,Uttar Pradesh,2010
+459,Male,NR11to99,17.31,Rajasthan,2010
+460,Male,NR11to99,14.64,Haryana,2010
+461,Male,NR11to99,14.55,Uttaranchal,2010
+462,Male,NR11to99,13.86,Punjab,2010
+463,Male,NR11to99,14.94,Himachal Pradesh,2010
+464,Male,NR11to99,19.31,India,2010
+465,Male,Subtraction,19.12,Pondicherry,2010
+466,Male,Subtraction,29.03,Tamil Nadu,2010
+467,Male,Subtraction,25.54,Kerela,2010
+468,Male,Subtraction,17.09,Goa,2010
+469,Male,Subtraction,26.60,Karnataka,2010
+470,Male,Subtraction,23.96,Andhra Pradesh,2010
+471,Male,Subtraction,26.27,Maharashtra,2010
+472,Male,Subtraction,14.85,Dadra and Nagar Haveli,2010
+473,Male,Subtraction,29.40,Daman and Diu,2010
+474,Male,Subtraction,27.07,Gujarat,2010
+475,Male,Subtraction,19.94,Madhya Pradesh,2010
+476,Male,Subtraction,22.14,Chhattisgarh,2010
+477,Male,Subtraction,22.57,Orissa,2010
+478,Male,Subtraction,17.40,Jharkhand,2010
+479,Male,Subtraction,23.08,West Bengal,2010
+480,Male,Subtraction,22.98,Assam,2010
+481,Male,Subtraction,20.28,Meghalaya,2010
+482,Male,Subtraction,28.61,Tripura,2010
+483,Male,Subtraction,28.29,Mizoram,2010
+484,Male,Subtraction,26.20,Manipur,2010
+485,Male,Subtraction,28.87,Nagaland,2010
+486,Male,Subtraction,26.88,Arunachal Pradesh,2010
+487,Male,Subtraction,27.53,Sikkim,2010
+488,Male,Subtraction,16.88,Bihar,2010
+489,Male,Subtraction,17.98,Uttar Pradesh,2010
+490,Male,Subtraction,19.25,Rajasthan,2010
+491,Male,Subtraction,17.02,Haryana,2010
+492,Male,Subtraction,15.41,Uttaranchal,2010
+493,Male,Subtraction,19.65,Punjab,2010
+494,Male,Subtraction,21.32,Himachal Pradesh,2010
+495,Male,Subtraction,21.35,India,2010
+496,Male,Division,56.77,Pondicherry,2010
+497,Male,Division,28.81,Tamil Nadu,2010
+498,Male,Division,51.77,Kerela,2010
+499,Male,Division,52.06,Goa,2010
+500,Male,Division,23.86,Karnataka,2010
+501,Male,Division,37.83,Andhra Pradesh,2010
+502,Male,Division,39.40,Maharashtra,2010
+503,Male,Division,53.07,Dadra and Nagar Haveli,2010
+504,Male,Division,25.55,Daman and Diu,2010
+505,Male,Division,28.31,Gujarat,2010
+506,Male,Division,41.51,Madhya Pradesh,2010
+507,Male,Division,37.46,Chhattisgarh,2010
+508,Male,Division,35.73,Orissa,2010
+509,Male,Division,39.85,Jharkhand,2010
+510,Male,Division,38.64,West Bengal,2010
+511,Male,Division,26.50,Assam,2010
+512,Male,Division,25.51,Meghalaya,2010
+513,Male,Division,36.00,Tripura,2010
+514,Male,Division,43.20,Mizoram,2010
+515,Male,Division,39.97,Manipur,2010
+516,Male,Division,29.35,Nagaland,2010
+517,Male,Division,29.23,Arunachal Pradesh,2010
+518,Male,Division,40.87,Sikkim,2010
+519,Male,Division,44.77,Bihar,2010
+520,Male,Division,28.16,Uttar Pradesh,2010
+521,Male,Division,39.69,Rajasthan,2010
+522,Male,Division,52.72,Haryana,2010
+523,Male,Division,48.15,Uttaranchal,2010
+524,Male,Division,49.54,Punjab,2010
+525,Male,Division,53.10,Himachal Pradesh,2010
+526,Male,Division,36.75,India,2010
+527,Male,Total,100.00,Pondicherry,2010
+528,Male,Total,100.00,Tamil Nadu,2010
+529,Male,Total,100.00,Kerela,2010
+530,Male,Total,100.00,Goa,2010
+531,Male,Total,100.00,Karnataka,2010
+532,Male,Total,100.00,Andhra Pradesh,2010
+533,Male,Total,100.00,Maharashtra,2010
+534,Male,Total,100.00,Dadra and Nagar Haveli,2010
+535,Male,Total,100.00,Daman and Diu,2010
+536,Male,Total,100.00,Gujarat,2010
+537,Male,Total,100.00,Madhya Pradesh,2010
+538,Male,Total,100.00,Chhattisgarh,2010
+539,Male,Total,100.00,Orissa,2010
+540,Male,Total,100.00,Jharkhand,2010
+541,Male,Total,100.00,West Bengal,2010
+542,Male,Total,100.00,Assam,2010
+543,Male,Total,100.00,Meghalaya,2010
+544,Male,Total,100.00,Tripura,2010
+545,Male,Total,100.00,Mizoram,2010
+546,Male,Total,100.00,Manipur,2010
+547,Male,Total,100.00,Nagaland,2010
+548,Male,Total,100.00,Arunachal Pradesh,2010
+549,Male,Total,100.00,Sikkim,2010
+550,Male,Total,100.00,Bihar,2010
+551,Male,Total,100.00,Uttar Pradesh,2010
+552,Male,Total,100.00,Rajasthan,2010
+553,Male,Total,100.00,Haryana,2010
+554,Male,Total,100.00,Uttaranchal,2010
+555,Male,Total,100.00,Punjab,2010
+556,Male,Total,100.00,Himachal Pradesh,2010
+557,Male,Total,100.00,India,2010
+0,All,Nothing,2.95,Jammu & Kashmir,2011
+1,All,Nothing,1.31,Himachal Pradesh,2011
+2,All,Nothing,3.77,Punjab,2011
+3,All,Nothing,7.05,Uttaranchal,2011
+4,All,Nothing,5.11,Haryana,2011
+5,All,Nothing,9.44,Rajasthan,2011
+6,All,Nothing,14.14,Uttar Pradesh,2011
+7,All,Nothing,13.76,Bihar,2011
+8,All,Nothing,4.83,Arunachal Pradesh,2011
+9,All,Nothing,2.53,Nagaland,2011
+10,All,Nothing,1.50,Manipur,2011
+11,All,Nothing,1.10,Mizoram,2011
+12,All,Nothing,3.23,Tripura,2011
+13,All,Nothing,12.61,Meghalaya,2011
+14,All,Nothing,8.89,Assam,2011
+15,All,Nothing,4.10,West Bengal,2011
+16,All,Nothing,12.48,Jharkhand,2011
+17,All,Nothing,9.65,Orissa,2011
+18,All,Nothing,6.72,Chhattisgarh,2011
+19,All,Nothing,12.02,Madhya Pradesh,2011
+20,All,Nothing,5.68,Gujarat,2011
+21,All,Nothing,3.51,Daman and Diu,2011
+22,All,Nothing,3.42,Dadra and Nagar Haveli,2011
+23,All,Nothing,2.75,Maharashtra,2011
+24,All,Nothing,3.97,Andhra Pradesh,2011
+25,All,Nothing,4.45,Karnataka,2011
+26,All,Nothing,1.01,Goa,2011
+27,All,Nothing,1.34,Kerela,2011
+28,All,Nothing,7.68,Tamil Nadu,2011
+29,All,Nothing,3.55,Pondicherry,2011
+30,All,Nothing,8.69,India,2011
+31,All,NR1to9,12.81,Jammu & Kashmir,2011
+32,All,NR1to9,8.76,Himachal Pradesh,2011
+33,All,NR1to9,12.80,Punjab,2011
+34,All,NR1to9,15.81,Uttaranchal,2011
+35,All,NR1to9,12.56,Haryana,2011
+36,All,NR1to9,18.69,Rajasthan,2011
+37,All,NR1to9,24.94,Uttar Pradesh,2011
+38,All,NR1to9,19.09,Bihar,2011
+39,All,NR1to9,12.50,Arunachal Pradesh,2011
+40,All,NR1to9,14.03,Nagaland,2011
+41,All,NR1to9,7.74,Manipur,2011
+42,All,NR1to9,10.22,Mizoram,2011
+43,All,NR1to9,10.18,Tripura,2011
+44,All,NR1to9,24.94,Meghalaya,2011
+45,All,NR1to9,22.49,Assam,2011
+46,All,NR1to9,16.15,West Bengal,2011
+47,All,NR1to9,22.23,Jharkhand,2011
+48,All,NR1to9,16.77,Orissa,2011
+49,All,NR1to9,21.92,Chhattisgarh,2011
+50,All,NR1to9,24.69,Madhya Pradesh,2011
+51,All,NR1to9,16.89,Gujarat,2011
+52,All,NR1to9,16.53,Daman and Diu,2011
+53,All,NR1to9,19.47,Dadra and Nagar Haveli,2011
+54,All,NR1to9,15.07,Maharashtra,2011
+55,All,NR1to9,10.13,Andhra Pradesh,2011
+56,All,NR1to9,13.39,Karnataka,2011
+57,All,NR1to9,9.75,Goa,2011
+58,All,NR1to9,5.84,Kerela,2011
+59,All,NR1to9,9.37,Tamil Nadu,2011
+60,All,NR1to9,6.62,Pondicherry,2011
+61,All,NR1to9,17.74,India,2011
+62,All,NR11to99,27.53,Jammu & Kashmir,2011
+63,All,NR11to99,17.05,Himachal Pradesh,2011
+64,All,NR11to99,18.57,Punjab,2011
+65,All,NR11to99,20.94,Uttaranchal,2011
+66,All,NR11to99,16.33,Haryana,2011
+67,All,NR11to99,18.40,Rajasthan,2011
+68,All,NR11to99,20.58,Uttar Pradesh,2011
+69,All,NR11to99,16.10,Bihar,2011
+70,All,NR11to99,23.81,Arunachal Pradesh,2011
+71,All,NR11to99,27.55,Nagaland,2011
+72,All,NR11to99,25.30,Manipur,2011
+73,All,NR11to99,18.84,Mizoram,2011
+74,All,NR11to99,17.69,Tripura,2011
+75,All,NR11to99,29.83,Meghalaya,2011
+76,All,NR11to99,25.80,Assam,2011
+77,All,NR11to99,22.14,West Bengal,2011
+78,All,NR11to99,18.72,Jharkhand,2011
+79,All,NR11to99,20.08,Orissa,2011
+80,All,NR11to99,21.74,Chhattisgarh,2011
+81,All,NR11to99,21.36,Madhya Pradesh,2011
+82,All,NR11to99,23.03,Gujarat,2011
+83,All,NR11to99,22.01,Daman and Diu,2011
+84,All,NR11to99,21.32,Dadra and Nagar Haveli,2011
+85,All,NR11to99,21.20,Maharashtra,2011
+86,All,NR11to99,24.58,Andhra Pradesh,2011
+87,All,NR11to99,28.18,Karnataka,2011
+88,All,NR11to99,22.02,Goa,2011
+89,All,NR11to99,22.20,Kerela,2011
+90,All,NR11to99,25.03,Tamil Nadu,2011
+91,All,NR11to99,25.39,Pondicherry,2011
+92,All,NR11to99,21.17,India,2011
+93,All,Subtraction,31.98,Jammu & Kashmir,2011
+94,All,Subtraction,21.26,Himachal Pradesh,2011
+95,All,Subtraction,22.20,Punjab,2011
+96,All,Subtraction,21.03,Uttaranchal,2011
+97,All,Subtraction,19.77,Haryana,2011
+98,All,Subtraction,19.16,Rajasthan,2011
+99,All,Subtraction,17.77,Uttar Pradesh,2011
+100,All,Subtraction,18.17,Bihar,2011
+101,All,Subtraction,25.25,Arunachal Pradesh,2011
+102,All,Subtraction,28.31,Nagaland,2011
+103,All,Subtraction,25.65,Manipur,2011
+104,All,Subtraction,20.80,Mizoram,2011
+105,All,Subtraction,29.30,Tripura,2011
+106,All,Subtraction,18.32,Meghalaya,2011
+107,All,Subtraction,24.31,Assam,2011
+108,All,Subtraction,23.31,West Bengal,2011
+109,All,Subtraction,19.99,Jharkhand,2011
+110,All,Subtraction,23.19,Orissa,2011
+111,All,Subtraction,24.19,Chhattisgarh,2011
+112,All,Subtraction,19.27,Madhya Pradesh,2011
+113,All,Subtraction,25.47,Gujarat,2011
+114,All,Subtraction,26.89,Daman and Diu,2011
+115,All,Subtraction,30.79,Dadra and Nagar Haveli,2011
+116,All,Subtraction,26.32,Maharashtra,2011
+117,All,Subtraction,25.66,Andhra Pradesh,2011
+118,All,Subtraction,28.36,Karnataka,2011
+119,All,Subtraction,27.90,Goa,2011
+120,All,Subtraction,26.27,Kerela,2011
+121,All,Subtraction,29.13,Tamil Nadu,2011
+122,All,Subtraction,29.40,Pondicherry,2011
+123,All,Subtraction,22.21,India,2011
+124,All,Division,24.73,Jammu & Kashmir,2011
+125,All,Division,51.61,Himachal Pradesh,2011
+126,All,Division,42.67,Punjab,2011
+127,All,Division,35.17,Uttaranchal,2011
+128,All,Division,46.22,Haryana,2011
+129,All,Division,34.31,Rajasthan,2011
+130,All,Division,22.57,Uttar Pradesh,2011
+131,All,Division,32.88,Bihar,2011
+132,All,Division,33.61,Arunachal Pradesh,2011
+133,All,Division,27.57,Nagaland,2011
+134,All,Division,39.80,Manipur,2011
+135,All,Division,49.04,Mizoram,2011
+136,All,Division,39.60,Tripura,2011
+137,All,Division,14.31,Meghalaya,2011
+138,All,Division,18.51,Assam,2011
+139,All,Division,34.30,West Bengal,2011
+140,All,Division,26.58,Jharkhand,2011
+141,All,Division,30.31,Orissa,2011
+142,All,Division,25.44,Chhattisgarh,2011
+143,All,Division,22.66,Madhya Pradesh,2011
+144,All,Division,28.93,Gujarat,2011
+145,All,Division,31.07,Daman and Diu,2011
+146,All,Division,25.00,Dadra and Nagar Haveli,2011
+147,All,Division,34.66,Maharashtra,2011
+148,All,Division,35.66,Andhra Pradesh,2011
+149,All,Division,25.62,Karnataka,2011
+150,All,Division,39.33,Goa,2011
+151,All,Division,44.36,Kerela,2011
+152,All,Division,28.80,Tamil Nadu,2011
+153,All,Division,35.04,Pondicherry,2011
+154,All,Division,30.19,India,2011
+155,All,Total,100.00,Jammu & Kashmir,2011
+156,All,Total,100.00,Himachal Pradesh,2011
+157,All,Total,100.00,Punjab,2011
+158,All,Total,100.00,Uttaranchal,2011
+159,All,Total,100.00,Haryana,2011
+160,All,Total,100.00,Rajasthan,2011
+161,All,Total,100.00,Uttar Pradesh,2011
+162,All,Total,100.00,Bihar,2011
+163,All,Total,100.00,Arunachal Pradesh,2011
+164,All,Total,100.00,Nagaland,2011
+165,All,Total,100.00,Manipur,2011
+166,All,Total,100.00,Mizoram,2011
+167,All,Total,100.00,Tripura,2011
+168,All,Total,100.00,Meghalaya,2011
+169,All,Total,100.00,Assam,2011
+170,All,Total,100.00,West Bengal,2011
+171,All,Total,100.00,Jharkhand,2011
+172,All,Total,100.00,Orissa,2011
+173,All,Total,100.00,Chhattisgarh,2011
+174,All,Total,100.00,Madhya Pradesh,2011
+175,All,Total,100.00,Gujarat,2011
+176,All,Total,100.00,Daman and Diu,2011
+177,All,Total,100.00,Dadra and Nagar Haveli,2011
+178,All,Total,100.00,Maharashtra,2011
+179,All,Total,100.00,Andhra Pradesh,2011
+180,All,Total,100.00,Karnataka,2011
+181,All,Total,100.00,Goa,2011
+182,All,Total,100.00,Kerela,2011
+183,All,Total,100.00,Tamil Nadu,2011
+184,All,Total,100.00,Pondicherry,2011
+185,All,Total,100.00,India,2011
+186,Female,Nothing,3.52,Jammu & Kashmir,2011
+187,Female,Nothing,1.48,Himachal Pradesh,2011
+188,Female,Nothing,3.58,Punjab,2011
+189,Female,Nothing,6.95,Uttaranchal,2011
+190,Female,Nothing,4.79,Haryana,2011
+191,Female,Nothing,10.39,Rajasthan,2011
+192,Female,Nothing,15.04,Uttar Pradesh,2011
+193,Female,Nothing,14.32,Bihar,2011
+194,Female,Nothing,4.21,Arunachal Pradesh,2011
+195,Female,Nothing,2.29,Nagaland,2011
+196,Female,Nothing,1.73,Manipur,2011
+197,Female,Nothing,1.10,Mizoram,2011
+198,Female,Nothing,3.22,Tripura,2011
+199,Female,Nothing,12.47,Meghalaya,2011
+200,Female,Nothing,8.50,Assam,2011
+201,Female,Nothing,3.91,West Bengal,2011
+202,Female,Nothing,12.68,Jharkhand,2011
+203,Female,Nothing,9.40,Orissa,2011
+204,Female,Nothing,6.97,Chhattisgarh,2011
+205,Female,Nothing,12.22,Madhya Pradesh,2011
+206,Female,Nothing,6.26,Gujarat,2011
+207,Female,Nothing,3.35,Daman and Diu,2011
+208,Female,Nothing,3.40,Dadra and Nagar Haveli,2011
+209,Female,Nothing,2.74,Maharashtra,2011
+210,Female,Nothing,3.92,Andhra Pradesh,2011
+211,Female,Nothing,4.30,Karnataka,2011
+212,Female,Nothing,0.00,Goa,2011
+213,Female,Nothing,1.36,Kerela,2011
+214,Female,Nothing,7.75,Tamil Nadu,2011
+215,Female,Nothing,3.50,Pondicherry,2011
+216,Female,Nothing,8.89,India,2011
+217,Female,NR1to9,12.82,Jammu & Kashmir,2011
+218,Female,NR1to9,8.13,Himachal Pradesh,2011
+219,Female,NR1to9,11.83,Punjab,2011
+220,Female,NR1to9,16.55,Uttaranchal,2011
+221,Female,NR1to9,13.06,Haryana,2011
+222,Female,NR1to9,19.85,Rajasthan,2011
+223,Female,NR1to9,26.67,Uttar Pradesh,2011
+224,Female,NR1to9,20.31,Bihar,2011
+225,Female,NR1to9,13.09,Arunachal Pradesh,2011
+226,Female,NR1to9,13.69,Nagaland,2011
+227,Female,NR1to9,8.29,Manipur,2011
+228,Female,NR1to9,10.25,Mizoram,2011
+229,Female,NR1to9,11.32,Tripura,2011
+230,Female,NR1to9,24.32,Meghalaya,2011
+231,Female,NR1to9,22.46,Assam,2011
+232,Female,NR1to9,15.05,West Bengal,2011
+233,Female,NR1to9,23.77,Jharkhand,2011
+234,Female,NR1to9,17.53,Orissa,2011
+235,Female,NR1to9,22.64,Chhattisgarh,2011
+236,Female,NR1to9,25.73,Madhya Pradesh,2011
+237,Female,NR1to9,17.76,Gujarat,2011
+238,Female,NR1to9,15.83,Daman and Diu,2011
+239,Female,NR1to9,22.45,Dadra and Nagar Haveli,2011
+240,Female,NR1to9,15.24,Maharashtra,2011
+241,Female,NR1to9,10.00,Andhra Pradesh,2011
+242,Female,NR1to9,13.71,Karnataka,2011
+243,Female,NR1to9,10.04,Goa,2011
+244,Female,NR1to9,5.36,Kerela,2011
+245,Female,NR1to9,8.73,Tamil Nadu,2011
+246,Female,NR1to9,6.36,Pondicherry,2011
+247,Female,NR1to9,18.21,India,2011
+248,Female,NR11to99,28.55,Jammu & Kashmir,2011
+249,Female,NR11to99,17.44,Himachal Pradesh,2011
+250,Female,NR11to99,19.07,Punjab,2011
+251,Female,NR11to99,21.02,Uttaranchal,2011
+252,Female,NR11to99,16.21,Haryana,2011
+253,Female,NR11to99,18.62,Rajasthan,2011
+254,Female,NR11to99,21.70,Uttar Pradesh,2011
+255,Female,NR11to99,16.43,Bihar,2011
+256,Female,NR11to99,24.61,Arunachal Pradesh,2011
+257,Female,NR11to99,28.11,Nagaland,2011
+258,Female,NR11to99,24.92,Manipur,2011
+259,Female,NR11to99,19.27,Mizoram,2011
+260,Female,NR11to99,16.78,Tripura,2011
+261,Female,NR11to99,29.72,Meghalaya,2011
+262,Female,NR11to99,25.70,Assam,2011
+263,Female,NR11to99,22.47,West Bengal,2011
+264,Female,NR11to99,19.00,Jharkhand,2011
+265,Female,NR11to99,19.90,Orissa,2011
+266,Female,NR11to99,21.93,Chhattisgarh,2011
+267,Female,NR11to99,21.31,Madhya Pradesh,2011
+268,Female,NR11to99,23.37,Gujarat,2011
+269,Female,NR11to99,20.24,Daman and Diu,2011
+270,Female,NR11to99,21.09,Dadra and Nagar Haveli,2011
+271,Female,NR11to99,20.84,Maharashtra,2011
+272,Female,NR11to99,24.09,Andhra Pradesh,2011
+273,Female,NR11to99,27.36,Karnataka,2011
+274,Female,NR11to99,20.79,Goa,2011
+275,Female,NR11to99,20.73,Kerela,2011
+276,Female,NR11to99,24.58,Tamil Nadu,2011
+277,Female,NR11to99,23.52,Pondicherry,2011
+278,Female,NR11to99,21.39,India,2011
+279,Female,Subtraction,31.90,Jammu & Kashmir,2011
+280,Female,Subtraction,20.54,Himachal Pradesh,2011
+281,Female,Subtraction,22.09,Punjab,2011
+282,Female,Subtraction,21.95,Uttaranchal,2011
+283,Female,Subtraction,20.28,Haryana,2011
+284,Female,Subtraction,18.87,Rajasthan,2011
+285,Female,Subtraction,18.19,Uttar Pradesh,2011
+286,Female,Subtraction,18.14,Bihar,2011
+287,Female,Subtraction,25.73,Arunachal Pradesh,2011
+288,Female,Subtraction,28.44,Nagaland,2011
+289,Female,Subtraction,25.24,Manipur,2011
+290,Female,Subtraction,22.08,Mizoram,2011
+291,Female,Subtraction,30.13,Tripura,2011
+292,Female,Subtraction,19.04,Meghalaya,2011
+293,Female,Subtraction,24.45,Assam,2011
+294,Female,Subtraction,23.86,West Bengal,2011
+295,Female,Subtraction,20.33,Jharkhand,2011
+296,Female,Subtraction,23.34,Orissa,2011
+297,Female,Subtraction,23.58,Chhattisgarh,2011
+298,Female,Subtraction,19.33,Madhya Pradesh,2011
+299,Female,Subtraction,25.03,Gujarat,2011
+300,Female,Subtraction,27.71,Daman and Diu,2011
+301,Female,Subtraction,29.93,Dadra and Nagar Haveli,2011
+302,Female,Subtraction,26.35,Maharashtra,2011
+303,Female,Subtraction,25.30,Andhra Pradesh,2011
+304,Female,Subtraction,28.14,Karnataka,2011
+305,Female,Subtraction,26.88,Goa,2011
+306,Female,Subtraction,25.93,Kerela,2011
+307,Female,Subtraction,28.99,Tamil Nadu,2011
+308,Female,Subtraction,29.70,Pondicherry,2011
+309,Female,Subtraction,22.36,India,2011
+310,Female,Division,23.22,Jammu & Kashmir,2011
+311,Female,Division,52.41,Himachal Pradesh,2011
+312,Female,Division,43.43,Punjab,2011
+313,Female,Division,33.53,Uttaranchal,2011
+314,Female,Division,45.66,Haryana,2011
+315,Female,Division,32.27,Rajasthan,2011
+316,Female,Division,18.40,Uttar Pradesh,2011
+317,Female,Division,30.80,Bihar,2011
+318,Female,Division,32.36,Arunachal Pradesh,2011
+319,Female,Division,27.47,Nagaland,2011
+320,Female,Division,39.82,Manipur,2011
+321,Female,Division,47.30,Mizoram,2011
+322,Female,Division,38.56,Tripura,2011
+323,Female,Division,14.45,Meghalaya,2011
+324,Female,Division,18.89,Assam,2011
+325,Female,Division,34.71,West Bengal,2011
+326,Female,Division,24.21,Jharkhand,2011
+327,Female,Division,29.84,Orissa,2011
+328,Female,Division,24.88,Chhattisgarh,2011
+329,Female,Division,21.40,Madhya Pradesh,2011
+330,Female,Division,27.58,Gujarat,2011
+331,Female,Division,32.87,Daman and Diu,2011
+332,Female,Division,23.13,Dadra and Nagar Haveli,2011
+333,Female,Division,34.85,Maharashtra,2011
+334,Female,Division,36.69,Andhra Pradesh,2011
+335,Female,Division,26.48,Karnataka,2011
+336,Female,Division,42.29,Goa,2011
+337,Female,Division,46.62,Kerela,2011
+338,Female,Division,29.95,Tamil Nadu,2011
+339,Female,Division,36.93,Pondicherry,2011
+340,Female,Division,29.14,India,2011
+341,Female,Total,100.00,Jammu & Kashmir,2011
+342,Female,Total,100.00,Himachal Pradesh,2011
+343,Female,Total,100.00,Punjab,2011
+344,Female,Total,100.00,Uttaranchal,2011
+345,Female,Total,100.00,Haryana,2011
+346,Female,Total,100.00,Rajasthan,2011
+347,Female,Total,100.00,Uttar Pradesh,2011
+348,Female,Total,100.00,Bihar,2011
+349,Female,Total,100.00,Arunachal Pradesh,2011
+350,Female,Total,100.00,Nagaland,2011
+351,Female,Total,100.00,Manipur,2011
+352,Female,Total,100.00,Mizoram,2011
+353,Female,Total,100.00,Tripura,2011
+354,Female,Total,100.00,Meghalaya,2011
+355,Female,Total,100.00,Assam,2011
+356,Female,Total,100.00,West Bengal,2011
+357,Female,Total,100.00,Jharkhand,2011
+358,Female,Total,100.00,Orissa,2011
+359,Female,Total,100.00,Chhattisgarh,2011
+360,Female,Total,100.00,Madhya Pradesh,2011
+361,Female,Total,100.00,Gujarat,2011
+362,Female,Total,100.00,Daman and Diu,2011
+363,Female,Total,100.00,Dadra and Nagar Haveli,2011
+364,Female,Total,100.00,Maharashtra,2011
+365,Female,Total,100.00,Andhra Pradesh,2011
+366,Female,Total,100.00,Karnataka,2011
+367,Female,Total,100.00,Goa,2011
+368,Female,Total,100.00,Kerela,2011
+369,Female,Total,100.00,Tamil Nadu,2011
+370,Female,Total,100.00,Pondicherry,2011
+371,Female,Total,100.00,India,2011
+372,Male,Nothing,2.45,Jammu & Kashmir,2011
+373,Male,Nothing,1.16,Himachal Pradesh,2011
+374,Male,Nothing,3.93,Punjab,2011
+375,Male,Nothing,7.13,Uttaranchal,2011
+376,Male,Nothing,5.37,Haryana,2011
+377,Male,Nothing,8.74,Rajasthan,2011
+378,Male,Nothing,13.38,Uttar Pradesh,2011
+379,Male,Nothing,13.28,Bihar,2011
+380,Male,Nothing,5.32,Arunachal Pradesh,2011
+381,Male,Nothing,2.75,Nagaland,2011
+382,Male,Nothing,1.29,Manipur,2011
+383,Male,Nothing,1.10,Mizoram,2011
+384,Male,Nothing,3.23,Tripura,2011
+385,Male,Nothing,12.75,Meghalaya,2011
+386,Male,Nothing,9.27,Assam,2011
+387,Male,Nothing,4.29,West Bengal,2011
+388,Male,Nothing,12.31,Jharkhand,2011
+389,Male,Nothing,9.88,Orissa,2011
+390,Male,Nothing,6.47,Chhattisgarh,2011
+391,Male,Nothing,11.85,Madhya Pradesh,2011
+392,Male,Nothing,5.23,Gujarat,2011
+393,Male,Nothing,3.65,Daman and Diu,2011
+394,Male,Nothing,3.43,Dadra and Nagar Haveli,2011
+395,Male,Nothing,2.77,Maharashtra,2011
+396,Male,Nothing,4.02,Andhra Pradesh,2011
+397,Male,Nothing,4.58,Karnataka,2011
+398,Male,Nothing,1.90,Goa,2011
+399,Male,Nothing,1.31,Kerela,2011
+400,Male,Nothing,7.60,Tamil Nadu,2011
+401,Male,Nothing,3.61,Pondicherry,2011
+402,Male,Nothing,8.52,India,2011
+403,Male,NR1to9,12.81,Jammu & Kashmir,2011
+404,Male,NR1to9,9.32,Himachal Pradesh,2011
+405,Male,NR1to9,13.60,Punjab,2011
+406,Male,NR1to9,15.15,Uttaranchal,2011
+407,Male,NR1to9,12.17,Haryana,2011
+408,Male,NR1to9,17.84,Rajasthan,2011
+409,Male,NR1to9,23.47,Uttar Pradesh,2011
+410,Male,NR1to9,18.05,Bihar,2011
+411,Male,NR1to9,12.04,Arunachal Pradesh,2011
+412,Male,NR1to9,14.35,Nagaland,2011
+413,Male,NR1to9,7.23,Manipur,2011
+414,Male,NR1to9,10.20,Mizoram,2011
+415,Male,NR1to9,9.26,Tripura,2011
+416,Male,NR1to9,25.59,Meghalaya,2011
+417,Male,NR1to9,22.52,Assam,2011
+418,Male,NR1to9,17.23,West Bengal,2011
+419,Male,NR1to9,20.88,Jharkhand,2011
+420,Male,NR1to9,16.10,Orissa,2011
+421,Male,NR1to9,21.21,Chhattisgarh,2011
+422,Male,NR1to9,23.77,Madhya Pradesh,2011
+423,Male,NR1to9,16.21,Gujarat,2011
+424,Male,NR1to9,17.16,Daman and Diu,2011
+425,Male,NR1to9,17.60,Dadra and Nagar Haveli,2011
+426,Male,NR1to9,14.93,Maharashtra,2011
+427,Male,NR1to9,10.25,Andhra Pradesh,2011
+428,Male,NR1to9,13.08,Karnataka,2011
+429,Male,NR1to9,9.49,Goa,2011
+430,Male,NR1to9,6.32,Kerela,2011
+431,Male,NR1to9,10.01,Tamil Nadu,2011
+432,Male,NR1to9,6.90,Pondicherry,2011
+433,Male,NR1to9,17.32,India,2011
+434,Male,NR11to99,26.62,Jammu & Kashmir,2011
+435,Male,NR11to99,16.71,Himachal Pradesh,2011
+436,Male,NR11to99,18.16,Punjab,2011
+437,Male,NR11to99,20.87,Uttaranchal,2011
+438,Male,NR11to99,16.43,Haryana,2011
+439,Male,NR11to99,18.24,Rajasthan,2011
+440,Male,NR11to99,19.63,Uttar Pradesh,2011
+441,Male,NR11to99,15.83,Bihar,2011
+442,Male,NR11to99,23.18,Arunachal Pradesh,2011
+443,Male,NR11to99,27.04,Nagaland,2011
+444,Male,NR11to99,25.66,Manipur,2011
+445,Male,NR11to99,18.47,Mizoram,2011
+446,Male,NR11to99,18.43,Tripura,2011
+447,Male,NR11to99,29.95,Meghalaya,2011
+448,Male,NR11to99,25.90,Assam,2011
+449,Male,NR11to99,21.81,West Bengal,2011
+450,Male,NR11to99,18.48,Jharkhand,2011
+451,Male,NR11to99,20.24,Orissa,2011
+452,Male,NR11to99,21.55,Chhattisgarh,2011
+453,Male,NR11to99,21.41,Madhya Pradesh,2011
+454,Male,NR11to99,22.76,Gujarat,2011
+455,Male,NR11to99,23.61,Daman and Diu,2011
+456,Male,NR11to99,21.46,Dadra and Nagar Haveli,2011
+457,Male,NR11to99,21.52,Maharashtra,2011
+458,Male,NR11to99,25.09,Andhra Pradesh,2011
+459,Male,NR11to99,28.99,Karnataka,2011
+460,Male,NR11to99,23.10,Goa,2011
+461,Male,NR11to99,23.65,Kerela,2011
+462,Male,NR11to99,25.48,Tamil Nadu,2011
+463,Male,NR11to99,27.38,Pondicherry,2011
+464,Male,NR11to99,20.96,India,2011
+465,Male,Subtraction,32.05,Jammu & Kashmir,2011
+466,Male,Subtraction,21.90,Himachal Pradesh,2011
+467,Male,Subtraction,22.29,Punjab,2011
+468,Male,Subtraction,20.21,Uttaranchal,2011
+469,Male,Subtraction,19.38,Haryana,2011
+470,Male,Subtraction,19.38,Rajasthan,2011
+471,Male,Subtraction,17.42,Uttar Pradesh,2011
+472,Male,Subtraction,18.19,Bihar,2011
+473,Male,Subtraction,24.87,Arunachal Pradesh,2011
+474,Male,Subtraction,28.19,Nagaland,2011
+475,Male,Subtraction,26.03,Manipur,2011
+476,Male,Subtraction,19.67,Mizoram,2011
+477,Male,Subtraction,28.64,Tripura,2011
+478,Male,Subtraction,17.56,Meghalaya,2011
+479,Male,Subtraction,24.17,Assam,2011
+480,Male,Subtraction,22.76,West Bengal,2011
+481,Male,Subtraction,19.68,Jharkhand,2011
+482,Male,Subtraction,23.05,Orissa,2011
+483,Male,Subtraction,24.79,Chhattisgarh,2011
+484,Male,Subtraction,19.21,Madhya Pradesh,2011
+485,Male,Subtraction,25.82,Gujarat,2011
+486,Male,Subtraction,26.14,Daman and Diu,2011
+487,Male,Subtraction,31.33,Dadra and Nagar Haveli,2011
+488,Male,Subtraction,26.29,Maharashtra,2011
+489,Male,Subtraction,26.03,Andhra Pradesh,2011
+490,Male,Subtraction,28.57,Karnataka,2011
+491,Male,Subtraction,28.80,Goa,2011
+492,Male,Subtraction,26.61,Kerela,2011
+493,Male,Subtraction,29.27,Tamil Nadu,2011
+494,Male,Subtraction,29.09,Pondicherry,2011
+495,Male,Subtraction,22.08,India,2011
+496,Male,Division,26.07,Jammu & Kashmir,2011
+497,Male,Division,50.91,Himachal Pradesh,2011
+498,Male,Division,42.03,Punjab,2011
+499,Male,Division,36.64,Uttaranchal,2011
+500,Male,Division,46.66,Haryana,2011
+501,Male,Division,35.80,Rajasthan,2011
+502,Male,Division,26.11,Uttar Pradesh,2011
+503,Male,Division,34.66,Bihar,2011
+504,Male,Division,34.59,Arunachal Pradesh,2011
+505,Male,Division,27.66,Nagaland,2011
+506,Male,Division,39.79,Manipur,2011
+507,Male,Division,50.56,Mizoram,2011
+508,Male,Division,40.44,Tripura,2011
+509,Male,Division,14.16,Meghalaya,2011
+510,Male,Division,18.14,Assam,2011
+511,Male,Division,33.90,West Bengal,2011
+512,Male,Division,28.65,Jharkhand,2011
+513,Male,Division,30.73,Orissa,2011
+514,Male,Division,25.98,Chhattisgarh,2011
+515,Male,Division,23.77,Madhya Pradesh,2011
+516,Male,Division,29.99,Gujarat,2011
+517,Male,Division,29.43,Daman and Diu,2011
+518,Male,Division,26.18,Dadra and Nagar Haveli,2011
+519,Male,Division,34.50,Maharashtra,2011
+520,Male,Division,34.60,Andhra Pradesh,2011
+521,Male,Division,24.78,Karnataka,2011
+522,Male,Division,36.71,Goa,2011
+523,Male,Division,42.12,Kerela,2011
+524,Male,Division,27.64,Tamil Nadu,2011
+525,Male,Division,33.03,Pondicherry,2011
+526,Male,Division,31.11,India,2011
+527,Male,Total,100.00,Jammu & Kashmir,2011
+528,Male,Total,100.00,Himachal Pradesh,2011
+529,Male,Total,100.00,Punjab,2011
+530,Male,Total,100.00,Uttaranchal,2011
+531,Male,Total,100.00,Haryana,2011
+532,Male,Total,100.00,Rajasthan,2011
+533,Male,Total,100.00,Uttar Pradesh,2011
+534,Male,Total,100.00,Bihar,2011
+535,Male,Total,100.00,Arunachal Pradesh,2011
+536,Male,Total,100.00,Nagaland,2011
+537,Male,Total,100.00,Manipur,2011
+538,Male,Total,100.00,Mizoram,2011
+539,Male,Total,100.00,Tripura,2011
+540,Male,Total,100.00,Meghalaya,2011
+541,Male,Total,100.00,Assam,2011
+542,Male,Total,100.00,West Bengal,2011
+543,Male,Total,100.00,Jharkhand,2011
+544,Male,Total,100.00,Orissa,2011
+545,Male,Total,100.00,Chhattisgarh,2011
+546,Male,Total,100.00,Madhya Pradesh,2011
+547,Male,Total,100.00,Gujarat,2011
+548,Male,Total,100.00,Daman and Diu,2011
+549,Male,Total,100.00,Dadra and Nagar Haveli,2011
+550,Male,Total,100.00,Maharashtra,2011
+551,Male,Total,100.00,Andhra Pradesh,2011
+552,Male,Total,100.00,Karnataka,2011
+553,Male,Total,100.00,Goa,2011
+554,Male,Total,100.00,Kerela,2011
+555,Male,Total,100.00,Tamil Nadu,2011
+556,Male,Total,100.00,Pondicherry,2011
+557,Male,Total,100.00,India,2011
+0,All,Nothing,3.80,Jammu & Kashmir,2012
+1,All,Nothing,14.30,Bihar,2012
+2,All,Nothing,1.10,Sikkim,2012
+3,All,Nothing,4.10,Arunachal Pradesh,2012
+4,All,Nothing,3.50,Nagaland,2012
+5,All,Nothing,2.50,Manipur,2012
+6,All,Nothing,2.00,Mizoram,2012
+7,All,Nothing,3.10,Tripura,2012
+8,All,Nothing,7.50,Meghalaya,2012
+9,All,Nothing,9.50,Assam,2012
+10,All,Nothing,5.40,West Bengal,2012
+11,All,Nothing,2.00,Himachal Pradesh,2012
+12,All,Nothing,11.60,Jharkhand,2012
+13,All,Nothing,12.50,Orissa,2012
+14,All,Nothing,7.10,Chhattisgarh,2012
+15,All,Nothing,11.70,Madhya Pradesh,2012
+16,All,Nothing,8.10,Gujarat,2012
+17,All,Nothing,7.90,Daman and Diu,2012
+18,All,Nothing,7.00,Dadra and Nagar Haveli,2012
+19,All,Nothing,7.50,Maharashtra,2012
+20,All,Nothing,3.80,Andhra Pradesh,2012
+21,All,Nothing,5.60,Karnataka,2012
+22,All,Nothing,4.60,Punjab,2012
+23,All,Nothing,0.80,Goa,2012
+24,All,Nothing,1.70,Kerela,2012
+25,All,Nothing,7.90,Tamil Nadu,2012
+26,All,Nothing,6.20,Pondicherry,2012
+27,All,Nothing,8.10,Uttaranchal,2012
+28,All,Nothing,5.30,Haryana,2012
+29,All,Nothing,10.40,Rajasthan,2012
+30,All,Nothing,15.10,Uttar Pradesh,2012
+31,All,Nothing,9.60,India,2012
+32,All,Number_1to9,13.00,Jammu & Kashmir,2012
+33,All,Number_1to9,20.20,Bihar,2012
+34,All,Number_1to9,6.00,Sikkim,2012
+35,All,Number_1to9,7.50,Arunachal Pradesh,2012
+36,All,Number_1to9,10.50,Nagaland,2012
+37,All,Number_1to9,9.40,Manipur,2012
+38,All,Number_1to9,13.50,Mizoram,2012
+39,All,Number_1to9,17.40,Tripura,2012
+40,All,Number_1to9,17.10,Meghalaya,2012
+41,All,Number_1to9,23.60,Assam,2012
+42,All,Number_1to9,18.60,West Bengal,2012
+43,All,Number_1to9,10.00,Himachal Pradesh,2012
+44,All,Number_1to9,22.10,Jharkhand,2012
+45,All,Number_1to9,18.00,Orissa,2012
+46,All,Number_1to9,25.20,Chhattisgarh,2012
+47,All,Number_1to9,24.70,Madhya Pradesh,2012
+48,All,Number_1to9,20.60,Gujarat,2012
+49,All,Number_1to9,15.00,Daman and Diu,2012
+50,All,Number_1to9,23.70,Dadra and Nagar Haveli,2012
+51,All,Number_1to9,19.20,Maharashtra,2012
+52,All,Number_1to9,9.90,Andhra Pradesh,2012
+53,All,Number_1to9,11.90,Karnataka,2012
+54,All,Number_1to9,13.40,Punjab,2012
+55,All,Number_1to9,12.00,Goa,2012
+56,All,Number_1to9,7.30,Kerela,2012
+57,All,Number_1to9,9.40,Tamil Nadu,2012
+58,All,Number_1to9,7.10,Pondicherry,2012
+59,All,Number_1to9,17.00,Uttaranchal,2012
+60,All,Number_1to9,14.80,Haryana,2012
+61,All,Number_1to9,22.20,Rajasthan,2012
+62,All,Number_1to9,27.40,Uttar Pradesh,2012
+63,All,Number_1to9,19.20,India,2012
+64,All,Number_11to99,33.50,Jammu & Kashmir,2012
+65,All,Number_11to99,18.10,Bihar,2012
+66,All,Number_11to99,21.90,Sikkim,2012
+67,All,Number_11to99,21.50,Arunachal Pradesh,2012
+68,All,Number_11to99,29.40,Nagaland,2012
+69,All,Number_11to99,31.30,Manipur,2012
+70,All,Number_11to99,23.20,Mizoram,2012
+71,All,Number_11to99,27.70,Tripura,2012
+72,All,Number_11to99,35.80,Meghalaya,2012
+73,All,Number_11to99,26.40,Assam,2012
+74,All,Number_11to99,28.50,West Bengal,2012
+75,All,Number_11to99,21.40,Himachal Pradesh,2012
+76,All,Number_11to99,21.90,Jharkhand,2012
+77,All,Number_11to99,23.70,Orissa,2012
+78,All,Number_11to99,29.70,Chhattisgarh,2012
+79,All,Number_11to99,26.60,Madhya Pradesh,2012
+80,All,Number_11to99,27.10,Gujarat,2012
+81,All,Number_11to99,26.80,Daman and Diu,2012
+82,All,Number_11to99,42.60,Dadra and Nagar Haveli,2012
+83,All,Number_11to99,29.80,Maharashtra,2012
+84,All,Number_11to99,23.80,Andhra Pradesh,2012
+85,All,Number_11to99,28.60,Karnataka,2012
+86,All,Number_11to99,22.40,Punjab,2012
+87,All,Number_11to99,21.40,Goa,2012
+88,All,Number_11to99,20.40,Kerela,2012
+89,All,Number_11to99,30.60,Tamil Nadu,2012
+90,All,Number_11to99,44.80,Pondicherry,2012
+91,All,Number_11to99,21.10,Uttaranchal,2012
+92,All,Number_11to99,20.30,Haryana,2012
+93,All,Number_11to99,21.80,Rajasthan,2012
+94,All,Number_11to99,23.20,Uttar Pradesh,2012
+95,All,Number_11to99,24.50,India,2012
+96,All,Subtraction,28.40,Jammu & Kashmir,2012
+97,All,Subtraction,17.10,Bihar,2012
+98,All,Subtraction,28.90,Sikkim,2012
+99,All,Subtraction,25.70,Arunachal Pradesh,2012
+100,All,Subtraction,28.80,Nagaland,2012
+101,All,Subtraction,23.50,Manipur,2012
+102,All,Subtraction,26.20,Mizoram,2012
+103,All,Subtraction,27.00,Tripura,2012
+104,All,Subtraction,24.80,Meghalaya,2012
+105,All,Subtraction,24.60,Assam,2012
+106,All,Subtraction,19.70,West Bengal,2012
+107,All,Subtraction,22.00,Himachal Pradesh,2012
+108,All,Subtraction,17.00,Jharkhand,2012
+109,All,Subtraction,20.50,Orissa,2012
+110,All,Subtraction,20.60,Chhattisgarh,2012
+111,All,Subtraction,17.40,Madhya Pradesh,2012
+112,All,Subtraction,23.80,Gujarat,2012
+113,All,Subtraction,22.20,Daman and Diu,2012
+114,All,Subtraction,19.10,Dadra and Nagar Haveli,2012
+115,All,Subtraction,19.80,Maharashtra,2012
+116,All,Subtraction,25.20,Andhra Pradesh,2012
+117,All,Subtraction,28.60,Karnataka,2012
+118,All,Subtraction,21.10,Punjab,2012
+119,All,Subtraction,28.10,Goa,2012
+120,All,Subtraction,21.80,Kerela,2012
+121,All,Subtraction,28.20,Tamil Nadu,2012
+122,All,Subtraction,24.80,Pondicherry,2012
+123,All,Subtraction,18.40,Uttaranchal,2012
+124,All,Subtraction,20.00,Haryana,2012
+125,All,Subtraction,17.90,Rajasthan,2012
+126,All,Subtraction,14.80,Uttar Pradesh,2012
+127,All,Subtraction,20.10,India,2012
+128,All,Division,21.30,Jammu & Kashmir,2012
+129,All,Division,30.30,Bihar,2012
+130,All,Division,42.20,Sikkim,2012
+131,All,Division,41.10,Arunachal Pradesh,2012
+132,All,Division,27.80,Nagaland,2012
+133,All,Division,33.20,Manipur,2012
+134,All,Division,35.00,Mizoram,2012
+135,All,Division,24.70,Tripura,2012
+136,All,Division,14.80,Meghalaya,2012
+137,All,Division,15.90,Assam,2012
+138,All,Division,27.80,West Bengal,2012
+139,All,Division,44.60,Himachal Pradesh,2012
+140,All,Division,27.40,Jharkhand,2012
+141,All,Division,25.30,Orissa,2012
+142,All,Division,17.40,Chhattisgarh,2012
+143,All,Division,19.60,Madhya Pradesh,2012
+144,All,Division,20.40,Gujarat,2012
+145,All,Division,28.20,Daman and Diu,2012
+146,All,Division,7.70,Dadra and Nagar Haveli,2012
+147,All,Division,23.70,Maharashtra,2012
+148,All,Division,37.30,Andhra Pradesh,2012
+149,All,Division,25.40,Karnataka,2012
+150,All,Division,38.50,Punjab,2012
+151,All,Division,37.80,Goa,2012
+152,All,Division,48.70,Kerela,2012
+153,All,Division,23.90,Tamil Nadu,2012
+154,All,Division,17.20,Pondicherry,2012
+155,All,Division,35.40,Uttaranchal,2012
+156,All,Division,39.60,Haryana,2012
+157,All,Division,27.70,Rajasthan,2012
+158,All,Division,19.50,Uttar Pradesh,2012
+159,All,Division,26.50,India,2012
+160,All,Total,100.00,Jammu & Kashmir,2012
+161,All,Total,100.00,Bihar,2012
+162,All,Total,100.00,Sikkim,2012
+163,All,Total,100.00,Arunachal Pradesh,2012
+164,All,Total,100.00,Nagaland,2012
+165,All,Total,100.00,Manipur,2012
+166,All,Total,100.00,Mizoram,2012
+167,All,Total,100.00,Tripura,2012
+168,All,Total,100.00,Meghalaya,2012
+169,All,Total,100.00,Assam,2012
+170,All,Total,100.00,West Bengal,2012
+171,All,Total,100.00,Himachal Pradesh,2012
+172,All,Total,100.00,Jharkhand,2012
+173,All,Total,100.00,Orissa,2012
+174,All,Total,100.00,Chhattisgarh,2012
+175,All,Total,100.00,Madhya Pradesh,2012
+176,All,Total,100.00,Gujarat,2012
+177,All,Total,100.00,Daman and Diu,2012
+178,All,Total,100.00,Dadra and Nagar Haveli,2012
+179,All,Total,100.00,Maharashtra,2012
+180,All,Total,100.00,Andhra Pradesh,2012
+181,All,Total,100.00,Karnataka,2012
+182,All,Total,100.00,Punjab,2012
+183,All,Total,100.00,Goa,2012
+184,All,Total,100.00,Kerela,2012
+185,All,Total,100.00,Tamil Nadu,2012
+186,All,Total,100.00,Pondicherry,2012
+187,All,Total,100.00,Uttaranchal,2012
+188,All,Total,100.00,Haryana,2012
+189,All,Total,100.00,Rajasthan,2012
+190,All,Total,100.00,Uttar Pradesh,2012
+191,All,Total,100.00,India,2012
+192,Female,Nothing,4.10,Jammu & Kashmir,2012
+193,Female,Nothing,15.10,Bihar,2012
+194,Female,Nothing,0.90,Sikkim,2012
+195,Female,Nothing,4.00,Arunachal Pradesh,2012
+196,Female,Nothing,3.90,Nagaland,2012
+197,Female,Nothing,2.40,Manipur,2012
+198,Female,Nothing,2.00,Mizoram,2012
+199,Female,Nothing,3.30,Tripura,2012
+200,Female,Nothing,6.70,Meghalaya,2012
+201,Female,Nothing,9.30,Assam,2012
+202,Female,Nothing,4.80,West Bengal,2012
+203,Female,Nothing,2.10,Himachal Pradesh,2012
+204,Female,Nothing,11.70,Jharkhand,2012
+205,Female,Nothing,12.30,Orissa,2012
+206,Female,Nothing,7.00,Chhattisgarh,2012
+207,Female,Nothing,12.20,Madhya Pradesh,2012
+208,Female,Nothing,8.10,Gujarat,2012
+209,Female,Nothing,6.70,Daman and Diu,2012
+210,Female,Nothing,6.90,Dadra and Nagar Haveli,2012
+211,Female,Nothing,7.20,Maharashtra,2012
+212,Female,Nothing,3.70,Andhra Pradesh,2012
+213,Female,Nothing,5.10,Karnataka,2012
+214,Female,Nothing,4.00,Punjab,2012
+215,Female,Nothing,1.00,Goa,2012
+216,Female,Nothing,1.40,Kerela,2012
+217,Female,Nothing,7.70,Tamil Nadu,2012
+218,Female,Nothing,4.40,Pondicherry,2012
+219,Female,Nothing,8.50,Uttaranchal,2012
+220,Female,Nothing,5.30,Haryana,2012
+221,Female,Nothing,11.40,Rajasthan,2012
+222,Female,Nothing,16.60,Uttar Pradesh,2012
+223,Female,Nothing,9.90,India,2012
+224,Female,Number_1to9,12.50,Jammu & Kashmir,2012
+225,Female,Number_1to9,21.90,Bihar,2012
+226,Female,Number_1to9,5.80,Sikkim,2012
+227,Female,Number_1to9,8.10,Arunachal Pradesh,2012
+228,Female,Number_1to9,10.30,Nagaland,2012
+229,Female,Number_1to9,10.00,Manipur,2012
+230,Female,Number_1to9,13.30,Mizoram,2012
+231,Female,Number_1to9,18.60,Tripura,2012
+232,Female,Number_1to9,14.90,Meghalaya,2012
+233,Female,Number_1to9,24.20,Assam,2012
+234,Female,Number_1to9,19.10,West Bengal,2012
+235,Female,Number_1to9,9.10,Himachal Pradesh,2012
+236,Female,Number_1to9,23.10,Jharkhand,2012
+237,Female,Number_1to9,19.40,Orissa,2012
+238,Female,Number_1to9,25.80,Chhattisgarh,2012
+239,Female,Number_1to9,26.10,Madhya Pradesh,2012
+240,Female,Number_1to9,21.90,Gujarat,2012
+241,Female,Number_1to9,16.60,Daman and Diu,2012
+242,Female,Number_1to9,24.80,Dadra and Nagar Haveli,2012
+243,Female,Number_1to9,19.60,Maharashtra,2012
+244,Female,Number_1to9,9.30,Andhra Pradesh,2012
+245,Female,Number_1to9,12.00,Karnataka,2012
+246,Female,Number_1to9,13.10,Punjab,2012
+247,Female,Number_1to9,11.20,Goa,2012
+248,Female,Number_1to9,6.90,Kerela,2012
+249,Female,Number_1to9,9.00,Tamil Nadu,2012
+250,Female,Number_1to9,6.90,Pondicherry,2012
+251,Female,Number_1to9,18.20,Uttaranchal,2012
+252,Female,Number_1to9,15.30,Haryana,2012
+253,Female,Number_1to9,24.80,Rajasthan,2012
+254,Female,Number_1to9,30.10,Uttar Pradesh,2012
+255,Female,Number_1to9,20.20,India,2012
+256,Female,Number_11to99,34.60,Jammu & Kashmir,2012
+257,Female,Number_11to99,18.30,Bihar,2012
+258,Female,Number_11to99,19.60,Sikkim,2012
+259,Female,Number_11to99,20.90,Arunachal Pradesh,2012
+260,Female,Number_11to99,29.40,Nagaland,2012
+261,Female,Number_11to99,31.50,Manipur,2012
+262,Female,Number_11to99,21.70,Mizoram,2012
+263,Female,Number_11to99,28.30,Tripura,2012
+264,Female,Number_11to99,36.70,Meghalaya,2012
+265,Female,Number_11to99,26.30,Assam,2012
+266,Female,Number_11to99,29.10,West Bengal,2012
+267,Female,Number_11to99,20.10,Himachal Pradesh,2012
+268,Female,Number_11to99,21.70,Jharkhand,2012
+269,Female,Number_11to99,23.10,Orissa,2012
+270,Female,Number_11to99,29.30,Chhattisgarh,2012
+271,Female,Number_11to99,27.10,Madhya Pradesh,2012
+272,Female,Number_11to99,27.40,Gujarat,2012
+273,Female,Number_11to99,29.30,Daman and Diu,2012
+274,Female,Number_11to99,43.20,Dadra and Nagar Haveli,2012
+275,Female,Number_11to99,29.30,Maharashtra,2012
+276,Female,Number_11to99,23.30,Andhra Pradesh,2012
+277,Female,Number_11to99,27.70,Karnataka,2012
+278,Female,Number_11to99,21.70,Punjab,2012
+279,Female,Number_11to99,20.90,Goa,2012
+280,Female,Number_11to99,19.10,Kerela,2012
+281,Female,Number_11to99,29.10,Tamil Nadu,2012
+282,Female,Number_11to99,40.80,Pondicherry,2012
+283,Female,Number_11to99,21.40,Uttaranchal,2012
+284,Female,Number_11to99,20.30,Haryana,2012
+285,Female,Number_11to99,21.80,Rajasthan,2012
+286,Female,Number_11to99,23.60,Uttar Pradesh,2012
+287,Female,Number_11to99,24.50,India,2012
+288,Female,Subtraction,29.10,Jammu & Kashmir,2012
+289,Female,Subtraction,16.90,Bihar,2012
+290,Female,Subtraction,30.80,Sikkim,2012
+291,Female,Subtraction,26.30,Arunachal Pradesh,2012
+292,Female,Subtraction,28.80,Nagaland,2012
+293,Female,Subtraction,23.70,Manipur,2012
+294,Female,Subtraction,25.70,Mizoram,2012
+295,Female,Subtraction,25.80,Tripura,2012
+296,Female,Subtraction,26.10,Meghalaya,2012
+297,Female,Subtraction,24.70,Assam,2012
+298,Female,Subtraction,20.10,West Bengal,2012
+299,Female,Subtraction,23.70,Himachal Pradesh,2012
+300,Female,Subtraction,17.60,Jharkhand,2012
+301,Female,Subtraction,20.20,Orissa,2012
+302,Female,Subtraction,20.60,Chhattisgarh,2012
+303,Female,Subtraction,16.80,Madhya Pradesh,2012
+304,Female,Subtraction,23.10,Gujarat,2012
+305,Female,Subtraction,22.20,Daman and Diu,2012
+306,Female,Subtraction,18.50,Dadra and Nagar Haveli,2012
+307,Female,Subtraction,20.10,Maharashtra,2012
+308,Female,Subtraction,25.90,Andhra Pradesh,2012
+309,Female,Subtraction,28.20,Karnataka,2012
+310,Female,Subtraction,20.90,Punjab,2012
+311,Female,Subtraction,28.60,Goa,2012
+312,Female,Subtraction,20.70,Kerela,2012
+313,Female,Subtraction,28.50,Tamil Nadu,2012
+314,Female,Subtraction,26.80,Pondicherry,2012
+315,Female,Subtraction,18.70,Uttaranchal,2012
+316,Female,Subtraction,19.80,Haryana,2012
+317,Female,Subtraction,17.30,Rajasthan,2012
+318,Female,Subtraction,14.20,Uttar Pradesh,2012
+319,Female,Subtraction,20.00,India,2012
+320,Female,Division,19.70,Jammu & Kashmir,2012
+321,Female,Division,27.70,Bihar,2012
+322,Female,Division,42.90,Sikkim,2012
+323,Female,Division,40.60,Arunachal Pradesh,2012
+324,Female,Division,27.60,Nagaland,2012
+325,Female,Division,32.30,Manipur,2012
+326,Female,Division,37.20,Mizoram,2012
+327,Female,Division,24.10,Tripura,2012
+328,Female,Division,15.60,Meghalaya,2012
+329,Female,Division,15.40,Assam,2012
+330,Female,Division,27.00,West Bengal,2012
+331,Female,Division,45.00,Himachal Pradesh,2012
+332,Female,Division,26.00,Jharkhand,2012
+333,Female,Division,25.00,Orissa,2012
+334,Female,Division,17.40,Chhattisgarh,2012
+335,Female,Division,17.80,Madhya Pradesh,2012
+336,Female,Division,19.50,Gujarat,2012
+337,Female,Division,25.20,Daman and Diu,2012
+338,Female,Division,6.60,Dadra and Nagar Haveli,2012
+339,Female,Division,23.80,Maharashtra,2012
+340,Female,Division,37.90,Andhra Pradesh,2012
+341,Female,Division,27.10,Karnataka,2012
+342,Female,Division,40.20,Punjab,2012
+343,Female,Division,38.40,Goa,2012
+344,Female,Division,51.90,Kerela,2012
+345,Female,Division,25.60,Tamil Nadu,2012
+346,Female,Division,21.20,Pondicherry,2012
+347,Female,Division,33.20,Uttaranchal,2012
+348,Female,Division,39.30,Haryana,2012
+349,Female,Division,24.70,Rajasthan,2012
+350,Female,Division,15.40,Uttar Pradesh,2012
+351,Female,Division,25.40,India,2012
+352,Female,Total,100.00,Jammu & Kashmir,2012
+353,Female,Total,100.00,Bihar,2012
+354,Female,Total,100.00,Sikkim,2012
+355,Female,Total,100.00,Arunachal Pradesh,2012
+356,Female,Total,100.00,Nagaland,2012
+357,Female,Total,100.00,Manipur,2012
+358,Female,Total,100.00,Mizoram,2012
+359,Female,Total,100.00,Tripura,2012
+360,Female,Total,100.00,Meghalaya,2012
+361,Female,Total,100.00,Assam,2012
+362,Female,Total,100.00,West Bengal,2012
+363,Female,Total,100.00,Himachal Pradesh,2012
+364,Female,Total,100.00,Jharkhand,2012
+365,Female,Total,100.00,Orissa,2012
+366,Female,Total,100.00,Chhattisgarh,2012
+367,Female,Total,100.00,Madhya Pradesh,2012
+368,Female,Total,100.00,Gujarat,2012
+369,Female,Total,100.00,Daman and Diu,2012
+370,Female,Total,100.00,Dadra and Nagar Haveli,2012
+371,Female,Total,100.00,Maharashtra,2012
+372,Female,Total,100.00,Andhra Pradesh,2012
+373,Female,Total,100.00,Karnataka,2012
+374,Female,Total,100.00,Punjab,2012
+375,Female,Total,100.00,Goa,2012
+376,Female,Total,100.00,Kerela,2012
+377,Female,Total,100.00,Tamil Nadu,2012
+378,Female,Total,100.00,Pondicherry,2012
+379,Female,Total,100.00,Uttaranchal,2012
+380,Female,Total,100.00,Haryana,2012
+381,Female,Total,100.00,Rajasthan,2012
+382,Female,Total,100.00,Uttar Pradesh,2012
+383,Female,Total,100.00,India,2012
+384,Male,Nothing,3.50,Jammu & Kashmir,2012
+385,Male,Nothing,13.50,Bihar,2012
+386,Male,Nothing,1.30,Sikkim,2012
+387,Male,Nothing,4.10,Arunachal Pradesh,2012
+388,Male,Nothing,3.30,Nagaland,2012
+389,Male,Nothing,2.60,Manipur,2012
+390,Male,Nothing,2.00,Mizoram,2012
+391,Male,Nothing,2.90,Tripura,2012
+392,Male,Nothing,8.30,Meghalaya,2012
+393,Male,Nothing,9.70,Assam,2012
+394,Male,Nothing,6.00,West Bengal,2012
+395,Male,Nothing,1.80,Himachal Pradesh,2012
+396,Male,Nothing,11.40,Jharkhand,2012
+397,Male,Nothing,12.60,Orissa,2012
+398,Male,Nothing,7.20,Chhattisgarh,2012
+399,Male,Nothing,11.20,Madhya Pradesh,2012
+400,Male,Nothing,8.10,Gujarat,2012
+401,Male,Nothing,9.00,Daman and Diu,2012
+402,Male,Nothing,7.00,Dadra and Nagar Haveli,2012
+403,Male,Nothing,7.70,Maharashtra,2012
+404,Male,Nothing,3.90,Andhra Pradesh,2012
+405,Male,Nothing,6.10,Karnataka,2012
+406,Male,Nothing,5.20,Punjab,2012
+407,Male,Nothing,0.60,Goa,2012
+408,Male,Nothing,2.00,Kerela,2012
+409,Male,Nothing,8.20,Tamil Nadu,2012
+410,Male,Nothing,7.90,Pondicherry,2012
+411,Male,Nothing,7.70,Uttaranchal,2012
+412,Male,Nothing,5.30,Haryana,2012
+413,Male,Nothing,9.60,Rajasthan,2012
+414,Male,Nothing,13.70,Uttar Pradesh,2012
+415,Male,Nothing,9.40,India,2012
+416,Male,Number_1to9,13.50,Jammu & Kashmir,2012
+417,Male,Number_1to9,18.70,Bihar,2012
+418,Male,Number_1to9,6.10,Sikkim,2012
+419,Male,Number_1to9,7.00,Arunachal Pradesh,2012
+420,Male,Number_1to9,10.70,Nagaland,2012
+421,Male,Number_1to9,8.70,Manipur,2012
+422,Male,Number_1to9,13.70,Mizoram,2012
+423,Male,Number_1to9,16.30,Tripura,2012
+424,Male,Number_1to9,19.40,Meghalaya,2012
+425,Male,Number_1to9,23.00,Assam,2012
+426,Male,Number_1to9,18.00,West Bengal,2012
+427,Male,Number_1to9,10.90,Himachal Pradesh,2012
+428,Male,Number_1to9,21.10,Jharkhand,2012
+429,Male,Number_1to9,16.70,Orissa,2012
+430,Male,Number_1to9,24.60,Chhattisgarh,2012
+431,Male,Number_1to9,23.40,Madhya Pradesh,2012
+432,Male,Number_1to9,19.50,Gujarat,2012
+433,Male,Number_1to9,13.50,Daman and Diu,2012
+434,Male,Number_1to9,22.50,Dadra and Nagar Haveli,2012
+435,Male,Number_1to9,18.80,Maharashtra,2012
+436,Male,Number_1to9,10.50,Andhra Pradesh,2012
+437,Male,Number_1to9,11.70,Karnataka,2012
+438,Male,Number_1to9,13.60,Punjab,2012
+439,Male,Number_1to9,12.80,Goa,2012
+440,Male,Number_1to9,7.70,Kerela,2012
+441,Male,Number_1to9,9.80,Tamil Nadu,2012
+442,Male,Number_1to9,7.30,Pondicherry,2012
+443,Male,Number_1to9,16.00,Uttaranchal,2012
+444,Male,Number_1to9,14.40,Haryana,2012
+445,Male,Number_1to9,20.10,Rajasthan,2012
+446,Male,Number_1to9,25.10,Uttar Pradesh,2012
+447,Male,Number_1to9,18.40,India,2012
+448,Male,Number_11to99,32.40,Jammu & Kashmir,2012
+449,Male,Number_11to99,17.80,Bihar,2012
+450,Male,Number_11to99,24.10,Sikkim,2012
+451,Male,Number_11to99,22.00,Arunachal Pradesh,2012
+452,Male,Number_11to99,29.40,Nagaland,2012
+453,Male,Number_11to99,31.10,Manipur,2012
+454,Male,Number_11to99,24.50,Mizoram,2012
+455,Male,Number_11to99,27.20,Tripura,2012
+456,Male,Number_11to99,35.00,Meghalaya,2012
+457,Male,Number_11to99,26.40,Assam,2012
+458,Male,Number_11to99,27.90,West Bengal,2012
+459,Male,Number_11to99,22.60,Himachal Pradesh,2012
+460,Male,Number_11to99,22.20,Jharkhand,2012
+461,Male,Number_11to99,24.30,Orissa,2012
+462,Male,Number_11to99,30.10,Chhattisgarh,2012
+463,Male,Number_11to99,26.10,Madhya Pradesh,2012
+464,Male,Number_11to99,26.90,Gujarat,2012
+465,Male,Number_11to99,24.20,Daman and Diu,2012
+466,Male,Number_11to99,41.90,Dadra and Nagar Haveli,2012
+467,Male,Number_11to99,30.30,Maharashtra,2012
+468,Male,Number_11to99,24.30,Andhra Pradesh,2012
+469,Male,Number_11to99,29.50,Karnataka,2012
+470,Male,Number_11to99,23.10,Punjab,2012
+471,Male,Number_11to99,21.90,Goa,2012
+472,Male,Number_11to99,21.70,Kerela,2012
+473,Male,Number_11to99,32.00,Tamil Nadu,2012
+474,Male,Number_11to99,48.60,Pondicherry,2012
+475,Male,Number_11to99,20.80,Uttaranchal,2012
+476,Male,Number_11to99,20.30,Haryana,2012
+477,Male,Number_11to99,21.70,Rajasthan,2012
+478,Male,Number_11to99,22.90,Uttar Pradesh,2012
+479,Male,Number_11to99,24.60,India,2012
+480,Male,Subtraction,27.80,Jammu & Kashmir,2012
+481,Male,Subtraction,17.30,Bihar,2012
+482,Male,Subtraction,27.10,Sikkim,2012
+483,Male,Subtraction,25.20,Arunachal Pradesh,2012
+484,Male,Subtraction,28.70,Nagaland,2012
+485,Male,Subtraction,23.40,Manipur,2012
+486,Male,Subtraction,26.80,Mizoram,2012
+487,Male,Subtraction,28.30,Tripura,2012
+488,Male,Subtraction,23.40,Meghalaya,2012
+489,Male,Subtraction,24.60,Assam,2012
+490,Male,Subtraction,19.40,West Bengal,2012
+491,Male,Subtraction,20.40,Himachal Pradesh,2012
+492,Male,Subtraction,16.40,Jharkhand,2012
+493,Male,Subtraction,20.80,Orissa,2012
+494,Male,Subtraction,20.60,Chhattisgarh,2012
+495,Male,Subtraction,18.00,Madhya Pradesh,2012
+496,Male,Subtraction,24.40,Gujarat,2012
+497,Male,Subtraction,22.20,Daman and Diu,2012
+498,Male,Subtraction,19.70,Dadra and Nagar Haveli,2012
+499,Male,Subtraction,19.60,Maharashtra,2012
+500,Male,Subtraction,24.50,Andhra Pradesh,2012
+501,Male,Subtraction,29.00,Karnataka,2012
+502,Male,Subtraction,21.20,Punjab,2012
+503,Male,Subtraction,27.60,Goa,2012
+504,Male,Subtraction,22.80,Kerela,2012
+505,Male,Subtraction,27.90,Tamil Nadu,2012
+506,Male,Subtraction,22.80,Pondicherry,2012
+507,Male,Subtraction,18.10,Uttaranchal,2012
+508,Male,Subtraction,20.20,Haryana,2012
+509,Male,Subtraction,18.30,Rajasthan,2012
+510,Male,Subtraction,15.20,Uttar Pradesh,2012
+511,Male,Subtraction,20.10,India,2012
+512,Male,Division,22.80,Jammu & Kashmir,2012
+513,Male,Division,32.70,Bihar,2012
+514,Male,Division,41.40,Sikkim,2012
+515,Male,Division,41.60,Arunachal Pradesh,2012
+516,Male,Division,27.90,Nagaland,2012
+517,Male,Division,34.20,Manipur,2012
+518,Male,Division,33.00,Mizoram,2012
+519,Male,Division,25.30,Tripura,2012
+520,Male,Division,13.90,Meghalaya,2012
+521,Male,Division,16.40,Assam,2012
+522,Male,Division,28.70,West Bengal,2012
+523,Male,Division,44.20,Himachal Pradesh,2012
+524,Male,Division,28.90,Jharkhand,2012
+525,Male,Division,25.50,Orissa,2012
+526,Male,Division,17.50,Chhattisgarh,2012
+527,Male,Division,21.20,Madhya Pradesh,2012
+528,Male,Division,21.10,Gujarat,2012
+529,Male,Division,31.10,Daman and Diu,2012
+530,Male,Division,8.80,Dadra and Nagar Haveli,2012
+531,Male,Division,23.60,Maharashtra,2012
+532,Male,Division,36.80,Andhra Pradesh,2012
+533,Male,Division,23.60,Karnataka,2012
+534,Male,Division,36.90,Punjab,2012
+535,Male,Division,37.10,Goa,2012
+536,Male,Division,45.80,Kerela,2012
+537,Male,Division,22.20,Tamil Nadu,2012
+538,Male,Division,13.40,Pondicherry,2012
+539,Male,Division,37.30,Uttaranchal,2012
+540,Male,Division,39.80,Haryana,2012
+541,Male,Division,30.20,Rajasthan,2012
+542,Male,Division,23.10,Uttar Pradesh,2012
+543,Male,Division,27.60,India,2012
+544,Male,Total,100.00,Jammu & Kashmir,2012
+545,Male,Total,100.00,Bihar,2012
+546,Male,Total,100.00,Sikkim,2012
+547,Male,Total,100.00,Arunachal Pradesh,2012
+548,Male,Total,100.00,Nagaland,2012
+549,Male,Total,100.00,Manipur,2012
+550,Male,Total,100.00,Mizoram,2012
+551,Male,Total,100.00,Tripura,2012
+552,Male,Total,100.00,Meghalaya,2012
+553,Male,Total,100.00,Assam,2012
+554,Male,Total,100.00,West Bengal,2012
+555,Male,Total,100.00,Himachal Pradesh,2012
+556,Male,Total,100.00,Jharkhand,2012
+557,Male,Total,100.00,Orissa,2012
+558,Male,Total,100.00,Chhattisgarh,2012
+559,Male,Total,100.00,Madhya Pradesh,2012
+560,Male,Total,100.00,Gujarat,2012
+561,Male,Total,100.00,Daman and Diu,2012
+562,Male,Total,100.00,Dadra and Nagar Haveli,2012
+563,Male,Total,100.00,Maharashtra,2012
+564,Male,Total,100.00,Andhra Pradesh,2012
+565,Male,Total,100.00,Karnataka,2012
+566,Male,Total,100.00,Punjab,2012
+567,Male,Total,100.00,Goa,2012
+568,Male,Total,100.00,Kerela,2012
+569,Male,Total,100.00,Tamil Nadu,2012
+570,Male,Total,100.00,Pondicherry,2012
+571,Male,Total,100.00,Uttaranchal,2012
+572,Male,Total,100.00,Haryana,2012
+573,Male,Total,100.00,Rajasthan,2012
+574,Male,Total,100.00,Uttar Pradesh,2012
+575,Male,Total,100.00,India,2012
+0,All,Nothing,4.30,Jammu & Kashmir,2013
+1,All,Nothing,14.80,Bihar,2013
+2,All,Nothing,1.90,Sikkim,2013
+3,All,Nothing,5.60,Nagaland,2013
+4,All,Nothing,3.20,Manipur,2013
+5,All,Nothing,3.20,Mizoram,2013
+6,All,Nothing,4.10,Tripura,2013
+7,All,Nothing,6.60,Meghalaya,2013
+8,All,Nothing,11.20,Assam,2013
+9,All,Nothing,7.00,West Bengal,2013
+10,All,Nothing,2.60,Himachal Pradesh,2013
+11,All,Nothing,12.70,Jharkhand,2013
+12,All,Nothing,10.60,Orissa,2013
+13,All,Nothing,8.10,Chhattisgarh,2013
+14,All,Nothing,12.70,Madhya Pradesh,2013
+15,All,Nothing,9.60,Gujarat,2013
+16,All,Nothing,8.00,Maharashtra,2013
+17,All,Nothing,6.50,Andhra Pradesh,2013
+18,All,Nothing,4.30,Karnataka,2013
+19,All,Nothing,5.20,Punjab,2013
+20,All,Nothing,1.30,Kerela,2013
+21,All,Nothing,6.80,Tamil Nadu,2013
+22,All,Nothing,4.20,Pondicherry,2013
+23,All,Nothing,9.10,Uttaranchal,2013
+24,All,Nothing,5.60,Haryana,2013
+25,All,Nothing,11.60,Rajasthan,2013
+26,All,Nothing,13.80,Uttar Pradesh,2013
+27,All,Nothing,10.10,India,2013
+28,All,Number_1to9,11.70,Jammu & Kashmir,2013
+29,All,Number_1to9,19.70,Bihar,2013
+30,All,Number_1to9,6.20,Sikkim,2013
+31,All,Number_1to9,8.60,Nagaland,2013
+32,All,Number_1to9,7.50,Manipur,2013
+33,All,Number_1to9,10.00,Mizoram,2013
+34,All,Number_1to9,16.90,Tripura,2013
+35,All,Number_1to9,14.90,Meghalaya,2013
+36,All,Number_1to9,23.90,Assam,2013
+37,All,Number_1to9,18.50,West Bengal,2013
+38,All,Number_1to9,9.90,Himachal Pradesh,2013
+39,All,Number_1to9,21.20,Jharkhand,2013
+40,All,Number_1to9,17.80,Orissa,2013
+41,All,Number_1to9,23.80,Chhattisgarh,2013
+42,All,Number_1to9,24.90,Madhya Pradesh,2013
+43,All,Number_1to9,21.70,Gujarat,2013
+44,All,Number_1to9,20.20,Maharashtra,2013
+45,All,Number_1to9,9.20,Andhra Pradesh,2013
+46,All,Number_1to9,13.90,Karnataka,2013
+47,All,Number_1to9,12.20,Punjab,2013
+48,All,Number_1to9,6.90,Kerela,2013
+49,All,Number_1to9,9.70,Tamil Nadu,2013
+50,All,Number_1to9,10.90,Pondicherry,2013
+51,All,Number_1to9,17.90,Uttaranchal,2013
+52,All,Number_1to9,14.50,Haryana,2013
+53,All,Number_1to9,20.30,Rajasthan,2013
+54,All,Number_1to9,23.90,Uttar Pradesh,2013
+55,All,Number_1to9,18.80,India,2013
+56,All,Number_11to99,30.80,Jammu & Kashmir,2013
+57,All,Number_11to99,18.60,Bihar,2013
+58,All,Number_11to99,19.50,Sikkim,2013
+59,All,Number_11to99,34.50,Nagaland,2013
+60,All,Number_11to99,32.50,Manipur,2013
+61,All,Number_11to99,24.80,Mizoram,2013
+62,All,Number_11to99,34.40,Tripura,2013
+63,All,Number_11to99,39.40,Meghalaya,2013
+64,All,Number_11to99,28.90,Assam,2013
+65,All,Number_11to99,29.50,West Bengal,2013
+66,All,Number_11to99,22.40,Himachal Pradesh,2013
+67,All,Number_11to99,23.00,Jharkhand,2013
+68,All,Number_11to99,26.30,Orissa,2013
+69,All,Number_11to99,30.60,Chhattisgarh,2013
+70,All,Number_11to99,27.70,Madhya Pradesh,2013
+71,All,Number_11to99,28.70,Gujarat,2013
+72,All,Number_11to99,36.00,Maharashtra,2013
+73,All,Number_11to99,28.00,Andhra Pradesh,2013
+74,All,Number_11to99,30.10,Karnataka,2013
+75,All,Number_11to99,21.60,Punjab,2013
+76,All,Number_11to99,31.50,Kerela,2013
+77,All,Number_11to99,33.10,Tamil Nadu,2013
+78,All,Number_11to99,36.10,Pondicherry,2013
+79,All,Number_11to99,24.60,Uttaranchal,2013
+80,All,Number_11to99,20.00,Haryana,2013
+81,All,Number_11to99,22.00,Rajasthan,2013
+82,All,Number_11to99,22.30,Uttar Pradesh,2013
+83,All,Number_11to99,26.20,India,2013
+84,All,Subtraction,28.80,Jammu & Kashmir,2013
+85,All,Subtraction,14.70,Bihar,2013
+86,All,Subtraction,31.00,Sikkim,2013
+87,All,Subtraction,30.70,Nagaland,2013
+88,All,Subtraction,23.80,Manipur,2013
+89,All,Subtraction,27.20,Mizoram,2013
+90,All,Subtraction,24.50,Tripura,2013
+91,All,Subtraction,26.80,Meghalaya,2013
+92,All,Subtraction,22.90,Assam,2013
+93,All,Subtraction,18.70,West Bengal,2013
+94,All,Subtraction,22.70,Himachal Pradesh,2013
+95,All,Subtraction,17.10,Jharkhand,2013
+96,All,Subtraction,21.00,Orissa,2013
+97,All,Subtraction,18.20,Chhattisgarh,2013
+98,All,Subtraction,16.00,Madhya Pradesh,2013
+99,All,Subtraction,21.60,Gujarat,2013
+100,All,Subtraction,18.00,Maharashtra,2013
+101,All,Subtraction,24.70,Andhra Pradesh,2013
+102,All,Subtraction,27.80,Karnataka,2013
+103,All,Subtraction,22.50,Punjab,2013
+104,All,Subtraction,21.50,Kerela,2013
+105,All,Subtraction,26.80,Tamil Nadu,2013
+106,All,Subtraction,23.90,Pondicherry,2013
+107,All,Subtraction,18.60,Uttaranchal,2013
+108,All,Subtraction,18.90,Haryana,2013
+109,All,Subtraction,16.80,Rajasthan,2013
+110,All,Subtraction,15.90,Uttar Pradesh,2013
+111,All,Subtraction,19.20,India,2013
+112,All,Division,24.50,Jammu & Kashmir,2013
+113,All,Division,32.20,Bihar,2013
+114,All,Division,41.40,Sikkim,2013
+115,All,Division,20.60,Nagaland,2013
+116,All,Division,33.00,Manipur,2013
+117,All,Division,34.80,Mizoram,2013
+118,All,Division,20.10,Tripura,2013
+119,All,Division,12.30,Meghalaya,2013
+120,All,Division,13.00,Assam,2013
+121,All,Division,26.30,West Bengal,2013
+122,All,Division,42.40,Himachal Pradesh,2013
+123,All,Division,26.10,Jharkhand,2013
+124,All,Division,24.20,Orissa,2013
+125,All,Division,19.30,Chhattisgarh,2013
+126,All,Division,18.70,Madhya Pradesh,2013
+127,All,Division,18.40,Gujarat,2013
+128,All,Division,17.80,Maharashtra,2013
+129,All,Division,31.60,Andhra Pradesh,2013
+130,All,Division,23.90,Karnataka,2013
+131,All,Division,38.60,Punjab,2013
+132,All,Division,38.90,Kerela,2013
+133,All,Division,23.60,Tamil Nadu,2013
+134,All,Division,24.90,Pondicherry,2013
+135,All,Division,29.80,Uttaranchal,2013
+136,All,Division,41.00,Haryana,2013
+137,All,Division,29.30,Rajasthan,2013
+138,All,Division,24.00,Uttar Pradesh,2013
+139,All,Division,25.70,India,2013
+140,All,Total,100.00,Jammu & Kashmir,2013
+141,All,Total,100.00,Bihar,2013
+142,All,Total,100.00,Sikkim,2013
+143,All,Total,100.00,Nagaland,2013
+144,All,Total,100.00,Manipur,2013
+145,All,Total,100.00,Mizoram,2013
+146,All,Total,100.00,Tripura,2013
+147,All,Total,100.00,Meghalaya,2013
+148,All,Total,100.00,Assam,2013
+149,All,Total,100.00,West Bengal,2013
+150,All,Total,100.00,Himachal Pradesh,2013
+151,All,Total,100.00,Jharkhand,2013
+152,All,Total,100.00,Orissa,2013
+153,All,Total,100.00,Chhattisgarh,2013
+154,All,Total,100.00,Madhya Pradesh,2013
+155,All,Total,100.00,Gujarat,2013
+156,All,Total,100.00,Maharashtra,2013
+157,All,Total,100.00,Andhra Pradesh,2013
+158,All,Total,100.00,Karnataka,2013
+159,All,Total,100.00,Punjab,2013
+160,All,Total,100.00,Kerela,2013
+161,All,Total,100.00,Tamil Nadu,2013
+162,All,Total,100.00,Pondicherry,2013
+163,All,Total,100.00,Uttaranchal,2013
+164,All,Total,100.00,Haryana,2013
+165,All,Total,100.00,Rajasthan,2013
+166,All,Total,100.00,Uttar Pradesh,2013
+167,All,Total,100.00,India,2013
+168,Female,Nothing,3.80,Jammu & Kashmir,2013
+169,Female,Nothing,15.20,Bihar,2013
+170,Female,Nothing,1.60,Sikkim,2013
+171,Female,Nothing,5.50,Nagaland,2013
+172,Female,Nothing,2.70,Manipur,2013
+173,Female,Nothing,3.10,Mizoram,2013
+174,Female,Nothing,4.10,Tripura,2013
+175,Female,Nothing,6.40,Meghalaya,2013
+176,Female,Nothing,11.20,Assam,2013
+177,Female,Nothing,6.60,West Bengal,2013
+178,Female,Nothing,2.90,Himachal Pradesh,2013
+179,Female,Nothing,13.50,Jharkhand,2013
+180,Female,Nothing,10.10,Orissa,2013
+181,Female,Nothing,8.30,Chhattisgarh,2013
+182,Female,Nothing,13.10,Madhya Pradesh,2013
+183,Female,Nothing,9.90,Gujarat,2013
+184,Female,Nothing,7.70,Maharashtra,2013
+185,Female,Nothing,6.00,Andhra Pradesh,2013
+186,Female,Nothing,4.20,Karnataka,2013
+187,Female,Nothing,5.10,Punjab,2013
+188,Female,Nothing,1.10,Kerela,2013
+189,Female,Nothing,6.30,Tamil Nadu,2013
+190,Female,Nothing,4.90,Pondicherry,2013
+191,Female,Nothing,10.40,Uttaranchal,2013
+192,Female,Nothing,6.00,Haryana,2013
+193,Female,Nothing,12.60,Rajasthan,2013
+194,Female,Nothing,14.80,Uttar Pradesh,2013
+195,Female,Nothing,10.30,India,2013
+196,Female,Number_1to9,11.80,Jammu & Kashmir,2013
+197,Female,Number_1to9,21.10,Bihar,2013
+198,Female,Number_1to9,6.20,Sikkim,2013
+199,Female,Number_1to9,8.90,Nagaland,2013
+200,Female,Number_1to9,7.70,Manipur,2013
+201,Female,Number_1to9,10.50,Mizoram,2013
+202,Female,Number_1to9,17.00,Tripura,2013
+203,Female,Number_1to9,14.10,Meghalaya,2013
+204,Female,Number_1to9,24.90,Assam,2013
+205,Female,Number_1to9,18.60,West Bengal,2013
+206,Female,Number_1to9,10.10,Himachal Pradesh,2013
+207,Female,Number_1to9,22.40,Jharkhand,2013
+208,Female,Number_1to9,18.40,Orissa,2013
+209,Female,Number_1to9,25.10,Chhattisgarh,2013
+210,Female,Number_1to9,26.30,Madhya Pradesh,2013
+211,Female,Number_1to9,22.50,Gujarat,2013
+212,Female,Number_1to9,20.40,Maharashtra,2013
+213,Female,Number_1to9,8.60,Andhra Pradesh,2013
+214,Female,Number_1to9,13.50,Karnataka,2013
+215,Female,Number_1to9,12.00,Punjab,2013
+216,Female,Number_1to9,6.20,Kerela,2013
+217,Female,Number_1to9,9.40,Tamil Nadu,2013
+218,Female,Number_1to9,11.90,Pondicherry,2013
+219,Female,Number_1to9,19.20,Uttaranchal,2013
+220,Female,Number_1to9,15.00,Haryana,2013
+221,Female,Number_1to9,22.00,Rajasthan,2013
+222,Female,Number_1to9,26.60,Uttar Pradesh,2013
+223,Female,Number_1to9,19.70,India,2013
+224,Female,Number_11to99,32.10,Jammu & Kashmir,2013
+225,Female,Number_11to99,19.20,Bihar,2013
+226,Female,Number_11to99,20.70,Sikkim,2013
+227,Female,Number_11to99,34.70,Nagaland,2013
+228,Female,Number_11to99,33.60,Manipur,2013
+229,Female,Number_11to99,24.80,Mizoram,2013
+230,Female,Number_11to99,33.50,Tripura,2013
+231,Female,Number_11to99,39.70,Meghalaya,2013
+232,Female,Number_11to99,28.70,Assam,2013
+233,Female,Number_11to99,31.50,West Bengal,2013
+234,Female,Number_11to99,21.20,Himachal Pradesh,2013
+235,Female,Number_11to99,22.60,Jharkhand,2013
+236,Female,Number_11to99,26.70,Orissa,2013
+237,Female,Number_11to99,29.30,Chhattisgarh,2013
+238,Female,Number_11to99,27.70,Madhya Pradesh,2013
+239,Female,Number_11to99,28.30,Gujarat,2013
+240,Female,Number_11to99,35.80,Maharashtra,2013
+241,Female,Number_11to99,27.40,Andhra Pradesh,2013
+242,Female,Number_11to99,28.90,Karnataka,2013
+243,Female,Number_11to99,20.70,Punjab,2013
+244,Female,Number_11to99,28.90,Kerela,2013
+245,Female,Number_11to99,32.00,Tamil Nadu,2013
+246,Female,Number_11to99,35.60,Pondicherry,2013
+247,Female,Number_11to99,25.20,Uttaranchal,2013
+248,Female,Number_11to99,19.20,Haryana,2013
+249,Female,Number_11to99,22.20,Rajasthan,2013
+250,Female,Number_11to99,23.20,Uttar Pradesh,2013
+251,Female,Number_11to99,26.30,India,2013
+252,Female,Subtraction,29.40,Jammu & Kashmir,2013
+253,Female,Subtraction,15.30,Bihar,2013
+254,Female,Subtraction,30.10,Sikkim,2013
+255,Female,Subtraction,30.10,Nagaland,2013
+256,Female,Subtraction,23.60,Manipur,2013
+257,Female,Subtraction,27.00,Mizoram,2013
+258,Female,Subtraction,25.40,Tripura,2013
+259,Female,Subtraction,27.80,Meghalaya,2013
+260,Female,Subtraction,23.20,Assam,2013
+261,Female,Subtraction,18.90,West Bengal,2013
+262,Female,Subtraction,23.70,Himachal Pradesh,2013
+263,Female,Subtraction,17.20,Jharkhand,2013
+264,Female,Subtraction,20.70,Orissa,2013
+265,Female,Subtraction,18.40,Chhattisgarh,2013
+266,Female,Subtraction,15.90,Madhya Pradesh,2013
+267,Female,Subtraction,21.10,Gujarat,2013
+268,Female,Subtraction,18.10,Maharashtra,2013
+269,Female,Subtraction,25.80,Andhra Pradesh,2013
+270,Female,Subtraction,28.30,Karnataka,2013
+271,Female,Subtraction,22.30,Punjab,2013
+272,Female,Subtraction,21.90,Kerela,2013
+273,Female,Subtraction,27.60,Tamil Nadu,2013
+274,Female,Subtraction,22.20,Pondicherry,2013
+275,Female,Subtraction,19.10,Uttaranchal,2013
+276,Female,Subtraction,19.20,Haryana,2013
+277,Female,Subtraction,16.40,Rajasthan,2013
+278,Female,Subtraction,15.90,Uttar Pradesh,2013
+279,Female,Subtraction,19.50,India,2013
+280,Female,Division,22.90,Jammu & Kashmir,2013
+281,Female,Division,29.20,Bihar,2013
+282,Female,Division,41.40,Sikkim,2013
+283,Female,Division,20.90,Nagaland,2013
+284,Female,Division,32.50,Manipur,2013
+285,Female,Division,34.50,Mizoram,2013
+286,Female,Division,20.00,Tripura,2013
+287,Female,Division,12.00,Meghalaya,2013
+288,Female,Division,12.10,Assam,2013
+289,Female,Division,24.40,West Bengal,2013
+290,Female,Division,42.20,Himachal Pradesh,2013
+291,Female,Division,24.30,Jharkhand,2013
+292,Female,Division,24.10,Orissa,2013
+293,Female,Division,19.00,Chhattisgarh,2013
+294,Female,Division,17.00,Madhya Pradesh,2013
+295,Female,Division,18.20,Gujarat,2013
+296,Female,Division,17.90,Maharashtra,2013
+297,Female,Division,32.20,Andhra Pradesh,2013
+298,Female,Division,25.00,Karnataka,2013
+299,Female,Division,39.80,Punjab,2013
+300,Female,Division,41.80,Kerela,2013
+301,Female,Division,24.70,Tamil Nadu,2013
+302,Female,Division,25.50,Pondicherry,2013
+303,Female,Division,26.20,Uttaranchal,2013
+304,Female,Division,40.70,Haryana,2013
+305,Female,Division,26.70,Rajasthan,2013
+306,Female,Division,19.60,Uttar Pradesh,2013
+307,Female,Division,24.20,India,2013
+308,Female,Total,100.00,Jammu & Kashmir,2013
+309,Female,Total,100.00,Bihar,2013
+310,Female,Total,100.00,Sikkim,2013
+311,Female,Total,100.00,Nagaland,2013
+312,Female,Total,100.00,Manipur,2013
+313,Female,Total,100.00,Mizoram,2013
+314,Female,Total,100.00,Tripura,2013
+315,Female,Total,100.00,Meghalaya,2013
+316,Female,Total,100.00,Assam,2013
+317,Female,Total,100.00,West Bengal,2013
+318,Female,Total,100.00,Himachal Pradesh,2013
+319,Female,Total,100.00,Jharkhand,2013
+320,Female,Total,100.00,Orissa,2013
+321,Female,Total,100.00,Chhattisgarh,2013
+322,Female,Total,100.00,Madhya Pradesh,2013
+323,Female,Total,100.00,Gujarat,2013
+324,Female,Total,100.00,Maharashtra,2013
+325,Female,Total,100.00,Andhra Pradesh,2013
+326,Female,Total,100.00,Karnataka,2013
+327,Female,Total,100.00,Punjab,2013
+328,Female,Total,100.00,Kerela,2013
+329,Female,Total,100.00,Tamil Nadu,2013
+330,Female,Total,100.00,Pondicherry,2013
+331,Female,Total,100.00,Uttaranchal,2013
+332,Female,Total,100.00,Haryana,2013
+333,Female,Total,100.00,Rajasthan,2013
+334,Female,Total,100.00,Uttar Pradesh,2013
+335,Female,Total,100.00,India,2013
+336,Male,Nothing,4.80,Jammu & Kashmir,2013
+337,Male,Nothing,14.50,Bihar,2013
+338,Male,Nothing,2.20,Sikkim,2013
+339,Male,Nothing,5.70,Nagaland,2013
+340,Male,Nothing,3.70,Manipur,2013
+341,Male,Nothing,3.20,Mizoram,2013
+342,Male,Nothing,4.20,Tripura,2013
+343,Male,Nothing,6.80,Meghalaya,2013
+344,Male,Nothing,11.30,Assam,2013
+345,Male,Nothing,7.40,West Bengal,2013
+346,Male,Nothing,2.40,Himachal Pradesh,2013
+347,Male,Nothing,11.90,Jharkhand,2013
+348,Male,Nothing,11.10,Orissa,2013
+349,Male,Nothing,8.00,Chhattisgarh,2013
+350,Male,Nothing,12.40,Madhya Pradesh,2013
+351,Male,Nothing,9.40,Gujarat,2013
+352,Male,Nothing,8.30,Maharashtra,2013
+353,Male,Nothing,6.90,Andhra Pradesh,2013
+354,Male,Nothing,4.40,Karnataka,2013
+355,Male,Nothing,5.40,Punjab,2013
+356,Male,Nothing,1.40,Kerela,2013
+357,Male,Nothing,7.30,Tamil Nadu,2013
+358,Male,Nothing,3.50,Pondicherry,2013
+359,Male,Nothing,7.90,Uttaranchal,2013
+360,Male,Nothing,5.20,Haryana,2013
+361,Male,Nothing,10.70,Rajasthan,2013
+362,Male,Nothing,13.00,Uttar Pradesh,2013
+363,Male,Nothing,10.00,India,2013
+364,Male,Number_1to9,11.50,Jammu & Kashmir,2013
+365,Male,Number_1to9,18.30,Bihar,2013
+366,Male,Number_1to9,6.30,Sikkim,2013
+367,Male,Number_1to9,8.30,Nagaland,2013
+368,Male,Number_1to9,7.30,Manipur,2013
+369,Male,Number_1to9,9.60,Mizoram,2013
+370,Male,Number_1to9,16.80,Tripura,2013
+371,Male,Number_1to9,15.70,Meghalaya,2013
+372,Male,Number_1to9,23.00,Assam,2013
+373,Male,Number_1to9,18.40,West Bengal,2013
+374,Male,Number_1to9,9.80,Himachal Pradesh,2013
+375,Male,Number_1to9,20.00,Jharkhand,2013
+376,Male,Number_1to9,17.30,Orissa,2013
+377,Male,Number_1to9,22.40,Chhattisgarh,2013
+378,Male,Number_1to9,23.60,Madhya Pradesh,2013
+379,Male,Number_1to9,21.00,Gujarat,2013
+380,Male,Number_1to9,20.00,Maharashtra,2013
+381,Male,Number_1to9,9.70,Andhra Pradesh,2013
+382,Male,Number_1to9,14.20,Karnataka,2013
+383,Male,Number_1to9,12.30,Punjab,2013
+384,Male,Number_1to9,7.50,Kerela,2013
+385,Male,Number_1to9,10.10,Tamil Nadu,2013
+386,Male,Number_1to9,9.90,Pondicherry,2013
+387,Male,Number_1to9,16.60,Uttaranchal,2013
+388,Male,Number_1to9,14.10,Haryana,2013
+389,Male,Number_1to9,18.80,Rajasthan,2013
+390,Male,Number_1to9,21.40,Uttar Pradesh,2013
+391,Male,Number_1to9,17.90,India,2013
+392,Male,Number_11to99,29.50,Jammu & Kashmir,2013
+393,Male,Number_11to99,17.90,Bihar,2013
+394,Male,Number_11to99,18.20,Sikkim,2013
+395,Male,Number_11to99,34.30,Nagaland,2013
+396,Male,Number_11to99,31.40,Manipur,2013
+397,Male,Number_11to99,24.80,Mizoram,2013
+398,Male,Number_11to99,35.20,Tripura,2013
+399,Male,Number_11to99,39.20,Meghalaya,2013
+400,Male,Number_11to99,29.20,Assam,2013
+401,Male,Number_11to99,27.40,West Bengal,2013
+402,Male,Number_11to99,23.50,Himachal Pradesh,2013
+403,Male,Number_11to99,23.30,Jharkhand,2013
+404,Male,Number_11to99,25.90,Orissa,2013
+405,Male,Number_11to99,32.00,Chhattisgarh,2013
+406,Male,Number_11to99,27.60,Madhya Pradesh,2013
+407,Male,Number_11to99,29.10,Gujarat,2013
+408,Male,Number_11to99,36.10,Maharashtra,2013
+409,Male,Number_11to99,28.60,Andhra Pradesh,2013
+410,Male,Number_11to99,31.30,Karnataka,2013
+411,Male,Number_11to99,22.30,Punjab,2013
+412,Male,Number_11to99,34.00,Kerela,2013
+413,Male,Number_11to99,34.20,Tamil Nadu,2013
+414,Male,Number_11to99,36.70,Pondicherry,2013
+415,Male,Number_11to99,24.10,Uttaranchal,2013
+416,Male,Number_11to99,20.80,Haryana,2013
+417,Male,Number_11to99,21.90,Rajasthan,2013
+418,Male,Number_11to99,21.60,Uttar Pradesh,2013
+419,Male,Number_11to99,26.00,India,2013
+420,Male,Subtraction,28.20,Jammu & Kashmir,2013
+421,Male,Subtraction,14.20,Bihar,2013
+422,Male,Subtraction,32.00,Sikkim,2013
+423,Male,Subtraction,31.30,Nagaland,2013
+424,Male,Subtraction,24.00,Manipur,2013
+425,Male,Subtraction,27.40,Mizoram,2013
+426,Male,Subtraction,23.70,Tripura,2013
+427,Male,Subtraction,25.80,Meghalaya,2013
+428,Male,Subtraction,22.60,Assam,2013
+429,Male,Subtraction,18.40,West Bengal,2013
+430,Male,Subtraction,21.80,Himachal Pradesh,2013
+431,Male,Subtraction,17.00,Jharkhand,2013
+432,Male,Subtraction,21.40,Orissa,2013
+433,Male,Subtraction,17.90,Chhattisgarh,2013
+434,Male,Subtraction,16.10,Madhya Pradesh,2013
+435,Male,Subtraction,22.00,Gujarat,2013
+436,Male,Subtraction,17.80,Maharashtra,2013
+437,Male,Subtraction,23.70,Andhra Pradesh,2013
+438,Male,Subtraction,27.30,Karnataka,2013
+439,Male,Subtraction,22.60,Punjab,2013
+440,Male,Subtraction,21.10,Kerela,2013
+441,Male,Subtraction,26.00,Tamil Nadu,2013
+442,Male,Subtraction,25.70,Pondicherry,2013
+443,Male,Subtraction,18.20,Uttaranchal,2013
+444,Male,Subtraction,18.60,Haryana,2013
+445,Male,Subtraction,17.00,Rajasthan,2013
+446,Male,Subtraction,16.00,Uttar Pradesh,2013
+447,Male,Subtraction,19.00,India,2013
+448,Male,Division,26.00,Jammu & Kashmir,2013
+449,Male,Division,35.20,Bihar,2013
+450,Male,Division,41.30,Sikkim,2013
+451,Male,Division,20.40,Nagaland,2013
+452,Male,Division,33.60,Manipur,2013
+453,Male,Division,35.00,Mizoram,2013
+454,Male,Division,20.20,Tripura,2013
+455,Male,Division,12.60,Meghalaya,2013
+456,Male,Division,13.90,Assam,2013
+457,Male,Division,28.40,West Bengal,2013
+458,Male,Division,42.60,Himachal Pradesh,2013
+459,Male,Division,27.70,Jharkhand,2013
+460,Male,Division,24.20,Orissa,2013
+461,Male,Division,19.70,Chhattisgarh,2013
+462,Male,Division,20.30,Madhya Pradesh,2013
+463,Male,Division,18.60,Gujarat,2013
+464,Male,Division,17.80,Maharashtra,2013
+465,Male,Division,31.10,Andhra Pradesh,2013
+466,Male,Division,22.80,Karnataka,2013
+467,Male,Division,37.50,Punjab,2013
+468,Male,Division,36.00,Kerela,2013
+469,Male,Division,22.50,Tamil Nadu,2013
+470,Male,Division,24.20,Pondicherry,2013
+471,Male,Division,33.20,Uttaranchal,2013
+472,Male,Division,41.30,Haryana,2013
+473,Male,Division,31.60,Rajasthan,2013
+474,Male,Division,28.00,Uttar Pradesh,2013
+475,Male,Division,27.10,India,2013
+476,Male,Total,100.00,Jammu & Kashmir,2013
+477,Male,Total,100.00,Bihar,2013
+478,Male,Total,100.00,Sikkim,2013
+479,Male,Total,100.00,Nagaland,2013
+480,Male,Total,100.00,Manipur,2013
+481,Male,Total,100.00,Mizoram,2013
+482,Male,Total,100.00,Tripura,2013
+483,Male,Total,100.00,Meghalaya,2013
+484,Male,Total,100.00,Assam,2013
+485,Male,Total,100.00,West Bengal,2013
+486,Male,Total,100.00,Himachal Pradesh,2013
+487,Male,Total,100.00,Jharkhand,2013
+488,Male,Total,100.00,Orissa,2013
+489,Male,Total,100.00,Chhattisgarh,2013
+490,Male,Total,100.00,Madhya Pradesh,2013
+491,Male,Total,100.00,Gujarat,2013
+492,Male,Total,100.00,Maharashtra,2013
+493,Male,Total,100.00,Andhra Pradesh,2013
+494,Male,Total,100.00,Karnataka,2013
+495,Male,Total,100.00,Punjab,2013
+496,Male,Total,100.00,Kerela,2013
+497,Male,Total,100.00,Tamil Nadu,2013
+498,Male,Total,100.00,Pondicherry,2013
+499,Male,Total,100.00,Uttaranchal,2013
+500,Male,Total,100.00,Haryana,2013
+501,Male,Total,100.00,Rajasthan,2013
+502,Male,Total,100.00,Uttar Pradesh,2013
+503,Male,Total,100.00,India,2013

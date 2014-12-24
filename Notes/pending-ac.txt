@@ -1,0 +1,20 @@
+
+* Look at clustering of trends of scores.  Possibly taking moving
+  averages.
+
+* Correlation between girl scores and other women-related indicators:
+  sex ratio, etc.
+
+* Can we create a decision tree to predict trends?  What are the most
+  important indicators?
+
+* Why are smaller state/territory scores more volatile?  Does this say
+  something about ASER?  Can we validate the volatility based on
+  number of districts in each state?
+
+* Verify All India figures are the average of districts and not the
+  average of states?
+
+* Papers exploring Kerala and HP?  Why HP?
+
+* Correlation with state GDP, unemployment levels, etc?

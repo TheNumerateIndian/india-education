@@ -1,0 +1,62 @@
+
+Notes on "Reforming Primary and Secondary Schooling" by Anjini Kochar
+=====================================================================
+
+Summary:  State of learning is dismal.  ASER tests this every year.
+Teacher union politics prevents teacher accountability.  Unclear which
+policies will improve learning.  (For instance, privatisation of
+schools in Chile did not help.)  Lots of data is available, which may
+be helpful.
+
+Notes:
+
+* Learning (accumulation of congnitive skills) is weakly correlated to
+years of completed schooling.
+
+* India has very poor scores in learning.  These are worse for weaker
+  sections (women, SC/STs)
+
+* Scores do not change much across grades.  (Number of class V
+  students who can do what class IV students are supposed to is not
+  much higher than class IV students --- both are very low.)
+
+* After independence the focus was on just building schools near every
+  village.  This was mostly accomplished by 2010.
+
+* The next focus was on providing good facilities (drinking water,
+  toilets) and low student teacher ratios.  Data on this is collected
+  through the DISE program.
+
+* The third focus was on decentralization, giving autonomy to local
+  gram panchayats over schools.  (Started in 1993.)  To measure the
+  effect of this more detailed monitoring is required.  So far only
+  Karnataka has a reasonable monitoring system.
+
+* To increase demand for schools, mid-days meal scheme was introduced
+  in 1995.
+
+* The chapter has references to papers what do some non-trivial
+  analysis to see how school location policies interact with
+  prevailing caste divisions.
+
+* North India has great shortage of teachers.  So temporary/contract
+  teachers are often hired.
+
+* Karnataka and TN are experimenting with activity-based learning
+  which mitigates the problems of multi-grade classrooms.
+
+* ASER is doing great work in measuring learning.
+
+* Karnataka's Prajayantra is doing good working in monitoring and
+  intervention.
+
+* Teacher unions and their political clout prevent teacher
+  accountability.
+
+* SchoolTELLS surveys have data comparing public and private schools.
+
+* School data should be studied along with National Council of Applied
+  Economic Research's Human Development Studies Data.
+
+* Right of Children to Free and Compulsory Education Act (2010) may be
+  helpful in pushing good policies.
